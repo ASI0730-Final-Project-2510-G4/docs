@@ -89,4 +89,15 @@ Inicialmente, la aplicación puede ser gratuita para los usuarios, siendo autosu
 - Para el cliente: navegar, comparar perfiles y comunicarse directamente con el profesional.
 
 
+#### Assumptions
+- Los profesionales independientes están buscando visibilidad y más clientes.
+
+- Los clientes tienen dificultades para encontrar profesionales confiables de manera rápida y segura para una tarea específica.
+
+- Una aplicación web que conecte directamente ambas partes puede facilitar esta interacción.
+
+- Los usuarios valoran ver los trabajos del profesional que quieren contratar, así como calificarlos y ver las reseñas de los demás.
+
+- Los usuarios estarían dispuestos a usar esta aplicación desde un smartphone o laptop.
+
 
