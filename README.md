@@ -89,6 +89,9 @@ Inicialmente, la aplicación puede ser gratuita para los usuarios, siendo autosu
 - Para el cliente: navegar, comparar perfiles y comunicarse directamente con el profesional.
 
 
+#### Lean Ux Problem Statements
+Muchos profesionales independientes egresados de carreras técnicas o universitarias enfrentan dificultades para ingresar al mercado laboral formal, debido a la falta de visibilidad, oportunidades y medios accesibles para ofrecer sus servicios. Por otro lado, los clientes encuentran complicado contactar a profesionales de calidad que no operan en locales físicos.
+
 #### Assumptions
 - Los profesionales independientes están buscando visibilidad y más clientes.
 
@@ -99,5 +102,3 @@ Inicialmente, la aplicación puede ser gratuita para los usuarios, siendo autosu
 - Los usuarios valoran ver los trabajos del profesional que quieren contratar, así como calificarlos y ver las reseñas de los demás.
 
 - Los usuarios estarían dispuestos a usar esta aplicación desde un smartphone o laptop.
-
-
