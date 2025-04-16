@@ -353,3 +353,22 @@ Muchos profesionales independientes egresados de carreras técnicas o universita
 - Los usuarios valoran ver los trabajos del profesional que quieren contratar, así como calificarlos y ver las reseñas de los demás.
 
 - Los usuarios estarían dispuestos a usar esta aplicación desde un smartphone o laptop.
+
+#### Lean Ux Problem Statements
+- Creemos que los diseñadores necesitan una plataforma para mostrar su portafolio y atraer clientes fácilmente
+porque actualmente no cuentan con medios accesibles ni visibilidad suficiente para ofrecer sus servicios.
+Tendremos éxito si al menos el 60% de los diseñadores registrados completan su perfil y suben su portafolio en la primera semana de uso.
+
+- Creemos que los clientes que requieren servicios especializados de diseño necesitan una forma confiable y rápida de encontrar profesionales calificados
+porque actualmente no saben dónde buscar o no confían en servicios sin referencias.
+Tendremos éxito si al menos el 50% de los clientes contactan a un profesional en menos de 10 minutos desde su registro en la plataforma.
+
+- Creemos que permitir el contacto directo entre cliente y diseñador a través de un chat necesita ser una funcionalidad clave
+porque los usuarios quieren coordinar detalles de manera inmediata sin intermediarios.
+Tendremos éxito si el 70% de las contrataciones se inician a través del chat interno de la plataforma.
+
+- Creemos que los clientes
+necesitan un sistema de calificación después de cada servicio
+porque eso les ayuda a generar confianza en la calidad del trabajo y tomar mejores decisiones.
+Tendremos éxito si al menos el 80% de los servicios completados terminan con una calificación del cliente.
+
