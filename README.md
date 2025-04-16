@@ -28,7 +28,7 @@ Product:
 ### **Integrantes:**
 
 - Valentino Sandoval Paiva - u20211a962
--
+- Alexander Paolo Justo Yauricasa - u20191c054
 -
 -
 
@@ -353,3 +353,46 @@ Muchos profesionales independientes egresados de carreras técnicas o universita
 - Los usuarios valoran ver los trabajos del profesional que quieren contratar, así como calificarlos y ver las reseñas de los demás.
 
 - Los usuarios estarían dispuestos a usar esta aplicación desde un smartphone o laptop.
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping.
+
+**Segmento 1: Diseñador de Interioes**  
+<img src="./assets/ToBe_Map_UP1.png" alt="Imagen To-Be Scenario Map del User Persona 1" style="width:80%">
+
+**Segmento 2: Usuarios**
+<img src="./assets/ToBe_Map_UP2.png" alt="Imagen To-Be Scenario Map del User Persona 2" style="width:80%">
+
+## 3.2. User Stories.
+
+| Epic ID | Título de Épica              | Descripción de la épica                                                                                                              | Número de User Stories asociados |
+|---------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Epic 1  | Landing Page | Como usuario, deseo un landing page que presente información sobre el servicio y sus características principales. |1|
+| Epic 2  | Gestión de Usuarios | Como usuario, deseo poder realizar operaciones relacionadas con la gestión de mi cuenta, incluyendo el registro, inicio de sesión, configuración de perfil y cierre de sesión. |2|
+| Epic 3  | Gestión proyectos | Como usuario, deseo tener acceso a funcionalidades relacionadas con la gestión de los proyectos incluyendo la creación, interacción, edición y eliminación. |3|
+| Epic 4  | Gestión de contrato | Como usuario, deseo contratar a un diseñador para un proyecto personal. |4|
+
+
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación  | Relacionado con (Epic ID) |
+|-----------------|--------------|---------------|-------------|------|
+| HU01 | Creación de la Sección "About" | Como cliente, quiero una sección que presente información sobre el servicio para comprender mejor la aplicación. | <br>Given el usuario se encuentra en el landing page.<br>When el usuario navega a la sección "About"<br>Then se muestra información sobre el servicio y su propósito. <br><br>| 1 |
+| HU02 | Creación de la Sección "Features" | Como cliente, quiero una sección que destaque las características principales de la aplicación. | <br>Given el usuario se encuentra en la sección "About"<br>When el usuario navega a la sección "Features".<br>Then se muestran las características principales de la aplicación. <br><br>| 1 |
+| HU03 | Creación de la Sección "How It Works" | Como cliente, quiero una sección que explique cómo funciona el servicio para comprender los pasos necesarios para utilizar la aplicación | <br>Given el usuario se encuentra en el landing page.<br>When el usuario navega a la sección "How It Works".<br>Then se muestra información sobre cómo funciona el servicio y los pasos a seguir. <br><br>| 1 |
+| HU04 | Creación de la Sección "frequently asked questions" | Como cliente, quiero una sección que muestre las preguntas frecuentes de los usuarios para tener una ayuda de los usuarios actuales. | <br>Given el usuario se encuentra en el landing page.<br>When el usuario navega a la sección "preguntas frecuentes".<br>Then se muestran las preguntas frecuentes de los usuarios. <br><br>| 1 |
+| HU05 | Creación de la Sección de Footer | Como cliente, quiero un footer en el landing page para acceder a enlaces adicionales y a las redes sociales de la aplicación. | <br>Given el usuario se encuentra en el landing page.<br>When el usuario desplaza hacia abajo hasta el footer.<br>Then Then se muestran enlaces adicionales y enlaces a las redes sociales de la aplicación. <br><br>| 1 |
+| HU06 | Then se muestran enlaces adicionales y enlaces a las redes sociales de la aplicación. | Como cliente, quiero una sección que muestre los socios o colaboradores de la aplicación para conocer las asociaciones relevantes. | <br>Given el usuario se encuentra en el landing page.<br>When When el usuario navega a la sección de socios.<br>Then se muestran los socios o colaboradores de la aplicación. <br><br>| 1 |
+| HU07 | Registro de Cuentas | Como usuario nuevo, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades disponibles | **Scenario: Registro Exitoso**<br>Given que soy un usuario nuevo<br>When completo el formulario de registro con información válida<br>Then se crea una cuenta para mí en la plataforma<br>And recibo un correo electrónico de confirmación de registro<br><br> **Scenario: Validación de Datos**<br>Given que soy un usuario nuevo<br>When intento registrarme con información incompleta o incorrecta<br>Then se muestran mensajes de error indicando los campos que requieren corrección<br>And no se crea la cuenta hasta que se proporcionen datos válidos<br><br>| 2 |
+| HU08 | Inicio de Sesión | Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mi cuenta y mis datos. | **Scenario: Inicio de Sesión Exitoso**<br>Given que soy un usuario registrado<br>When ingreso mi correo electrónico y contraseña correctos<br>Then accedo a mi cuenta en la plataforma <br><br>**Scenario: Contraseña Incorrecta**<br>Given que soy un usuario registrado <br>When ingreso mi correo electrónico y una contraseña incorrecta<br>Then se muestra un mensaje de error indicando que la contraseña es incorrecta<br>And no puedo acceder a mi cuenta hasta que ingrese la contraseña correcta<br><br>| 2 |
+| HU09 | Configuración de Perfil | Como usuario registrado, quiero poder configurar mi perfil para personalizar mi experiencia en la plataforma. | **Scenario: Edición de Perfil**<br>Given que soy un usuario registrado<br>When accedo a la sección de configuración de perfil<br>Then puedo editar información como mi nombre, foto de perfil, información de contacto, etc. <br><br> **Scenario: Cambio de Contraseña**<br>Given que soy un usuario registrado<br>When accedo a la sección de configuración de perfil <br>And selecciono la opción de cambiar contraseña <br>Then puedo actualizar mi contraseña ingresando la contraseña actual y la nueva contraseña <br><br>| 2 |
+| HU10 | Cierre de Sesión | Como usuario, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad. | **Scenario: Cierre de Sesión Exitoso**<br>Given que soy un usuario registrado y he iniciado sesión en la plataforma<br>When selecciono la opción de cerrar sesión<br>Then mi sesión se cierra y soy redirigido a la página de inicio de sesión <br><br> **Scenario: Acceso a Funcionalidades Limitadas sin Iniciar Sesión**<br>Given que soy un usuario no registrado o no he iniciado sesión<br>When intento acceder a funcionalidades que requieren inicio de sesión<br>Then se me redirige a la página de inicio de sesión antes de poder acceder a esas funcionalidades <br><br>| 2 |
+| HU11 | Subir proyecto del diseñador | Como usuario subir mi trabajo con todas sus características | <br>Given que soy un usuario<br>When seleccione la opción de subir trabajos<br>Then aparece un apartado donde puedo colocar la imágenes, título, descripción y categorías <br><br>| 3 |
+| HU12 | Borrar proyecto del diseñador | Como usuario deseo borrar un trabajo que no me gusta | <br>Given Given que soy un usuario <br>When seleccione el botón de borrar trabajo<br>Then el proyecto desaparece del apartado de sus proyectos <br><br>| 3 |
+| HU13 | Editar proyecto del diseñador | Como usuario deseo editar una o algunas características de un trabajo | <br>Given que soy un usuario <br>When seleccione el botón de editar trabajo<br>Then aparece un apartado de edición donde puedo  cambiar el título, descripción, etiquetas y/o fotos <br><br>| 3 |
+| HU14 | Interactuar en comentarios | Como usuario deseo interactuar como comentarios de un proyecto | **Scenario: responder un comentarios**<br>Given que soy un usuario <br>When voy al apartado de comentario<br>Then quiero responder un mensaje <br><br>**Scenario: comentar en un post**<br>Given que soy un usuario <br>When voy al apartado de comentario<br>Then escribo el un comentario en el post<br>And <br><br>| 3 |
+| HU15 | Filtrar proyecto del diseñador | Como usuario deseo filtrar los proyectos | <br>Given que soy un usuario <br>When voy al apartado de filtros<br>And elijo las etiquetas que deseo filtrar <br>Then me apareceran todos los proyectos con estas características <br><br>| 3 |
+| HU16 | Calificar publicación | Como usuario deseo puntuar un proyecto que me guste | **Scenario:**<br>Given que soy un usuario<br>When vea un proyecto que me guste<br>Then quiero calificarlo el proyecto del 1 al 5 <br><br>| 3 |
+| HU17 | Contratar a un diseñador | Como usuario deseo generar un contratar | <br>Given Como usuario deseo generar un contratar<br>When le doy al boton contratar<br>Then me dirigirán a un apartado donde pueda hablar con el diseñador de mi preferencia <br><br>| 4 |
+| HU18 | Cancelar un contrato | Como usuario deseo eliminar un contratar | <br>Given que soy un usuario que ya no desea optar por el diseñador<br>When presione el botón de eliminar en el apartado de contratos<br>Then el contrato desaparece<br>And <br><br>| 4 |
+| HU19 | Hablar con el diseñador | Como usuario deseo hablar con él diseñar | **Scenario: contactar directamente al diseñador**<br>Given que soy un usuario <br>When yo presione contratar<br>Then aparezca el numero y correo electrónico del diseñador<br><br> **Scenario: Contactar por mensajes de texto**<br>Given que soy un usuario <br>When yo presione el botón contratar<br>Then aparezca un cuadro donde podria enviarle mensajes directamente al diseñador <br><br>| 4 |
