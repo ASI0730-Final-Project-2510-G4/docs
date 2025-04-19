@@ -354,6 +354,37 @@ Muchos profesionales independientes egresados de carreras técnicas o universita
 
 - Los usuarios estarían dispuestos a usar esta aplicación desde un smartphone o laptop.
 
+#### Lean Ux Problem Statements
+- Creemos que los diseñadores necesitan una plataforma para mostrar su portafolio y atraer clientes fácilmente
+porque actualmente no cuentan con medios accesibles ni visibilidad suficiente para ofrecer sus servicios.
+Tendremos éxito si al menos el 60% de los diseñadores registrados completan su perfil y suben su portafolio en la primera semana de uso.
+
+- Creemos que los clientes que requieren servicios especializados de diseño necesitan una forma confiable y rápida de encontrar profesionales calificados
+porque actualmente no saben dónde buscar o no confían en servicios sin referencias.
+Tendremos éxito si al menos el 50% de los clientes contactan a un profesional en menos de 10 minutos desde su registro en la plataforma.
+
+- Creemos que permitir el contacto directo entre cliente y diseñador a través de un chat necesita ser una funcionalidad clave
+porque los usuarios quieren coordinar detalles de manera inmediata sin intermediarios.
+Tendremos éxito si el 70% de las contrataciones se inician a través del chat interno de la plataforma.
+
+- Creemos que los clientes
+necesitan un sistema de calificación después de cada servicio
+porque eso les ayuda a generar confianza en la calidad del trabajo y tomar mejores decisiones.
+Tendremos éxito si al menos el 80% de los servicios completados terminan con una calificación del cliente.
+
+#### Lean Ux Canvas
+
+| Número | Título                        | Detalles                                                                                               |
+|--------|-------------------------------|-------------------------------------------------------------------------------------------------------|
+| 1      | Business Problem             | Muchos diseñadores, pese a contar con formación académica o técnica, no logran insertarse con éxito en el mercado laboral formal. Esto se debe a la falta de visibilidad, escasez de oportunidades, y ausencia de canales efectivos para ofrecer sus servicios directamente a clientes. |
+| 2      | Solutions                    | - Plataforma web donde los diseñadores pueden crear perfiles, mostrar portafolios, recibir valoraciones y comunicarse directamente con los clientes. <br> - Sistema de búsqueda por categoría de diseño.<br> - Chat integrado para coordinar servicios sin intermediarios. <br> - Sistema de calificación/reseña para fomentar la confianza. |
+| 3      | Business Outcomes            | -Aumentar el número de diseñadores registrados en la plataforma. <br> -Generar una red activa de contratación directa entre diseñadores y clientes. <br> -Incrementar la retención y recurrencia de uso de la app <br> -Escalar el modelo hacia futuras integraciones (como pagos, membresías, etc.). |
+| 4      | Users                        | -Diseñadores independientes: gráficos, industriales, UX/UI, interiores, moda, etc. <br> -Clientes que buscan contratar diseñadores específicos para proyectos personales o comerciales. |
+| 5      | User Outcomes & Benefits     | -Para los diseñadores: mayor exposición, generación de ingresos y creación de una reputación basada en calificaciones. <br> -Para los clientes: contratación de diseñadores confiables, acceso a portafolios, contacto directo y experiencias personalizadas. |
+| 6      | Hypotheses                   | 1.Creemos que los diseñadores independientes necesitan una plataforma para exhibir su trabajo y atraer clientes. <br> 2.Creemos que los clientes necesitan una forma fácil y confiable de encontrar diseñadores de calidad sin recurrir a agencias o intermediarios. <br> 3.Creemos que una interfaz clara con perfiles visuales y reseñas fomentará la confianza y facilitará la contratación. <br> 4.Creemos que al centralizar a los diseñadores en un solo espacio, generaremos más tráfico y visibilidad para ellos.|
+| 7      | What’s the most important thing we need to learn first?  | Si los diseñadores están realmente interesados en usar una plataforma como esta para ganar visibilidad y captar clientes de forma constante y directa, sin necesidad de intermediarios como agencias o redes sociales genéricas, asimismo, saber si nuestros posibles clientes estarían interesados en una plataforma sencilla y confiable para contratar o buscar diseñadores de algún ámbito en específico.|
+| 8      | What’s the least amount of work we need to do to learn the next most important thing?| Construir un MVP básico que permita: <br> Registro de diseñadores. <br> -Creación de un perfil con portafolio. <br> -Visibilidad de perfiles por parte de clientes. <br> -Comunicación inicial vía chat o contacto directo. <br> Y validarlo con un grupo pequeño de diseñadores y clientes reales. |
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
