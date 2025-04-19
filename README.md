@@ -422,7 +422,7 @@ Con base en los requisitos, hemos seleccionado las siguientes tecnologías para 
   - **Propósito:** Diseño de prototipos y interfaces de usuario.
   - **Ruta del Figma**: https://www.figma.com/design/GFWpz5Az7LqwCFOvAw8PQY/Untitled?node-id=2-63&t=rv1WZOA7ujqrNS4B-0
 
-![FIGMA](assets\tb1images\FIGMA2.png)
+![FIGMA](assets/tb1images/FIGMA2.png)
 
 **Software Development**
 **HTML:**
