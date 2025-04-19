@@ -849,3 +849,6 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 | HU17 | Contratar a un diseñador | Como usuario deseo generar un contratar | <br>Given Como usuario deseo generar un contratar<br>When le doy al boton contratar<br>Then me dirigirán a un apartado donde pueda hablar con el diseñador de mi preferencia <br><br>| 4 |
 | HU18 | Cancelar un contrato | Como usuario deseo eliminar un contratar | <br>Given que soy un usuario que ya no desea optar por el diseñador<br>When presione el botón de eliminar en el apartado de contratos<br>Then el contrato desaparece<br>And <br><br>| 4 |
 | HU19 | Hablar con el diseñador | Como usuario deseo hablar con él diseñar | **Scenario: contactar directamente al diseñador**<br>Given que soy un usuario <br>When yo presione contratar<br>Then aparezca el numero y correo electrónico del diseñador<br><br> **Scenario: Contactar por mensajes de texto**<br>Given que soy un usuario <br>When yo presione el botón contratar<br>Then aparezca un cuadro donde podria enviarle mensajes directamente al diseñador <br><br>| 4 |
+
+## 3.3. Impact Mapping
+![Designer User Person Map](./assets/tb1%20images/Impact-Mapping.png)
