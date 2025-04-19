@@ -29,7 +29,7 @@ Product:
 
 - Valentino Sandoval Paiva - u20211a962
 - Alexander Paolo Justo Yauricasa - u20191c054
--
+- Anderson Jose Gamarra Vega - u202016154
 -
 
 ### Marzo, 2025
