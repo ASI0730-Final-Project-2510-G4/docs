@@ -469,9 +469,9 @@ Tendremos éxito si al menos el 80% de los servicios completados terminan con un
     </tr>
     <tr>
       <td> IA para recomendación de portafolio, pagos integrados.</td>
-      <td> Expandir IA, pagos internos, partnerships B2B. :contentReference[oaicite:27]{index=27}</td>
-      <td> Tools Pro AI, expansión internacional, e‑commerce de productos hogar. :contentReference[oaicite:28]{index=28}</td>
-      <td> Crecimiento remoto post‑COVID, consultoría online premium. :contentReference[oaicite:29]{index=29}</td>
+      <td> Expandir IA, pagos internos, partnerships B2B. </td>
+      <td> Tools Pro AI, expansión internacional, e‑commerce de productos hogar. </td>
+      <td> Crecimiento remoto post‑COVID, consultoría online premium.</td>
     </tr>
     <tr>
       <td> Plataformas generalistas, AI de auto‑diseño.</td>
