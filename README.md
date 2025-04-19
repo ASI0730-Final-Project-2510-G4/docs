@@ -7,7 +7,7 @@ Product:
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 <p align="center">
-  <img src="assets/tb1 images/upc-logo.png">
+  <img src="assets/tb1images/upc-logo.png">
 </p>
 
 ## Ingenieria de Software
@@ -258,7 +258,7 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="180" height="180" src="assets/tb1 images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| <p align="center"><img width="180" height="180" src="assets/tb1images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
 | --------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -371,4 +371,345 @@ Tendremos éxito si el 70% de las contrataciones se inician a través del chat i
 necesitan un sistema de calificación después de cada servicio
 porque eso les ayuda a generar confianza en la calidad del trabajo y tomar mejores decisiones.
 Tendremos éxito si al menos el 80% de los servicios completados terminan con una calificación del cliente.
+
+## Capítulo V: Product Implementation, Validation & Deploymentt
+
+### 5.1. Software Configuration Management.
+
+La Gestión de Configuración de Software (SCM, por sus siglas en inglés) es una disciplina en el desarrollo de software encargada de identificar, controlar y rastrear los componentes del software a lo largo de su ciclo de vida. Esta metodología facilita la administración organizada de cambios en documentos, códigos y otros elementos durante el proceso de desarrollo, garantizando así una gestión eficiente y ordenada. Su objetivo principal es mejorar la eficiencia del equipo de desarrollo y minimizar los errores. (Martin, 2023)
+
+### 5.1.1. Software Development Environment Configuration.
+
+**Directrices de Desarrollo para KSI**
+
+En esta sección, presentaremos las convenciones y prácticas recomendadas que hemos adoptado en HTML, CSS y JavaScript para el desarrollo de KSI, nuestro software innovador dirigido a startups del sector del desarrollo de software. Estas directrices están orientadas a asegurar una estructura coherente, facilitar la mantenibilidad del código y optimizar la funcionalidad de nuestra plataforma para la gestión de proyectos e iniciativas. A continuación, detallaremos cómo aplicamos estas prácticas en cada una de las tecnologías utilizadas.
+
+**Definición de Requisitos**
+
+Antes de iniciar el desarrollo, es crucial definir claramente los requisitos de KSI. Estos requisitos incluyen las funcionalidades clave que deseamos proporcionar, tales como:
+
+- **Automatización de Tareas:** Implementación de herramientas que optimicen y automaticen tareas repetitivas para mejorar la eficiencia.
+- **Gestión de Información Robusta:** Uso de bases de datos para una administración efectiva de la información del proyecto.
+- **Características Personalizables:** Opciones adaptables a las necesidades específicas de cada startup.
+- **Colaboración Eficiente:** Funcionalidades que faciliten la colaboración efectiva entre equipos, incluyendo soporte para metodologías ágiles.
+
+**Elección de la Tecnología**
+
+Con base en los requisitos, hemos seleccionado las siguientes tecnologías para KSI:
+
+- **Frontend:** Angular para una interfaz de usuario dinámica y receptiva, que permita una interacción fluida con las herramientas de gestión y análisis.
+
+- **Configuración del Entorno de Desarrollo** ItelliJ IDEA
+
+  - **Editor de Código**: IntelliJ IDEA.
+  - **Propósito**: Desarrollo de software y edición de código.
+  - **Ruta de descarga**: https://www.jetbrains.com/idea/download/
+
+- **Editor de Código:** Visual Studio Code
+
+  - **Propósito:** Desarrollo y edición de código con soporte extensivo para JavaScript y herramientas de desarrollo.
+  - **Ruta de descarga:** https://code.visualstudio.com/
+
+- **Control de Versiones:** Git, con repositorios en GitHub.
+  - **Propósito:** Gestión de versiones y colaboración en el código.
+  - **Ruta de descarga:** https://git-scm.com/
+  - **Repositorio:** https://github.com/ASI0730-Final-Project-2510-G4
+
+**Product UX/UI Design**
+
+- **UI/UX:** Crear una interfaz amigable y accesible para los usuarios.
+  - **Herramienta:** Figma
+  - **Propósito:** Diseño de prototipos y interfaces de usuario.
+  - **Ruta del Figma**: https://www.figma.com/design/GFWpz5Az7LqwCFOvAw8PQY/Untitled?node-id=2-63&t=rv1WZOA7ujqrNS4B-0
+
+![FIGMA](assets\tb1images\FIGMA2.png)
+
+**Software Development**
+**HTML:**
+
+- **Descripción:** El lenguaje base de etiquetado para aplicaciones web sera empleado en este proyecto.
+- **Enlace:** https://www.w3schools.com/html/default.asp
+  **CSS:**
+- **Descripción:** Cascade Styles Sheet maneja el diseño visual de la landing page.
+- **Enlace:** https://www.w3schools.com/css/default.asp
+
+Con KSI, buscamos no solo ofrecer herramientas de gestión de proyectos eficientes, sino también actuar como un socio estratégico para las startups, facilitando su crecimiento y éxito en el competitivo mercado tecnológico.
+
+### 5.1.2. Source Code Management.
+
+**Gestión de Cambios en el Código Fuente con GitHub**
+
+En esta sección, nuestro equipo detalla los métodos y la estructura organizativa para gestionar los cambios en el código fuente utilizando GitHub como plataforma de control de versiones. Hemos configurado un repositorio remoto en GitHub para almacenar el código fuente y facilitar la colaboración entre los miembros del equipo. Los URLs de los repositorios son los siguientes:
+
+- **Landing Page**: https://github.com/ASI0730-Final-Project-2510-G4/LandingPage
+- **Frontend Web Applications**: https://github.com/ASI0730-Final-Project-2510-G4/frontend
+- **Backend Web Applications**: https://github.com/ASI0730-Final-Project-2510-G4/backend
+
+**Estructura del Repositorio**
+
+Hemos organizado el repositorio en ramas específicas para diferentes etapas del desarrollo, garantizando un flujo de trabajo ordenado y eficiente. La estructura de ramas es la siguiente:
+
+- **Main branch (rama principal):** Contiene la versión estable y lista para producción del software.
+- **Develop branch:** Contiene el código en desarrollo que se integrará en la rama principal después de ser probado y validado.
+
+Además, para el desarrollo de nuevas funcionalidades, creamos ramas específicas siguiendo las convenciones de nomenclatura:
+
+- **Feature branches:** Ramas dedicadas al desarrollo de nuevas características. La nomenclatura para estas ramas es `feature/nueva-funcionalidad`.
+
+Implementamos GitFlow, un modelo de ramificación diseñado por Vincent Driessen, que incluye las siguientes ramas:
+
+- **Main branch:** Rama principal que alberga el código estable y preparado para producción.
+- **Develop branch:** Rama de desarrollo donde se integran nuevas funcionalidades y correcciones antes de ser fusionadas a la rama principal.
+- **Feature branches:** Creadas a partir de `develop` para añadir nuevas características, siguiendo la nomenclatura `feature/nueva-funcionalidad`.
+- **Release branches:** Preparadas para la liberación de nuevas versiones, permitiendo pruebas finales y corrección de errores antes del despliegue a producción.
+- **Hotfix branches:** Utilizadas para corregir errores críticos en producción, siguiendo la nomenclatura `hotfix/correccion-critica`.
+
+**Mensajes de Commits**
+
+Adoptamos el estándar Conventional Commits para los mensajes de nuestros commits, lo que facilita la comprensión del historial de cambios y la automatización de versiones. Ejemplos de mensajes son:
+
+- **feat:** Añadir nueva funcionalidad, por ejemplo, `feat: implementar sistema de notificaciones`.
+- **fix:** Corregir errores, por ejemplo, `fix: solucionar problema con la validación de datos`.
+- **docs:** Actualizar documentación, por ejemplo, `docs: actualizar guía de instalación`.
+- **style:** Aplicar formato, por ejemplo, `style: ajustar estilo de código según las pautas`.
+- **refactor:** Mejorar el código sin cambiar su funcionalidad, por ejemplo, `refactor: optimizar el rendimiento del módulo de usuario`.
+- **test:** Añadir o modificar pruebas, por ejemplo, `test: añadir pruebas para la funcionalidad de autenticación`.
+
+**Documentación**
+
+La documentación del proyecto se encuentra en el archivo `README.md` dentro del repositorio. Este archivo proporciona detalles sobre la configuración, el uso del software y las guías para contribuir al proyecto.
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseños y principios aplicados en los lenguajes utilizados durante el desarrollo de nuestro producto. Los lenguajes y herramientas empleados incluyen:
+
+**LENGUAJES UTILIZADOS**
+
+- **_HTML_** : Estructura del contenido en la web, utilizando etiquetas semánticas para mejorar la accesibilidad.
+- **_CSS_**: Estilos y diseño visual del software, garantizando una experiencia de usuario óptima.
+- **_JavaScript_**: Lógica y funcionalidad interactiva, permitiendo la automatización y personalización del software.
+- **_TypeScript_**: Superset de JavaScript que añade tipado estático y otras características para mejorar la mantenibilidad y la detección de errores en tiempo de compilación.
+
+**HTML**
+
+- **Nombres Descriptivos:** Utiliza nombres de clases e IDs que sean descriptivos y significativos, facilitando la comprensión del propósito de cada elemento. Por ejemplo, en lugar de `box`, usa `project-card`.
+
+- **Indentación:** Indenta correctamente el código HTML para mejorar la legibilidad y mantener una estructura clara.
+
+- **Etiquetas Semánticas:** Emplea etiquetas semánticas apropiadas, como `<header>`, `<nav>`, `<main>`, y `<footer>`, para mejorar la accesibilidad y el SEO del sitio.
+- **Comentarios:** Usa comentarios para explicar secciones complejas o partes importantes del código HTML, facilitando la comprensión para otros desarrolladores.
+
+**CSS**
+
+- **Nombres Descriptivos:** Utiliza nombres de clases y selectores que sean descriptivos y coherentes para facilitar la identificación y el mantenimiento de los estilos. Por ejemplo, usa `btn-submit` en lugar de `btn`.
+- **Agrupación y Comentarios:** Agrupa propiedades relacionadas y separa secciones de CSS con comentarios claros, como /_ Estilos de botones _/. Esto organiza el código y facilita su navegación.
+- **Preferencia por Clases:** Prefiere el uso de clases en lugar de IDs para estilos reutilizables y más flexibles.
+- **Compatibilidad y Prefijos:** Utiliza prefijos de vendedor y asegúrate de que el código sea compatible con diferentes navegadores cuando sea necesario.
+- **Medidas Relativas:** Usa medidas relativas como `em`, `rem`, y `%` en lugar de medidas absolutas para mejorar la flexibilidad y la accesibilidad del diseño.
+
+**JavaScript**
+
+- **Nombres Descriptivos:** Usa nombres de variables y funciones que sean descriptivos y significativos para que el código sea autoexplicativo, `fetchProjectData` en lugar de `getData`..
+- **Comentarios:** Incluye comentarios para explicar la lógica compleja o el propósito de las funciones. Esto facilita la comprensión y el mantenimiento del código.
+- **Espacios y Sangrías:** Utiliza espacios en blanco y sangrías para mejorar la legibilidad del código. Sigue un estilo consistente en todo el código.
+- **Modularidad:** Evita la creación de funciones globales. Utiliza módulos o patrones de diseño para modularizar el código y evitar conflictos de nombres.
+- **Convención de Nombres:** Emplea `camelCase` para nombrar variables y funciones, siguiendo una convención consistente.
+
+**TypeScript**
+
+- **Tipado Estático:** Utiliza el tipado estático de TypeScript para definir los tipos de variables, parámetros de funciones y retornos. Esto ayuda a detectar errores de manera anticipada. Por ejemplo, en lugar de `let age = "25"`, define el tipo correctamente: `let age: number = 25`.
+
+- **Interfaces y Tipos Personalizados:** Define interfaces y tipos personalizados para describir la forma de los objetos y otros datos complejos. Esto mejora la claridad del código y facilita su mantenimiento. Ejemplo:
+
+  ```typescript
+  interface Project {
+    id: number;
+    name: string;
+    description: string;
+  }
+  ```
+
+- **Decoradores y Clases:** Emplea clases y decoradores para aprovechar las características orientadas a objetos de TypeScript, facilitando la organización del código, especialmente en Angular. Ejemplo de clase:
+
+  ```typescript
+  class User {
+    constructor(public name: string, public age: number) {}
+  }
+  ```
+
+- **Manejo de Errores en Tiempo de Compilación:** TypeScript permite identificar errores en tiempo de compilación, lo que reduce problemas en tiempo de ejecución. Aprovecha este control para escribir código más seguro.
+
+- **Convención de Nombres:** Sigue las mismas convenciones de JavaScript, utilizando `camelCase` para variables y funciones, pero aplicando también la convención `PascalCase` para clases e interfaces.
+
+- **Convenciones y Nomenclaturas:** Es necesario definir las convenciones y nomenclaturas que se utilizarán en el proyecto. Esto incluye el uso de `camelCase` para variables y funciones, `PascalCase` para clases e interfaces, y nombres de métodos descriptivos para mejorar la legibilidad del código.
+
+**Comentarios**
+
+- **Propósito y Complejidad:** Utiliza comentarios para explicar el propósito de bloques de código, funciones o partes complejas del código. Asegúrate de que añadan valor y contexto.
+- **Actualización de Comentarios:** Mantén los comentarios actualizados a medida que el código evoluciona para evitar información desactualizada.
+- **Evita Comentarios Redundantes:** Evita comentarios obvios o redundantes que no añaden información útil. Los comentarios deben proporcionar claridad y contexto adicional.
+
+**Convenciones y Nomenclaturas**
+
+- **Referencias de Nomenclatura:** Para la nomenclatura de elementos, adoptaremos convenciones inspiradas en **BEM (Block Element Modifier)** y **OOCSS (Object-Oriented CSS)**, promoviendo claridad y reutilización.
+
+- **Estructura de Nombres:** Los nombres de las clases deben ser compuestos por tres partes: bloque, elemento y modificador. Por ejemplo, un botón de envío puede llamarse `btn--primary`, donde `btn` es el bloque y `primary` es el modificador.
+
+### 5.1.4. Software Deployment Configuration.
+
+En los siguientes pasos se explicará cómo llevar a cabo la implementación de nuestro sitio web utilizando GitHub Pages
+
+**Deploy con GitHub Pages:**
+En primer lugar, accedemos al repositorio de GitHub donde se encuentra nuestro proyecto y luego navegamos hacia la configuración del repositorio.
+
+![Settings](assets/tb1images/settings.png)
+
+Dentro del menú de ajustes, elegimos la opción "Pages".
+![Settings](assets/tb1images/pages1.png)
+
+**Control de Versiones**
+
+- **Uso de Git:** Mantén un historial completo de cambios y facilita el manejo de diferentes versiones del código.
+
+En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save".
+Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
+
+
+
+
+### 5.2 Landing Page, Services & Applications Implementation.
+
+El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
+
+### 5.2.1 . Sprint 1
+
+El primer sprint es una etapa importante en nuestro marco de gestión de proyectos de metodología ágil Scrum. En este periodo, agendamos reuniones con el objetivo de conocer mejor las características de cada integrante, y delegamos tareas para materializar el diseño y funcionalidades ya establecidas, para transformarlos en un landing page funcional y que cumple las heurísticas.
+
+#### 5.2.1.1 Sprint Planning 1.
+
+El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
+
+| Sprint #| Sprint 1|
+| -- | -- |
+| **Sprint Planning Background**||
+| **Date**| 17/04/2025|
+| **Time**| 18:00 PM|
+| **Location**| Discord (Reunión virtual)|
+| **Prepared By**|Valentino Sandoval Paiva|
+| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, |
+| **Sprint Goal & User Stories**||
+| **Sprint 1 Goal**| Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
+| **Sprint 1 Velocity**| ------ |
+| **Sum of Story Points**| 19 |
+
+#### 5.2.1.2 Sprint Backlog 1.
+
+Para el primer sprint backlog, recopilamos historias de usuario relacionadas con la página de inicio (landing page) . Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una landing page completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver
+![alt text](assets/TB1-image/Trelloo1.png)
+
+Link Trello: 
+
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+
+#### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+#### 5.2.1.5 Execution Evidence for Sprint Review.
+
+En este Sprint, los miembros del equipo de desarrollo de software de KSI han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
+
+<p align="center">
+  <img src="assets/tb1images/l1.png">
+  <br>
+  Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
+</p>
+
+<p align="center">
+  <img src="assets/tb1images/l2.png">
+  <br>
+  Sección de beneficios clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
+</p>
+
+<p align="center">
+  <img src="assets/tb1images/l3.png">
+  <br>
+  Sección de preguntas frecuentes, organizada por categorías, donde los usuarios pueden encontrar respuestas rápidas a sus dudas sobre el uso de la plataforma y área de contacto, mostrando el formulario que permite a los usuarios enviar mensajes directamente al equipo de soporte, facilitando la comunicación.
+</p>
+
+<p align="center">
+  <img src="assets/tb1images/l5.png">
+  <br>
+  Diseño del formulario de iniciar sesión, que garantiza de forma sencilla acceder a la aplicación web.
+</p>
+
+<p align="center">
+  <img src="assets/tb1images/l4.png">
+  <br>
+  Diseño del formulario de registro, que enfatiza la simplicidad y la facilidad de uso, asegurando que los nuevos usuarios puedan registrarse sin complicaciones.
+</p>
+
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+**Resumen**
+Durante este Sprint, nos hemos enfocado en el despliegue de la landing page. Las actividades realizadas incluyen la configuración del entorno de desarrollo y el despliegue inicial del sitio. A continuación, se detalla el proceso seguido para el despliegue de la landing page.
+
+**Actividades Realizadas**
+
+- Creación de Cuentas y Configuración de Recursos:
+
+Proveedor de Hosting: Selección y configuración de la cuenta en el proveedor de hosting para desplegar la landing page.
+Configuración del Entorno: Establecimiento del entorno de desarrollo y producción para la landing page.
+
+- Configuración de Proyectos para Integración:
+
+Repositorio de Código: Configuración del repositorio en GitHub para la integración continua y despliegue automático.
+Automatización: Configuración de scripts y herramientas para la automatización del despliegue.
+
+- Despliegue de la Landing Page:
+
+Subida de Archivos: Transferencia de archivos y recursos al servidor de hosting.
+Verificación: Comprobación de que la landing page se despliega correctamente y está accesible en la web.
+
+**Deploy del Landing Page**
+![deploy](assets/tb1images/landing1.png)
+**Capturas de Pantalla**
+
+- Repositorio de Landing Page:
+  ![alt text](assets/tb1images/landing2.png)
+
+**Enlace al Repositorio**: https://github.com/ASI0730-Final-Project-2510-G4/LandingPage
+
+#### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
+
+- Diseño y Desarrollo:
+  Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad.
+  Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
+- Documentación y Despliegue:
+  Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones.
+  Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
+
+**Landing Page**
+
+![Commits](assets/TB1-new/landingc1.jpeg)
+![Commits](assets/TB1-new/landingc2.jpeg)
+
+
+- Valentino Sandoval Paiva: 
+
+
+**Report:**
+
+![alt text](assets/TB1-new/commitsall2.jpeg)
+
+![alt text](assets/TB1-new/commitall1.jpeg)
+
+![alt text](assets/TB1-image/commitsreport3.jpeg)
+
+![Commits](assets/TB1-image/commitsreport3.jpeg)
+
+
+- Valentino Sandoval Paiva: 
+
 
