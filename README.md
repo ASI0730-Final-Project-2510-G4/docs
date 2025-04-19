@@ -797,7 +797,15 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ![Designer User Person Map](./assets/tb1%20images/Empathy-Map-Client.png)
 
+### 2.3.5 As-is Scenario Mapping
 
+**Diseñador**
+
+![Designer User Person Map](./assets/tb1%20images/As-Is-Designer.png)
+
+**Client**
+
+![Designer User Person Map](./assets/tb1%20images/As-Is-Client.png)
 
 # Capítulo III: Requirements Specification
 
