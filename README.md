@@ -482,6 +482,28 @@ Tendremos éxito si al menos el 80% de los servicios completados terminan con un
   </tbody>
 </table>
 
+### 2.1.2 Estrategias y tácticas frente a competidores
+
+1. **Especialización nicho‑lógico**  
+   - **Estrategia**: Posicionarse como la única plataforma 100 % dedicada a diseño gráfico, moda e interiores.  
+   - **Táctica**: Crear secciones temáticas y filtros avanzados por tipo de diseño, certificando a profesionales con portfolios curados.
+
+2. **Comunicación de valor diferencial**  
+   - **Estrategia**: Enfatizar la calidad y la experiencia de usuario enfocada en creativos (UX/UI pensada para presentar portfolios multimedia).  
+   - **Táctica**: Campañas en redes sociales (Instagram, Pinterest) mostrando casos de éxito y entrevistas breves con diseñadores destacados.
+
+3. **Alianzas estratégicas**  
+   - **Estrategia**: Asociarse con escuelas de diseño, ferias de moda y exposiciones de interiores para captar talento junior y senior.  
+   - **Táctica**: Ofrecer membresías gratuitas o descuentos a estudiantes y egresados, organizar webinars patrocinados.
+
+4. **Pricing atractivo y transparente**  
+   - **Estrategia**: Implementar comisiones competitivas y planes de suscripción para diseñadores frecuentes.  
+   - **Táctica**: Plan “Starter” (sin costo fijo, solo % por proyecto) y “Pro” (tarifa plana mensual con cuota reducida por cada servicio).
+
+5. **Contenido de valor y comunidad**  
+   - **Estrategia**: Fomentar la participación mediante foros, retos mensuales de diseño y un blog especializado.  
+   - **Táctica**: Lanzar un “Reto de estilo” semanal (por ejemplo, rediseñar una portada de revista) y premiar al ganador con visibilidad extra.
+
 
 # Capítulo III: Requirements Specification
 
