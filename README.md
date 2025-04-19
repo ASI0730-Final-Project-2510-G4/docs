@@ -777,6 +777,26 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
   </tbody>
 </table>
 
+### 2.3.3 User Journey Mapping
+
+**Diseñador**
+
+![Designer User Person Map](./assets/tb1%20images/Journey-Map-Designer.png)
+
+**Client**
+
+![Designer User Person Map](./assets/tb1%20images/Journey-Map-Client.png)
+
+### 2.3.4 Empathy Mapping
+
+**Diseñador**
+
+![Designer User Person Map](./assets/tb1%20images/Empathy-Map-Designer.png)
+
+**Client**
+
+![Designer User Person Map](./assets/tb1%20images/Empathy-Map-Client.png)
+
 
 
 # Capítulo III: Requirements Specification
