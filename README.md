@@ -383,7 +383,105 @@ Tendremos éxito si al menos el 80% de los servicios completados terminan con un
 | 5      | User Outcomes & Benefits     | -Para los diseñadores: mayor exposición, generación de ingresos y creación de una reputación basada en calificaciones. <br> -Para los clientes: contratación de diseñadores confiables, acceso a portafolios, contacto directo y experiencias personalizadas. |
 | 6      | Hypotheses                   | 1.Creemos que los diseñadores independientes necesitan una plataforma para exhibir su trabajo y atraer clientes. <br> 2.Creemos que los clientes necesitan una forma fácil y confiable de encontrar diseñadores de calidad sin recurrir a agencias o intermediarios. <br> 3.Creemos que una interfaz clara con perfiles visuales y reseñas fomentará la confianza y facilitará la contratación. <br> 4.Creemos que al centralizar a los diseñadores en un solo espacio, generaremos más tráfico y visibilidad para ellos.|
 | 7      | What’s the most important thing we need to learn first?  | Si los diseñadores están realmente interesados en usar una plataforma como esta para ganar visibilidad y captar clientes de forma constante y directa, sin necesidad de intermediarios como agencias o redes sociales genéricas, asimismo, saber si nuestros posibles clientes estarían interesados en una plataforma sencilla y confiable para contratar o buscar diseñadores de algún ámbito en específico.|
-| 8      | What’s the least amount of work we need to do to learn the next most important thing?| Construir un MVP básico que permita: <br> Registro de diseñadores. <br> -Creación de un perfil con portafolio. <br> -Visibilidad de perfiles por parte de clientes. <br> -Comunicación inicial vía chat o contacto directo. <br> Y validarlo con un grupo pequeño de diseñadores y clientes reales. |
+| 8      | What’s the least amount of work we need to do to learn the next most important thing?| Construir un MVP básico que permita: <br> Registro de diseñadores. <br> -Creación de un perfil con portafolio. <br> -Visibilidad de perfiles por parte de clientes. <br> -Comunicación inicial vía chat o contacto directo. <br> Y validarlo con un grupo pequeño de diseñadores y clientes reales. |\
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+### 2.1.1 Análisis competitivo
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <thead>
+    <tr>
+      <th>¿Por qué llevar a cabo este análisis?</th>
+      <th colspan="4">[Entender posicionamiento y brechas de mercado]</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Su startup (ProLink)</th>
+      <th>99designs</th>
+      <th>Houzz</th>
+      <th>Upwork</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Perfil -->
+    <tr>
+      <th rowspan="2">Perfil</th>
+      <td>Plataforma exclusiva para diseñadores gráficos, de modas e interiores.</td>
+      <td>Global creative platform fundada en 2008 que conecta clientes y diseñadores freelance en concursos o contratos directos.</td>
+      <td>Plataforma líder en remodelación y diseño de interiores, lanzada en 2009 para conectar propietarios y profesionales. </td>
+      <td>Mercado de trabajo freelance más grande del mundo, creado en 2015 (fusión Elance‑oDesk) para empresas y profesionales. </td>
+    </tr>
+    <tr>
+      <td>Especialización + curación de portfolios + sistema de reputación.</td>
+      <td>Modelo de concursos y búsquedas directas; comunidad de ~1M diseñadores.</td>
+      <td>Solución todo‑en‑uno: gestión de proyectos, 3D, propuestas e invoicing.</td>
+      <td>Pool de talento global, protección de pagos y sistema de valoraciones.</td>
+    </tr>
+    <!-- Perfil de Marketing -->
+    <tr>
+      <th>Perfil de Marketing</th>
+      <td>Campañas en Instagram, Pinterest y LinkedIn; alianzas con escuelas de diseño.</td>
+      <td>Dirigido a pymes y emprendedores; SEO y concursos sociales para prueba de talento.</td>
+      <td>Contenido editorial (blog, magazine), partnerships con ferias y testimonios de pros.</td>
+      <td>Enterprise partnerships, recursos (blog, Research Institute) y webinar.</td>
+    </tr>
+    <tr>
+      <th></th>
+      <td>Newsletter mensual y retos de diseño para engagement.</td>
+      <td>Publicidad en redes + embajadores de marca (top designers).</td>
+      <td>Campañas en redes (Houzz TV), reseñas de app y reviews en App Store.</td>
+      <td>Anuncios dirigidos en Google Ads y LinkedIn; programa “Freelancer Plus”.</td>
+    </tr>
+    <!-- Perfil de Producto -->
+    <tr>
+      <th rowspan="3">Perfil de Producto</th>
+      <td>Perfiles con portafolio multimedia y chat integrado; filtros nicho.</td>
+      <td>Concursos de diseño, contratación directa, tienda de estudios.</td>
+      <td>Galería de fotos, directorio de pros, software Houzz Pro.</td>
+      <td>Talent Marketplace, Project Catalog (servicios predefinidos), Consultas.</td>
+    </tr>
+    <tr>
+      <td>Comisión 10 % por proyecto; planes “Starter” gratis con comisión y “Pro” €20/mes. </td>
+      <td>Paquetes desde USD 299/lanzamiento de logo; comisiones variables según nivel de concurso.</td>
+      <td>Planes Pro desde USD 59/mes; listing básico gratis con comisión por lead.</td>
+      <td>Freelancers pagan 20 %–5 % según facturación acumulada; clientes sin comisión.</td>
+    </tr>
+    <tr>
+      <td>Web responsive + apps iOS/Android con notificaciones en tiempo real.</td>
+      <td>Web + apps iOS (2013) y Android (2012).</td>
+      <td>Web + apps iOS/Android (2010 iPad, 2012 Android).</td>
+      <td>Web + apps móviles iOS/Android con chat y seguimiento de horas. </td>
+    </tr>
+    <!-- Análisis SWOT -->
+    <tr>
+      <th rowspan="4">Análisis SWOT</th>
+      <td> Especialización + curación + nicho claro.</td>
+      <td> Modelo innovador de concursos, gran comunidad.</td>
+      <td> Base de datos de fotos (21M en 2020), marca consolidada. </td>
+      <td> Liderazgo de mercado, sistema de valoraciones, trust & safety.</td>
+    </tr>
+    <tr>
+      <td> Base inicial pequeña; curva de adopción.</td>
+      <td> Precios elevados, saturación de concursos, fatigue en diseñadores.</td>
+      <td> Comisión por leads, enfocado solo a hogar, quejas de DIY. </td>
+      <td> Altas comisiones, calidad variable de freelancers.</td>
+    </tr>
+    <tr>
+      <td> IA para recomendación de portafolio, pagos integrados.</td>
+      <td> Expandir IA, pagos internos, partnerships B2B. :contentReference[oaicite:27]{index=27}</td>
+      <td> Tools Pro AI, expansión internacional, e‑commerce de productos hogar. :contentReference[oaicite:28]{index=28}</td>
+      <td> Crecimiento remoto post‑COVID, consultoría online premium. :contentReference[oaicite:29]{index=29}</td>
+    </tr>
+    <tr>
+      <td> Plataformas generalistas, AI de auto‑diseño.</td>
+      <td> Competencia de Fiverr, Upwork, IA generativa. </td>
+      <td> Competidores directos (Ikea Planner, Wayfair), apps DIY.</td>
+      <td> Competencia de Fiverr, Toptal, nuevas apps AI. </td>
+    </tr>
+  </tbody>
+</table>
+
 
 # Capítulo III: Requirements Specification
 
