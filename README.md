@@ -694,6 +694,90 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ![Designer User Person Map](./assets/tb1%20images/User-Person-Client.png)
 
+### 2.3.1 User Task Matrix
+
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th rowspan="2">Tarea</th>
+      <th colspan="2">Diseñador</th>
+      <th colspan="2">Cliente</th>
+    </tr>
+    <tr>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Publicar y actualizar portfolio</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Buscar nuevos clientes/proyectos</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Negociar condiciones y precios</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Gestionar briefs y entregas</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Solicitar y recibir feedback</td>
+      <td>Media</td>
+      <td>Media</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Revisar y ajustar diseños</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Promocionar servicios en redes sociales</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Baja</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Buscar inspiración y tendencias</td>
+      <td>Media</td>
+      <td>Media</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Gestionar pagos y facturación</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 # Capítulo III: Requirements Specification
 
