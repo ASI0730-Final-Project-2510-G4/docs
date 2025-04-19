@@ -397,7 +397,7 @@ Tendremos éxito si al menos el 80% de los servicios completados terminan con un
     </tr>
     <tr>
       <th></th>
-      <th>Su startup (ProLink)</th>
+      <th>[NOMBRE STARTUP]</th>
       <th>99designs</th>
       <th>Houzz</th>
       <th>Upwork</th>
