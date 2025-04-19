@@ -387,6 +387,26 @@ Tendremos éxito si al menos el 80% de los servicios completados terminan con un
 
 # Capítulo II: Requirements Elicitation & Analysis
 
+## 2.1 Competidores
+
+- **99designs**
+
+Modelo de negocio: Marketplace de diseño gráfico basado en concursos y encargos directos.
+
+Público: Pymes y emprendedores que necesitan logos, branding y piezas gráficas.
+
+- **Houzz**
+
+Modelo de negocio: Plataforma de inspiración y contratación de profesionales de arquitectura y diseño de interiores.
+
+Público: Propietarios y remodeladores de viviendas que buscan ideas y profesionales locales.
+
+- **Upwork**
+
+Modelo de negocio: Portal generalista de freelancers (incluye diseñadores gráficos, de moda e interiores).
+
+Público: Empresas de todos los tamaños y particulares que buscan talento remoto.
+
 ### 2.1.1 Análisis competitivo
 
 <table border="1" cellspacing="0" cellpadding="4">
