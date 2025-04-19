@@ -852,3 +852,152 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ## 3.3. Impact Mapping
 ![Designer User Person Map](./assets/tb1%20images/Impact-Mapping.png)
+
+## 3.4. Product Backlog
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>HU01</td>
+      <td>Creación de la Sección "About"</td>
+      <td>Como cliente, quiero una sección que presente información sobre el servicio para comprender mejor la aplicación.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>HU02</td>
+      <td>Creación de la Sección "Features"</td>
+      <td>Como cliente, quiero una sección que destaque las características principales de la aplicación.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>HU03</td>
+      <td>Creación de la Sección "How It Works"</td>
+      <td>Como cliente, quiero una sección que explique cómo funciona el servicio para comprender los pasos necesarios para utilizar la aplicación.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HU04</td>
+      <td>Creación de la Sección "FAQ"</td>
+      <td>Como cliente, quiero una sección que muestre las preguntas frecuentes de los usuarios para tener ayuda de los usuarios actuales.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>HU05</td>
+      <td>Creación de la Sección de Footer</td>
+      <td>Como cliente, quiero un footer en el landing page para acceder a enlaces adicionales y a las redes sociales de la aplicación.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>HU06</td>
+      <td>Creación de la Sección de Socios</td>
+      <td>Como cliente, quiero una sección que muestre los socios o colaboradores de la aplicación para conocer las asociaciones relevantes.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>HU07</td>
+      <td>Registro de Cuentas</td>
+      <td>Como usuario nuevo, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades disponibles.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>HU08</td>
+      <td>Inicio de Sesión</td>
+      <td>Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mi cuenta y mis datos.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>HU09</td>
+      <td>Configuración de Perfil</td>
+      <td>Como usuario registrado, quiero poder configurar mi perfil para personalizar mi experiencia en la plataforma.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>HU10</td>
+      <td>Cierre de Sesión</td>
+      <td>Como usuario, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>HU11</td>
+      <td>Subir Proyecto del Diseñador</td>
+      <td>Como usuario, quiero subir mi trabajo con todas sus características (imágenes, título, descripción, categorías).</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>HU12</td>
+      <td>Borrar Proyecto del Diseñador</td>
+      <td>Como usuario, quiero borrar un trabajo que no me gusta.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>HU13</td>
+      <td>Editar Proyecto del Diseñador</td>
+      <td>Como usuario, quiero editar uno de mis proyectos para actualizar su descripción, imágenes, o categorías.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>HU14</td>
+      <td>Interactuar en Comentarios</td>
+      <td>Como usuario, quiero interactuar con los comentarios de un proyecto para responder dudas o agradecer sugerencias de los clientes y otros profesionales.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>HU15</td>
+      <td>Filtrar Proyecto del Diseñador</td>
+      <td>Como usuario, quiero filtrar los proyectos de acuerdo a etiquetas o categorías para encontrar los que más me interesen o me ayuden en futuros proyectos.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>HU16</td>
+      <td>Calificar Publicación</td>
+      <td>Como usuario, quiero poder calificar los proyectos que me gusten para dar feedback y ayudar a otros usuarios a tomar decisiones.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>HU17</td>
+      <td>Contratar a un Diseñador</td>
+      <td>Como usuario, quiero poder contratar a un diseñador cuyos proyectos me hayan gustado, para comenzar a trabajar con él en mi proyecto.</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>HU18</td>
+      <td>Cancelar un Contrato</td>
+      <td>Como usuario, quiero poder cancelar un contrato con un diseñador si ya no estoy interesado en seguir adelante con el proyecto.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>HU19</td>
+      <td>Hablar con el Diseñador</td>
+      <td>Como usuario, quiero poder hablar con el diseñador para discutir detalles del proyecto o hacer preguntas antes de contratarlo.</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
