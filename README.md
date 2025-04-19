@@ -529,7 +529,6 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ### 2.2.1 Diseño de entrevistas
 
-
 - **Cuadro de preguntas generales para arquetipos**
 
 <table border="1" cellspacing="0" cellpadding="4">
@@ -682,6 +681,18 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
     </tr>
   </tbody>
 </table>
+
+## 2.3 Needfinding
+
+### 2.3.1 User Personas
+
+**Diseñador**
+
+![Designer User Person Map](./assets/tb1%20images/User-Persona-Designer.png)
+
+**Client**
+
+![Designer User Person Map](./assets/tb1%20images/User-Person-Client.png)
 
 
 # Capítulo III: Requirements Specification
