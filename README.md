@@ -525,6 +525,165 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
    - **Táctica**: Lanzar un “Reto de estilo” semanal (por ejemplo, rediseñar una portada de revista) y premiar al ganador con visibilidad extra.
 
 
+## 2.2 Entrevistas
+
+### 2.2.1 Diseño de entrevistas
+
+
+- **Cuadro de preguntas generales para arquetipos**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <thead>
+    <tr>
+      <th>Categoría</th>
+      <th>Información a recolectar</th>
+      <th>Ejemplo de pregunta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Demográficos</td>
+      <td>Edad, género, distrito de residencia, estado civil, nivel educativo, ocupación e ingresos básicos</td>
+      <td>“¿Cuál es tu edad y nivel educativo?”</td>
+    </tr>
+    <tr>
+      <td>Familia y contexto</td>
+      <td>Tamaño de la familia, convivencia, responsabilidades domésticas y de cuidado</td>
+      <td>“¿Con quién vives y cómo influye eso en tu trabajo diario?”</td>
+    </tr>
+    <tr>
+      <td>Personalidad y habilidades</td>
+      <td>Rasgos de personalidad, destrezas técnicas y experiencia previa en proyectos</td>
+      <td>“¿Cómo describirías tu estilo de trabajo y tus principales habilidades?”</td>
+    </tr>
+    <tr>
+      <td>Marcas e influencias</td>
+      <td>Blogs, revistas, influencers o estudios de diseño que sigue; fuentes de inspiración</td>
+      <td>“¿Qué blogs o perfiles de diseñadores sueles consultar con regularidad?”</td>
+    </tr>
+    <tr>
+      <td>Dispositivos y canales digitales</td>
+      <td>Dispositivos preferidos, apps de diseño y canales de comunicación (WhatsApp, email, Instagram)</td>
+      <td>“¿Qué herramientas digitales y dispositivos usas más para trabajar?”</td>
+    </tr>
+    <tr>
+      <td>Objetivos y motivaciones</td>
+      <td>Metas profesionales a corto/largo plazo; qué impulsa su decisión de unirse a una plataforma como ProLink</td>
+      <td>“¿Cuáles son tus principales objetivos de cara al próximo año?”</td>
+    </tr>
+    <tr>
+      <td>Frustraciones / Dolor</td>
+      <td>Obstáculos al encontrar clientes, carencias de otras plataformas, puntos de insatisfacción</td>
+      <td>“¿Qué dificultades has tenido al buscar nuevos proyectos o clientes?”</td>
+    </tr>
+    <tr>
+      <td>Background / Biografía breve</td>
+      <td>Trayectoria formativa y profesional: hitos, proyectos clave, años de experiencia</td>
+      <td>“¿Puedes contarme tu trayectoria y los proyectos más significativos?”</td>
+    </tr>
+  </tbody>
+</table>
+
+- **Cuadro de preguntas para profesionales de diseño**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Pregunta principal</th>
+      <th>Preguntas complementarias / Follow‑ups</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Warm‑up</td>
+      <td>¿Puedes contarme brevemente tu trayectoria y formación en diseño?</td>
+      <td>– ¿Qué te motivó a especializarte en esta área?</td>
+    </tr>
+    <tr>
+      <td>Contexto &amp; Demográfico</td>
+      <td>¿Dónde vives y cómo influye tu entorno en tu trabajo creativo?</td>
+      <td>– ¿Cómo organizas tu jornada laboral?</td>
+    </tr>
+    <tr>
+      <td>Proceso &amp; Herramientas</td>
+      <td>¿Con qué herramientas y software trabajas habitualmente?</td>
+      <td>– ¿Por qué prefieres esas herramientas?</td>
+    </tr>
+    <tr>
+      <td>Portafolio &amp; Proyectos</td>
+      <td>Háblame de tu proyecto favorito: ¿cómo lo desarrollaste y qué retos enfrentaste?</td>
+      <td>– ¿Cómo lo comunicaste al cliente? ¿Qué feedback recibiste?</td>
+    </tr>
+    <tr>
+      <td>Objetivos &amp; Motivaciones</td>
+      <td>¿Cuáles son tus metas profesionales para el próximo año?</td>
+      <td>– ¿Qué habilidades o recursos necesitas para alcanzarlas?</td>
+    </tr>
+    <tr>
+      <td>Frustraciones &amp; Dolor</td>
+      <td>¿Qué dificultades sueles encontrar al buscar nuevos clientes?</td>
+      <td>– ¿Has probado otras plataformas? ¿Qué te faltó en ellas?</td>
+    </tr>
+    <tr>
+      <td>Cierre</td>
+      <td>¿Qué consejo darías a un diseñador que comienza?</td>
+      <td>– ¿Algo más que creas importante compartir?</td>
+    </tr>
+  </tbody>
+</table>
+
+
+- **Cuadro de preguntas para clientes de servicios de diseño**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Pregunta principal</th>
+      <th>Preguntas complementarias / Follow‑ups</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Warm‑up</td>
+      <td>¿Para qué tipo de proyecto has contratado diseño recientemente?</td>
+      <td>– ¿Cómo lo buscaste inicialmente?</td>
+    </tr>
+    <tr>
+      <td>Contexto &amp; Demográfico</td>
+      <td>¿Cuál es tu ocupación y cómo afecta tu disponibilidad para coordinar con un diseñador?</td>
+      <td>– ¿Prefieres contacto en horario laboral o fuera de él?</td>
+    </tr>
+    <tr>
+      <td>Proceso de Selección</td>
+      <td>¿Qué criterios son más importantes al elegir un profesional de diseño?</td>
+      <td>– ¿Valoras más precio, reputación o estilo?</td>
+    </tr>
+    <tr>
+      <td>Experiencia de Servicio</td>
+      <td>Cuéntame sobre tu experiencia ideal al trabajar con un diseñador.</td>
+      <td>– ¿Qué te generó tranquilidad o frustración en tu última contratación?</td>
+    </tr>
+    <tr>
+      <td>Objetivos &amp; Resultados</td>
+      <td>¿Qué resultados esperas obtener y cómo mides el éxito del proyecto?</td>
+      <td>– ¿Cómo comunicaste tus expectativas al profesional?</td>
+    </tr>
+    <tr>
+      <td>Frustraciones &amp; Dolor</td>
+      <td>¿Has tenido malas experiencias previas? ¿Qué las causó?</td>
+      <td>– ¿Qué habrías cambiado en ese proceso?</td>
+    </tr>
+    <tr>
+      <td>Cierre</td>
+      <td>¿Qué recomendarías mejorar en una plataforma de diseño?</td>
+      <td>– ¿Te gustaría ser contactado para validar futuros prototipos?</td>
+    </tr>
+  </tbody>
+</table>
+
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
