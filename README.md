@@ -462,18 +462,222 @@ Se utilizarán animaciones suaves al hacer scroll, mostrando secciones con imág
 
 #### 4.2.1. Organization Systems
 
-Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, podemos ver la estructura visual, la cual fue diseñada para adaptarse a nuestros dos segmentos objetivos.
+Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, se presenta la estructura visual diseñada para adaptarse a nuestros dos segmentos objetivos: **diseñadores gráficos freelance** y **clientes**.
 
-Aunque ambos segmentos tienen acceso a las mismas secciones, la diferencia clave radica en los permisos. Mientras que el Scrum Master o Product Owner puede gestionar y editar múltiples aspectos del proyecto, los miembros del equipo solo pueden visualizar el contenido y acceder a los enlaces, sin posibilidad de modificar la información.
+Aunque ambos segmentos tienen acceso a las mismas secciones, la diferencia clave radica en los permisos. Mientras que el freelancer puede gestionar y editar su perfil, portfolios, mensajes y pagos, el cliente puede navegar, contactar diseñadores, calificar y realizar pagos por los servicios contratados.
+
+A continuación, se presenta la estructura visual y funcional de la aplicación, pensada para adaptarse a las necesidades de ambos segmentos.
+Aunque ambos usuarios pueden navegar por las mismas secciones del sistema, sus permisos y funcionalidades varían según su rol en la plataforma.
+
+### Cliente  
+Al ingresar a la plataforma, el cliente accede a su panel principal donde puede gestionar sus solicitudes de diseño. Las secciones clave disponibles son:
+
+- **Portfolios**: Puede explorar los portfolios públicos de los diseñadores disponibles, filtrarlos por especialidad o estilo visual, y guardar sus favoritos.
+  
+- **Mensajería**: A través de este módulo, puede iniciar conversaciones directas con los diseñadores para detallar requerimientos o aclarar dudas antes de contratar.
+
+- **Pagos**: Desde esta sección, el cliente puede realizar pagos seguros por los servicios contratados, consultar el historial de transacciones y descargar comprobantes.
+
+- **Calificaciones**: Una vez finalizado un proyecto, el cliente puede dejar una calificación y comentario sobre el trabajo recibido, ayudando a otros usuarios a tomar decisiones informadas.
+
+- **Gestión de Usuarios**: Puede actualizar sus datos personales, cambiar su contraseña o configurar sus preferencias de comunicación.
+
+### Diseñador Gráfico  
+El diseñador accede a su dashboard personalizado, donde puede visualizar los proyectos en los que está trabajando y administrar su perfil profesional. Las secciones clave incluyen:
+
+- **Gestión de Portfolios**: Puede crear y organizar su portfolio de trabajos, agregando descripciones, imágenes y etiquetas para atraer a clientes potenciales.
+
+- **Mensajería**: Puede comunicarse directamente con clientes interesados, resolver dudas y recibir feedback sobre los proyectos en curso.
+
+- **Pagos**: Tiene acceso al historial de pagos recibidos, métodos de cobro disponibles y estado de sus ingresos.
+
+- **Calificaciones**: Puede revisar las calificaciones recibidas de clientes anteriores, lo cual contribuye a fortalecer su reputación dentro de la plataforma.
+
+- **Gestión de Usuarios**: Puede editar su perfil profesional, añadir una biografía, actualizar su foto y definir su disponibilidad.
+
+![alt text](assets/tb1images/DIA.png)
+
+### Diferencias Clave entre Roles
+
+| Funcionalidad              | Cliente           | Diseñador Gráfico     |
+|---------------------------|-------------------|------------------------|
+| Ver portfolios            | ✅                | ✅ (con edición propia) |
+| Enviar mensajes           | ✅                | ✅                     |
+| Realizar pagos            | ✅                | ❌ (solo visualiza)    |
+| Recibir pagos             | ❌                | ✅                     |
+| Calificar usuarios        | ✅                | ✅ (solo visualiza)    |
+| Editar perfil             | ✅                | ✅                     |
+| Gestionar portfolio       | ❌                | ✅                     |
 
 
 #### 4.2.2. Labeling Systems
 
+El equipo de "FreelanceHub" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "FreelanceHub". Acontinuacion las mencionaremos y sus relaciones:
+
+- Gestión de Usuarios:
+La sección de Gestión de Usuarios es el punto de partida de la aplicación. Aquí, los usuarios pueden crear, visualizar y administrar su perfil, incluyendo su información personal, roles y preferencias dentro de la plataforma.
+
+- Gestión de Pagos:
+La sección de Gestión de Pagos proporciona una visión general de todas las transacciones realizadas en la plataforma. Los diseñadores y clientes pueden gestionar sus pagos, ver el historial de transacciones y realizar pagos de manera segura a través de esta sección.
+
+- Gestión de Calificaciones:
+La sección de Gestión de Calificaciones permite a los usuarios calificar los servicios prestados o recibidos, brindando un sistema de retroalimentación crucial para mantener la calidad en la plataforma. También se pueden consultar las calificaciones pasadas y modificar las opiniones si es necesario.
+
+- Gestión de Portfolios:
+La sección de Gestión de Portfolios es donde los diseñadores pueden cargar y mostrar sus trabajos anteriores. Los usuarios pueden agregar, editar o eliminar elementos en su portfolio, ofreciendo una representación visual de su habilidad y creatividad.
+
+- Gestión de Mensajería o Contacto:
+La sección de Mensajería permite a los usuarios comunicarse de manera eficiente con otros miembros de la plataforma. Los diseñadores pueden recibir mensajes, gestionar solicitudes de contacto y mantener una conversación fluida con clientes y otros diseñadores.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
+Para mejorar la visibilidad de **FreelanceHub** en los motores de búsqueda y atraer a los usuarios adecuados, se ha optado por definir los siguientes datos:
+
+**Landing Page**
+
+**Title:**  
+FreelanceHub - Plataforma de Freelance para Diseñadores Gráficos  
+**Meta Description:**  
+FreelanceHub es una plataforma integral para diseñadores gráficos. Mejora tu productividad, visibilidad y gestión de proyectos con herramientas avanzadas para la gestión de portfolios, pagos y calificaciones.  
+**Keywords:**  
+freelance, diseñadores gráficos, plataforma para diseñadores, gestión de proyectos, pagos para diseñadores, portfolios de diseño, calificaciones de servicios, plataforma de contacto  
+**Author:**  
+FreelanceHub Team
+
+**Gestión de Usuarios**
+
+**Title:**  
+Gestión de Usuarios en FreelanceHub  
+**Meta Description:**  
+Administra tu perfil de usuario en FreelanceHub. Configura tus preferencias, actualiza tu información personal y personaliza tu experiencia en la plataforma.  
+**Keywords:**  
+gestión de usuarios, perfil de usuario, configuración de cuenta, preferencias de usuario, plataforma para diseñadores  
+**Author:**  
+FreelanceHub Team
+
+**Gestión de Pagos**
+
+**Title:**  
+Gestión de Pagos y Transacciones  
+**Meta Description:**  
+Gestiona tus pagos y transacciones de manera segura en FreelanceHub. Visualiza el historial de pagos y realiza cobros de manera rápida y confiable.  
+**Keywords:**  
+gestión de pagos, pagos seguros, transacciones freelance, cobros para diseñadores  
+**Author:**  
+FreelanceHub Team
+
+**Gestión de Calificaciones**
+
+**Title:**  
+Gestión de Calificaciones y Opiniones  
+**Meta Description:**  
+Califica y recibe feedback sobre tus proyectos en FreelanceHub. Mantén un historial de calificaciones para mejorar la calidad de tus servicios.  
+**Keywords:**  
+calificaciones, feedback de diseñadores, calificación de servicios, opiniones de clientes  
+**Author:**  
+FreelanceHub Team
+
+**Gestión de Portfolios**
+
+**Title:**  
+Gestión de Portfolios de Diseño  
+**Meta Description:**  
+Crea, actualiza y muestra tu portfolio de diseño gráfico en FreelanceHub. Atrae a nuevos clientes con una presentación visual de tu trabajo.  
+**Keywords:**  
+portfolios de diseño, gestión de portfolios, diseño gráfico, trabajos anteriores, portfolio freelance  
+**Author:**  
+FreelanceHub Team
+
+**Gestión de Mensajería o Contacto**
+
+**Title:**  
+Gestión de Mensajería y Contacto  
+**Meta Description:**  
+Mantén una comunicación fluida con tus clientes y colegas a través del sistema de mensajería de FreelanceHub. Envia y recibe mensajes en tiempo real.  
+**Keywords:**  
+mensajería, contacto con clientes, sistema de mensajería, comunicación freelance  
+**Author:**  
+FreelanceHub Team
+
+
 
 #### 4.2.4. Searching Systems
+**Búsqueda en Portfolios**  
+El sistema de búsqueda en la sección de Gestión de Portfolios permite a los usuarios encontrar rápidamente los portfolios de diseñadores gráficos dentro de FreelanceHub. Esta funcionalidad optimiza la experiencia de los clientes que buscan talentos específicos para sus proyectos o desean explorar diferentes estilos de diseño.
 
+**Objetivo:** Facilitar la localización de portfolios de diseñadores específicos dentro de la plataforma.  
+
+**Ubicación:** En la sección de **Gestión de Portfolios**.  
+
+**Funcionalidad:** Permite buscar por nombre de diseñador, categoría de diseño, o palabras clave en las descripciones del portfolio.  
+
+**Vista de Resultados:** Muestra los portfolios que coinciden con los parámetros de búsqueda, incluyendo una vista previa del diseño y detalles básicos de cada uno.
 
 #### 4.2.5. Navigation Systems
+
+Este formato está diseñado para  **FreelanceHub**, reflejando cómo los distintos roles (freelancers y clientes) interactúan con las diversas secciones de la app según sus permisos y responsabilidades.
+
+**Página Principal (Proyectos)**
+
+**Estructura:**  
+Muestra todos los proyectos en los que el usuario está involucrado.  
+Botones de acción para crear, editar o gestionar los proyectos existentes.  
+
+**Acción del Usuario:**  
+- **Freelancer (Diseñador gráfico):** Puede gestionar sus proyectos, crear nuevos y editar los existentes.  
+- **Cliente:** Solo puede visualizar los proyectos en los que participa.
+
+---
+
+**Sección de Portfolios**
+
+**Estructura:**  
+Visualización de portfolios creados por los diseñadores gráficos en la plataforma.  
+Submenú para acceder a la vista de portfolios destacados o filtrados.  
+
+**Acción del Usuario:**  
+- **Freelancer (Diseñador gráfico):** Puede gestionar su propio portfolio, agregar nuevos trabajos y modificar los existentes.  
+- **Cliente:** Solo puede visualizar los portfolios y contactar a los diseñadores según sus intereses.
+
+---
+
+**Sección de Pagos**
+
+**Estructura:**  
+Visualización de las transacciones y pagos realizados, tanto entrantes como salientes.  
+Opciones para gestionar métodos de pago y ver el historial de pagos.  
+
+**Acción del Usuario:**  
+- **Freelancer (Diseñador gráfico):** Puede ver su historial de pagos, realizar cobros y gestionar su información de pago.  
+- **Cliente:** Puede ver el historial de pagos realizados y gestionar métodos de pago, pero no tiene acceso a la información del freelancer.
+
+---
+
+**Sección de Calificaciones**
+
+**Estructura:**  
+Visualización de las calificaciones que ha recibido el diseñador gráfico y de los comentarios de los clientes.  
+Opciones para dar feedback sobre los servicios recibidos.  
+
+**Acción del Usuario:**  
+- **Freelancer (Diseñador gráfico):** Puede ver las calificaciones recibidas y responder a los comentarios.  
+- **Cliente:** Puede calificar los trabajos del freelancer y dejar comentarios sobre su experiencia.
+
+---
+
+**Sección de Mensajería**
+
+**Estructura:**  
+Sistema de mensajería para mantener la comunicación entre el freelancer y el cliente.  
+Permite enviar y recibir mensajes en tiempo real.  
+
+**Acción del Usuario:**  
+- **Freelancer (Diseñador gráfico):** Puede enviar y recibir mensajes relacionados con sus proyectos.  
+- **Cliente:** Puede enviar y recibir mensajes con el freelancer en relación a los proyectos.
+
+---
+
+**Sistema de Navegación Condicional por Roles**
+
+- **Freelancer (Diseñador gráfico):** Tiene acceso completo a todas las opciones de navegación y puede gestionar sus portfolios, pagos, calificaciones y mensajes.  
+- **Cliente:** Solo puede visualizar la información disponible en las secciones correspondientes, sin opciones de edición o gestión, como ver portfolios, calificaciones y contactar a diseñadores.
