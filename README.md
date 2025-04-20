@@ -596,7 +596,7 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Time**| 18:00 PM|
 | **Location**| Discord (Reunión virtual)|
 | **Prepared By**|Valentino Sandoval Paiva|
-| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, |
+| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Alexander Paolo Justo Yauricasa, Anderson Jose Gamarra Vega, Javier Oswaldo Tello Murga |
 | **Sprint Goal & User Stories**||
 | **Sprint 1 Goal**| Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
 | **Sprint 1 Velocity**| ------ |
@@ -612,7 +612,35 @@ Link Trello:
 #### 5.2.1.3 Development Evidence for Sprint Review
 
 
+| Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| Landing-page | main   | 0b0887a6738319e793654bf080e88feef6db5243                                  | Initial commit                                                              | Created the README file.                                                                                 | 16/04/2025              |
+| Landing-page | main   | 3cd1ffc                                  | Feat: added navbar and header                                               | Feat: added navbar and header                                                                            | 16/04/2025              |
+| Landing-page | main   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 16/04/2025              |
+| Landing-page | main   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 16/04/2025              |
+| Landing-page | main   | 47d2070                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 16/04/2025              |
+| Landing-page | main   | 280c80e                                  | nojotros add                                                                | nojotros add                                                                                             | 16/04/2025              |
+| Landing-page | main   | ec30e3f                                  | AÑADIENDO MI PARTE                                                          | AÑADIENDO MI PARTE                                                                                       | 16/04/2025              |
+| Landing-page | main   | 5d497e7                                  | AÑADI MI PARTE                                                              | AÑADI MI PARTE                                                                                           | 16/04/2025              |
+| Landing-page | main   | c4a4795db0aa611aa25fc3f3dea4d0d9f5574ed1 | feat: Add files and update                                                  | Se añade archivos al repositorio                                                                         | 16/04/2025              |
+| Landing-page | main   | 1dd9e3e004dc828fd9134f631738121951dd1cba | feat: Add funcionalidades                                                   | Se añade funcionalidades al .js                                                                          | 17/04/2025              |
+| Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4 | feat: Agregación de estilos para un sección                                 | Se implementa estilos al landing page                                                                    | 17/04/2025              |
+| Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir Preguntas frecuentes, actualización de imagenes y contactanos  | Se añade una seccion de preguntas y respuestas, la actualización de imagenes y la sección de contactanos | 17/04/2025              |
+
+
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
+
+| Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
+| --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing                        | feature/tb1-Alexander  | 4823259                                  | Initial commit           | Created the README file.                    | 21/04/2025              |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing                        | feature/tb1-Alexander  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Valentino  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Valentino  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Anderson   | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Anderson   | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Javier   | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Javier  | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Iker | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US08 gherkin | Se añade la sección de Contactanos          | 21/04/2025              |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
