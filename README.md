@@ -7,7 +7,7 @@ Product:
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 <p align="center">
-  <img src="assets/tb1 images/upc-logo.png">
+  <img src="assets/tb1images/upc-logo.png">
 </p>
 
 ## Ingenieria de Software
@@ -258,7 +258,7 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="180" height="180" src="assets/tb1 images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| <p align="center"><img width="180" height="180" src="assets/tb1images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
 | --------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
@@ -372,3 +372,108 @@ necesitan un sistema de calificación después de cada servicio
 porque eso les ayuda a generar confianza en la calidad del trabajo y tomar mejores decisiones.
 Tendremos éxito si al menos el 80% de los servicios completados terminan con una calificación del cliente.
 
+
+
+## Capítulo IV: Product Design
+
+### 4.1. Style Guidelines.
+
+En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
+
+### 4.1.1. General Style Guidelines.
+
+**Colors:**
+
+Para los colores de la aplicación “FRELANCEHUB” utilizamos una corta variedad de colores vivos, enfocado en los caminos que brinda nuestro logo. Hubo variaciones en PC, ya que se decidió darle espacio a la interfaz y a la simplicidad de está. Además, utilizamos colores importantes para llamar la atención del usuario. Esto se debe a que el mayor público se encuentra en estos dispositivos y se necesita de mayor visibilidad de la app.
+
+![alt text](assets/tb1images/paleta.png)
+
+**Logo:**
+
+![alt text](assets/tb1images/logo1.png)
+
+**Tipografía:**
+
+**Escala:**
+
+En formato general se utiliza 30px y Sulphur point como tipografía del programa. Estas medidas tendrán variaciones según el dispositivo. A continuación, se presentará la tipografía elegida para el diseño de la app web.
+
+**• Base:** 30 px
+
+**• Ratio:** 2,05
+
+**• Tipografía:** Sulphur Point
+
+**• Interlineado:** 1,1
+
+![alt text](assets/tb1images/ima1.png)
+
+**Weights:**
+
+![alt text](assets/tb1images/ima2.png)
+
+**Nomenclature:**
+
+![alt text](assets/tb1images/ima3.png)
+
+**Example:**
+
+**• Título:** Sulphur Point
+
+**• Cuerpo:** Sulphur Point
+
+**• Tamaño:** 30 letra y 60 título
+
+**Elementos Gráficos:**
+
+La principal estética tanto de la página web como de la aplicación será minimalista, enfocándose en mantener una paleta de colores limitada y resaltando el producto por encima del diseño de la interfaz.
+
+### 4.1.2. Web Style Guidelines.
+
+**Diseño de Página:**
+
+- La página contará con una barra de navegación fija en la parte superior, la cual incluye los apartados de: Inicio, Nosotros, Servicios y Contacto. Al igual que en el sitio, se mantendrá un diseño limpio y centrado en la experiencia del usuario. Además, contará con un footer que incluye enlaces a redes sociales como Instagram y otras plataformas relevantes.
+Se utilizarán animaciones suaves al hacer scroll, mostrando secciones con imágenes, íconos y texto que explican el servicio de forma visual y atractiva. En computadoras de escritorio o laptops, será suficiente con scrollear para visualizar toda la página, manteniendo una navegación fluida y responsiva en todo momento.
+
+**Diseño Responsive:**
+
+- Para permitir que la página se adapte a diferentes pantallas o el usuario cambie el tamaño de la ventana para que el contenido siga pudiéndose entender y visualizar de manera correcta, se utilizará CSS3 y media queries para definir estilos según el tamaño de la pantalla. Los elementos clave, como la barra de navegación y el footer, se ajustarán automáticamente en diferentes dispositivos mediante unidades de medida relativas.
+
+**Imágenes**
+
+- Los formatos de imagen sugeridos son JPEG y PNG para asegurar una alta calidad. Se establecerán tamaños recomendados y se aplicarán normas de compresión para mejorar el rendimiento del sitio web.
+
+**Interacción del Usuario**
+
+- Se utilizarán animaciones sencillas para presentar imágenes y textos que informen al usuario sobre el servicio. En laptops o PCs, basta con hacer scroll para ver toda la página y disfrutar de estas interacciones.
+
+**Navegación:**
+
+- La barra de navegación y el pie de página tendrán márgenes y espaciado apropiados para garantizar una visualización óptima en distintos dispositivos. El menú de navegación será intuitivo y fácil de usar, incluyendo una opción de menú tipo hamburguesa para dispositivos más pequeños. Los enlaces a las redes sociales en el footer serán fácilmente accesibles y se ajustarán al diseño responsive.
+
+**Recursos:**
+
+- Se facilitarán enlaces a recursos visuales, como imágenes de marca y gráficos, para que el equipo pueda acceder a ellos de manera sencilla. Además, se incluirán enlaces de descarga para las fuentes y archivos de diseño utilizados en el sitio web.
+
+
+
+### 4.2. Information Architecture
+- La arquitectura de la información de FreelanceHun busca ofrecer una experiencia fluida e intuitiva para dos tipos de usuarios: personas naturales y empresas. La organización y etiquetado de contenidos se diseñó para guiar al usuario de forma eficiente desde el registro hasta el aprovechamiento de todas las funcionalidades de la plataforma. Esto se logra a través de una combinación de jerarquías visuales claras, secuencias lógicas y categorizaciones adaptadas a cada audiencia.
+
+#### 4.2.1. Organization Systems
+
+Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, podemos ver la estructura visual, la cual fue diseñada para adaptarse a nuestros dos segmentos objetivos.
+
+Aunque ambos segmentos tienen acceso a las mismas secciones, la diferencia clave radica en los permisos. Mientras que el Scrum Master o Product Owner puede gestionar y editar múltiples aspectos del proyecto, los miembros del equipo solo pueden visualizar el contenido y acceder a los enlaces, sin posibilidad de modificar la información.
+
+
+#### 4.2.2. Labeling Systems
+
+
+#### 4.2.3. SEO Tags and Meta Tags
+
+
+#### 4.2.4. Searching Systems
+
+
+#### 4.2.5. Navigation Systems
