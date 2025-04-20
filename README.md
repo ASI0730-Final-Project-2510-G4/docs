@@ -681,3 +681,118 @@ Permite enviar y recibir mensajes en tiempo real.
 
 - **Freelancer (Diseñador gráfico):** Tiene acceso completo a todas las opciones de navegación y puede gestionar sus portfolios, pagos, calificaciones y mensajes.  
 - **Cliente:** Solo puede visualizar la información disponible en las secciones correspondientes, sin opciones de edición o gestión, como ver portfolios, calificaciones y contactar a diseñadores.
+
+
+### 4.3. Landing Page UI Design
+
+#### 4.3.1. Landing Page Wireframe
+
+**Introducción a las decisiones de diseño y arquitectura de información**:  
+El diseño de la landing page se realizó con el objetivo de optimizar la experiencia del usuario, asegurando una navegación clara y accesible en dispositivos de distintos tamaños. Se optó por una estructura de navegación sencilla y eficiente, permitiendo a los usuarios desplazarse fácilmente por las secciones más importantes. Se priorizó un diseño responsive que se adapta a diferentes dispositivos, desde computadoras de escritorio hasta teléfonos móviles. Además, la arquitectura de información asegura que el contenido más relevante esté destacado, facilitando la interacción con el usuario.
+
+Se estructuró la landing page para facilitar la navegación y claridad del contenido, con un navbar con links que redirigen al usuario a la sección deseada. El diseño es responsive, adaptándose a un hamburger menu en pantallas pequeñas. En el hero, se ubica el eslogan y un call-to-action, al igual que en la sección Nosotros, para redirigir así a los usuarios al formulario de registro. El footer contiene enlaces a redes sociales, manteniendo la coherencia visual.
+
+##### Desktop Web Browser:
+
+<p align="center">
+
+La landing page cuenta con diferentes secciones:
+
+- Hero o header: Se encuentra la barra de navegación, además del eslogan de la aplicación e imagen referencial.
+- Descripción general: Se muestran las principales características de la aplicación al usuario.
+- Beneficios: El usuario puede ver los beneficios de usar la aplicación.
+- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además se incentiva al usuario a registrarse.
+- Footer: Enlaces a las redes sociales de la plataforma.
+- Preguntas Frecuentes: Se muestra las preguntas frecuentes que suelen hacernos al momento de utilizar nuestra aplicación web
+
+![alt text](assets/tb1images/wire1.png)
+
+Apartado de registro en FreelanceHub
+El proceso de registro en FreelanceHub permite a los usuarios crear una cuenta para acceder a todas las funcionalidades de la plataforma. Freelancers y clientes pueden registrarse proporcionando su información básica, como nombre, correo electrónico y contraseña, para comenzar a gestionar proyectos, portfolios y comunicaciones de manera segura.
+
+![alt text](assets/tb1images/wire2.png)
+
+Apartado de Inicio de Sesión en FreelanceHub
+El inicio de sesión en FreelanceHub permite a los usuarios acceder a sus cuentas con su correo electrónico y contraseña previamente registrados. Esto les da acceso a sus proyectos, portfolios, mensajes y todo lo relacionado con su actividad en la plataforma, asegurando que solo los usuarios autenticados puedan realizar acciones en sus cuentas.
+
+![alt text](assets/tb1images/wire3.png)
+
+##### Mobile Web Browser:
+
+En la versión móvil de FreelanceHub, se implementa un hamburger menu que permite a los usuarios acceder fácilmente a la navegación de la plataforma. Este menú desplegable ofrece enlaces rápidos a las secciones clave de la app, proporcionando una experiencia de usuario optimizada y accesible desde dispositivos móviles, asegurando que los usuarios puedan moverse por la plataforma de manera fluida y eficiente.
+
+![alt text](assets/tb1images/wire4.png)
+
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, preguntas frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
+
+![alt text](assets/tb1images/wire5.png)
+
+##### Formulario de Registro Adaptado a Móvil
+El formulario de registro de FreelanceHub está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
+
+![alt text](assets/tb1images/wire6.png)
+
+##### Inicio de Sesión Adaptado a Móvil
+El inicio de sesión en FreelanceHub está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
+
+![alt text](assets/tb1images/wire7.png)
+
+
+
+#### 4.3.2. Landing Page Mock-up
+
+Los mock-ups proporcionan una representación visual de la estructura final de la landing page, tanto para la versión de escritorio como para dispositivos móviles. En el diseño de escritorio (Desktop Web Browser), se priorizó una disposición clara y organizada, mientras que en la versión móvil (Mobile Web Browser), se implementó un diseño responsive para asegurar una experiencia de usuario fluida y óptima en cualquier tamaño de pantalla.
+
+##### Desktop Web Browser:
+
+<p align="center">
+
+La landing page cuenta con diferentes secciones:
+
+- Hero o header: Se encuentra la barra de navegación, además del eslogan de la aplicación e imagen referencial.
+- Descripción general: Se muestran las principales características de la aplicación al usuario, junto con una imagen referente.
+- Beneficios: El usuario puede ver los beneficios de usar la aplicación.
+- Nosotros: Se muestran la visión, misión y un breve resumen sobre la empresa detrás del proyecto. Además, se incentiva al usuario a registrarse.
+- Preguntas Frecuentes: Se muestra las preguntas mas recurrentes de la aplicación lo cual le da a saber al usuario algunas respuestas de lo que es nuestra aplicación y lo facil de usar.
+- Footer: Enlaces a las redes sociales de la plataforma.
+
+![alt text](assets/tb1images/wirel1.png)
+
+Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
+
+![alt text](assets/tb1images/wirel2.png)
+
+Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
+
+![alt text](assets/tb1images/wirel3.png)
+
+##### Mobile Web Browser:
+
+<p align="center">
+
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se encuentran los links de navegación. 
+
+![alt text](assets/tb1images/wirel4.png)
+
+Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, Preguntas Frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla, permitiendo así un acceso óptimo a la información.
+
+![alt text](assets/tb1images/wirel5.png)
+
+
+##### Formulario de Registro Adaptado a Móvil
+El formulario de registro de FreelanceHub está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
+
+![alt text](assets/tb1images/wirel6.png)
+
+##### Inicio de Sesión Adaptado a Móvil
+El inicio de sesión en FreelanceHub está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
+
+![alt text](assets/tb1images/wirel7.png)
+
+
+
+### 4.4. Web Applications UX/UI Design
+
+#### 4.4.1. Web Applications Wireframes
+
+En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida.
