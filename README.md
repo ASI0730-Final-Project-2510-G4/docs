@@ -31,6 +31,7 @@ Product:
 - Alexander Paolo Justo Yauricasa - u20191c054
 - Anderson Jose Gamarra Vega - u202016154
 - Javier Oswaldo Tello Murga - u202218387
+- Iker Matias Pejerrey Ruiz - u202317713
 
 ### Marzo, 2025
 
@@ -240,16 +241,18 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 | **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**   | TB1:<br>**Valentino Sandoval Paiva** <br> TP: <br> **Valentino Sandoval Paiva** <br> TB2: <br> **Valentino Sandoval Paiva** <br> TF: <br> **Valentino Sandoval Paiva** <br>|**Valentino Sandoval Paiva**<br>TB1:|
 | **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | TB1:<br>**Valentino Sandoval Paiva** <br> TP: <br> **Valentino Sandoval Paiva** <br> TB2: <br> **Valentino Sandoval Paiva** <br> TF: <br> **Valentino Sandoval Paiva** <br> | <br> **Valentino Sandoval Paiva**<br> TB1:<br> |
 
-## Capítulo I: Introducción
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
 
 ### 1.1.1 Descripcion de la startup
-Somos _nombre-startup_, un grupo conformado por 5 jóvenes estudiantes de la Universidad Peruana de Ciencias aplicadas, quienes buscan comprometidamente identificar una problemática en un entorno real para darle una solución mediante los conocimientos adquiridos en el curso de aplicaciones web , para ello, hemos iniciado con nuestro proyecto denominado _nombre-proyecto_.
+Somos TechNova, un grupo conformado por 5 jóvenes estudiantes de la Universidad Peruana de Ciencias aplicadas, quienes buscan comprometidamente identificar una problemática en un entorno real para darle una solución mediante los conocimientos adquiridos en el curso de aplicaciones web , para ello, hemos iniciado con nuestro proyecto denominado CreatiLink.
 
-_nombre-proyecto_ es una plataforma web que conecta a profesionales independientes con clientes que buscan servicios especializados en diversas áreas, cómo lo podrian ser  diseño gráfico, consultoría y hasta barbería y tatuajes. Nuestro objetivo es brindar visibilidad y oportunidades reales a aquellos talentos que, pese a contar con formación académica o técnica, enfrentan dificultades para insertarse en el mercado laboral formal.
+CreatiLink es una plataforma web que conecta a diseñadores independientes de distintos ámbitos con clientes que buscan servicios de diseño de una manera más sencilla, directa y confiable. Nuestro objetivo es brindar visibilidad y oportunidades reales a aquellos talentos que, pese a contar con formación académica o técnica, enfrentan dificultades para insertarse en el mercado laboral formal.
 
-Partimos de una problemática real, una gran parte de los egresados universitarios no logra ejercer la carrera que estudiaron, en muchos casos por falta de oportunidades laborales o visibilidad. A través de ProLink, los profesionales pueden crear un perfil social donde muestran su portafolio, experiencia, y reciben calificaciones de sus clientes, lo cual incrementa su reputación y la demanda de sus servicios.
+Partimos de una problemática real, una gran parte de los diseñadores egresados no logra ejercer la carrera que estudiaron, en muchos casos por falta de oportunidades laborales o visibilidad. A través de TechNova, los diseñadores pueden crear un perfil social donde muestran su portafolio, experiencia, y reciben calificaciones de sus clientes, lo cual incrementa su reputación y la demanda de sus servicios.
 
-Del lado del cliente, la app facilita encontrar profesionales de calidad que muchas veces no operan desde locales físicos y por ello son difíciles de contactar. El sistema permite revisar perfiles, comparar trabajos previos, contactar directamente por chat para coordinar precio, fecha y lugar, y calificar la experiencia al finalizar el servicio.
+Del lado del cliente, la app facilita encontrar diseñadores de calidad que muchas veces no operan desde locales físicos y por ello son difíciles de contactar. El sistema permite revisar perfiles, comparar trabajos previos, contactar directamente por chat para coordinar precio, fecha y lugar, y calificar la experiencia al finalizar el servicio.
 
 Del lado de negocio, este proyecto es autosustentable, ya que está diseñado para que los mismo usuarios generen el contenido dentro de la aplicación, asímismo, en un futuro podría integrarse sistemas de pagos en línea, inteligencia artificial y muchas más tecnologías modernas, lo que hace que el modelo sea escalable.
 
@@ -263,7 +266,7 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 
 
 
-### 1.2. Solution Profile
+## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
 Para llevar a cabo un análisis más profundo de la problemática, optamos por utilizar la técnica de las 5W y 2H. Según Sydle (2023), esta técnica es una herramienta que consiste en formular siete preguntas clave que permiten visualizar la problemática de manera más clara y facilitar la ejecución de un plan de acción.
@@ -274,17 +277,17 @@ Para llevar a cabo un análisis más profundo de la problemática, optamos por u
 Están involucrados el grupo de desarrolladores de la aplicación web, que en este caso somos nosotros, la universidad quién es el que nos brinda las herramientas y conocimientos para el desarrollo de este proyecto y por último los usuarios quienes serán los principales involucrados de la aplicación.
 
 **¿A quiénes les sucede el problema?**
-El problema le sucede a profesionales independientes que hayan egresado ya sea como técnico o universitario que enfrentan dificultades para insertarse en el mercado laboral.
+El problema le sucede a diseñadores profesionales independientes que hayan egresado ya sea como técnico o universitario que enfrentan dificultades para insertarse en el mercado laboral.
 
 **¿Quién lo utilizará?**
 Nuestro principales usuarios son:
-- ***Profesionales independientes*** quienes buscan promocionar sus servicios y atraer clientes.
+- ***Diseñadores independientes*** quienes buscan promocionar sus servicios y atraer clientes.
 - ***Clientes*** quienes requieren servicios específicos que no sean tan accesibles o confiables de encontrar.
 
 
 #### What
 **¿Cuál es el problema?**
-Muchos profesionales egresados no logran ejercer su carrera ni generar ingresos estables debido a la falta de oportunidades laborales, visibilidad y conexión con clientes. A la vez, los clientes tienen dificultades para encontrar fácilmente profesionales de calidad que no operan desde locales físicos.
+Muchos diseñadores profesionales egresados no logran ejercer su carrera ni generar ingresos estables debido a la falta de oportunidades laborales, visibilidad y conexión con clientes. A la vez, los clientes tienen dificultades para encontrar fácilmente profesionales de calidad que no operan desde locales físicos.
 
 
 #### Where
@@ -292,7 +295,7 @@ Muchos profesionales egresados no logran ejercer su carrera ni generar ingresos 
 En casa, en el trabajo, o cualquier lugar con acceso a internet mediante una laptop o smartphone. No necesita estar físicamente en un lugar específico.
 
 **¿A dónde se dirige?**
-Se dirige hacia la contratación de un servicio profesional que se ajuste a sus necesidades, buscando comodidad, confianza y eficiencia.
+Se dirige hacia la contratación de un servicio de diseño profesional que se ajuste a sus necesidades, buscando comodidad, confianza y eficiencia.
 
 **¿Dónde surge el problema?**
 En el entorno laboral peruano, donde muchos egresados o técnicos tienen dificultades para insertarse formalmente en el mercado laboral o para promocionar sus servicios.
@@ -300,7 +303,7 @@ En el entorno laboral peruano, donde muchos egresados o técnicos tienen dificul
 
 #### When
 **¿Cuándo sucede el problema?**
-Principalmente después de que los profesionales egresan de sus estudios técnicos o universitarios y no encuentran trabajo en su área. También cuando un cliente necesita un servicio específico y no tiene medios efectivos para contactar a un profesional independiente confiable.
+Principalmente después de que los diseñadores profesionales egresan de sus estudios técnicos o universitarios y no encuentran trabajo en su área. También cuando un cliente necesita un servicio específico de diseño y no tiene medios efectivos para contactar a un profesional independiente confiable.
 
 **¿Cuándo utiliza el cliente el producto?**
 Cuando necesita contratar un servicio (por ejemplo, para diseñar un logo, realizar el diseño de un espacio interior, hacer una consultoría, etc.), y busca opciones personalizadas, rápidas y confiables.
@@ -313,14 +316,14 @@ Usualmente en un entorno cómodo y privado, como su hogar o lugar de trabajo, co
 **¿Cuál es la causa del problema?**
 - Escasez de oportunidades laborales formales.
 - Falta de visibilidad para talentos jóvenes y técnicos.
-- Falta de plataformas accesibles que conecten directamente a profesionales independientes con clientes.
+- Falta de plataformas accesibles que conecten directamente a diseñadores profesionales independientes con clientes.
 - Limitación de acceso a locales físicos por parte de muchos
 profesionales (por costos, informalidad, etc.).
 
 
 #### How
 **¿En qué condiciones los clientes usan nuestro productos?**
-Con acceso a internet y una necesidad clara de un servicio específico, buscando soluciones rápidas, confiables, prefiriendo contactar directamente a un profesional sin intermediarios complejos.
+Con acceso a internet y una necesidad clara de un servicio específico, buscando soluciones rápidas, confiables, prefiriendo contactar directamente a un diseñador profesional sin intermediarios complejos.
 
 **¿Cómo nos conocieron los compradores?**
 A través de redes sociales, recomendaciones boca a boca, publicidad digital, o iniciativas universitarias y comunitarias que promueven el emprendimiento.
@@ -329,21 +332,28 @@ A través de redes sociales, recomendaciones boca a boca, publicidad digital, o 
 Desde dispositivos móviles y computadoras, mediante una interfaz intuitiva, con perfiles claros, portafolios visuales, chat directo y un sistema de calificaciones confiables.
 
 **¿Qué llevó a la persona a llegar a esta situación?**
-La necesidad urgente de generar ingresos por parte de los profesionales, la informalidad del mercado laboral, y la falta de medios accesibles para dar a conocer sus habilidades y experiencia. Y la de plataformas sencillas, directas e intuitivas para contratar servicios específicos por parte de los clientes.
+La necesidad urgente de generar ingresos por parte de los diseñadores, la informalidad del mercado laboral, y la falta de medios accesibles para dar a conocer sus habilidades y experiencia. Y la de plataformas sencillas, directas e intuitivas para contratar servicios específicos por parte de los clientes.
 
 #### How much
 **¿Cuánto cuesta el producto?**
 Inicialmente, la aplicación puede ser gratuita para los usuarios, siendo autosustentable por el contenido generado por ellos. Eventualmente se puede monetizar mediante comisiones por transacción, membresías premium, o integración de métodos de pago.
 
 **¿Cuánto esfuerzo requiere del usuario?**
-- Para el profesional: crear un perfil, subir su portafolio y estar disponible para responder a clientes.
+- Para el diseñador: crear un perfil, subir su portafolio y estar disponible para responder a clientes.
 - Para el cliente: navegar, comparar perfiles y comunicarse directamente con el profesional.
 
 
-#### Lean Ux Problem Statements
-Muchos profesionales independientes egresados de carreras técnicas o universitarias enfrentan dificultades para ingresar al mercado laboral formal, debido a la falta de visibilidad, oportunidades y medios accesibles para ofrecer sus servicios. Por otro lado, los clientes encuentran complicado contactar a profesionales de calidad que no operan en locales físicos.
+### 1.2.2. Lean Ux Process
 
-#### Assumptions
+#### 1.2.2.1. Lean Ux Problem Statements
+El Lean UX Problem Statement es una herramienta fundamental en el marco de trabajo de Lean UX, diseñada para enfocar los esfuerzos del equipo en resolver problemas específicos y relevantes para los usuarios. Su propósito es proporcionar claridad y dirección, asegurándose de que el equipo entienda el problema antes de buscar soluciones. En resumen, ayuda a evitar que se desarrollen soluciones que no estén alineadas con las necesidades reales del usuario:
+
+Muchos diseñadores independientes egresados de carreras técnicas o universitarias enfrentan dificultades para ingresar al mercado laboral formal, debido a la falta de visibilidad, oportunidades y medios accesibles para ofrecer sus servicios, según cifras de el instituto Mexicano de Competitividad, solo la carrera de diseño gráfico, representa un 32% de riesgo, haciendo refernecia a la cantidad de personas que estudiaron eso y se encuentran desempleados. Por otro lado, los clientes encuentran complicado contactar a diseñadores de calidad que no operan en locales físicos.
+
+#### 1.2.2.2. Assumptions
+
+Las assumptions en Lean UX son hipótesis o suposiciones que el equipo hace sobre el problema, los usuarios, y las posibles soluciones antes de tener suficiente información o datos sólidos. Estas suposiciones son útiles porque permiten empezar a trabajar rápidamente, pero deben ser validadas o refutadas mediante investigaciones y pruebas posteriores:
+
 - Los profesionales independientes están buscando visibilidad y más clientes.
 
 - Los clientes tienen dificultades para encontrar profesionales confiables de manera rápida y segura para una tarea específica.
@@ -354,7 +364,9 @@ Muchos profesionales independientes egresados de carreras técnicas o universita
 
 - Los usuarios estarían dispuestos a usar esta aplicación desde un smartphone o laptop.
 
-#### Lean Ux Problem Statements
+#### 1.2.2.3. Lean Ux Hypothesis Statements
+Los Lean UX Hypothesis Statements son una forma estructurada de expresar suposiciones sobre los usuarios, los problemas y las posibles soluciones en términos de hipótesis verificables. Ayudan a organizar el pensamiento del equipo y guiar las pruebas necesarias para validar dichas hipótesis:
+
 - Creemos que los diseñadores necesitan una plataforma para mostrar su portafolio y atraer clientes fácilmente
 porque actualmente no cuentan con medios accesibles ni visibilidad suficiente para ofrecer sus servicios.
 Tendremos éxito si al menos el 60% de los diseñadores registrados completan su perfil y suben su portafolio en la primera semana de uso.
@@ -372,7 +384,9 @@ necesitan un sistema de calificación después de cada servicio
 porque eso les ayuda a generar confianza en la calidad del trabajo y tomar mejores decisiones.
 Tendremos éxito si al menos el 80% de los servicios completados terminan con una calificación del cliente.
 
-#### Lean Ux Canvas
+#### 1.2.2.4. Lean Ux Canvas
+
+El Lean UX Canvas es una herramienta visual diseñada para ayudar a equipos de diseño y desarrollo a organizar sus ideas, definir problemas y formular hipótesis de manera colaborativa. Este canvas es especialmente útil en proyectos donde la agilidad y la alineación entre los integrantes son clave para el éxito. Funciona como una guía estructurada que fomenta el pensamiento centrado en el usuario y la experimentación rápida.
 
 | Número | Título                        | Detalles                                                                                               |
 |--------|-------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -384,6 +398,19 @@ Tendremos éxito si al menos el 80% de los servicios completados terminan con un
 | 6      | Hypotheses                   | 1.Creemos que los diseñadores independientes necesitan una plataforma para exhibir su trabajo y atraer clientes. <br> 2.Creemos que los clientes necesitan una forma fácil y confiable de encontrar diseñadores de calidad sin recurrir a agencias o intermediarios. <br> 3.Creemos que una interfaz clara con perfiles visuales y reseñas fomentará la confianza y facilitará la contratación. <br> 4.Creemos que al centralizar a los diseñadores en un solo espacio, generaremos más tráfico y visibilidad para ellos.|
 | 7      | What’s the most important thing we need to learn first?  | Si los diseñadores están realmente interesados en usar una plataforma como esta para ganar visibilidad y captar clientes de forma constante y directa, sin necesidad de intermediarios como agencias o redes sociales genéricas, asimismo, saber si nuestros posibles clientes estarían interesados en una plataforma sencilla y confiable para contratar o buscar diseñadores de algún ámbito en específico.|
 | 8      | What’s the least amount of work we need to do to learn the next most important thing?| Construir un MVP básico que permita: <br> Registro de diseñadores. <br> -Creación de un perfil con portafolio. <br> -Visibilidad de perfiles por parte de clientes. <br> -Comunicación inicial vía chat o contacto directo. <br> Y validarlo con un grupo pequeño de diseñadores y clientes reales. |\
+
+
+## 1.3. Segmentos Objetivos:
+Los segmentos objetivos son grupos específicos de personas dentro de un mercado, definidos por características compartidas como edad, intereses, necesidades o comportamiento. Estos grupos son el foco principal de estrategias de marketing y diseño, ya que representan a los usuarios o clientes ideales para un producto o servicio, los segmentos objetivos que hemos identificado para nuestro proyecto son:
+
+- Segmento 1: Diseñadores independientes
+Este grupo está compuesto por jóvenes talentos del diseño, especialmente aquellos que han egresado recientemente de carreras técnicas o universitarias, y que encuentran barreras para insertarse formalmente en el mercado. Muchos de ellos trabajan de forma independiente o informal, sin una plataforma que respalde su trabajo ni facilite la conexión con potenciales clientes.
+Nuestra propuesta responde a la necesidad de estos diseñadores de mostrar su portafolio, construir una reputación mediante calificaciones, y encontrar clientes sin depender exclusivamente de redes sociales, donde la competencia es desorganizada y poco profesionalizada.
+A su vez, también se incluye a diseñadores con más experiencia que buscan formalizar sus servicios o ampliar su red de contactos, especialmente aquellos que ya tienen una base de clientes, pero carecen de un espacio centralizado para gestionar sus servicios y proyectar una imagen profesional.
+
+- Segmento 2: Clientes en búsqueda de servicios de diseño
+Por el lado de la demanda, está orientado a clientes con necesidades de diseño específicas y personalizadas, que no suelen acudir a agencias tradicionales debido a costos, tiempos o falta de confianza.
+Este segmento incluye a emprendedores y pequeñas empresas que requieren diseño gráfico o branding para sus negocios en crecimiento, también a jóvenes profesionales y estudiantes que necesitan diseño para presentaciones, portafolios o redes sociales y a usuarios con proyectos personales como rediseño de interiores, ilustraciones o piezas gráficas únicas que buscan contacto directo con un diseñador que entienda su visión.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
