@@ -840,271 +840,383 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 **Segmento 1: Diseñador de Interioes**  
 <img src="./assets/ToBe_Map_UP1.png" alt="Imagen To-Be Scenario Map del User Persona 1" style="width:80%">
+<br>
 
 **Segmento 2: Usuarios**
 <img src="./assets/ToBe_Map_UP2.png" alt="Imagen To-Be Scenario Map del User Persona 2" style="width:80%">
 
 ## 3.2. User Stories.
 
+| Epic ID | Título de Épica              | Descripción de la épica                                                                                                              | 
+|---------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Epic 1  | Landing Page | Como Como diseñador o cliente, deseo un landing page que presente información sobre el servicio y sus características principales. |
+| Epic 2  | Gestión de Usuarios | Como Como diseñador o cliente, deseo poder realizar operaciones relacionadas con la gestión de mi cuenta, incluyendo el registro, inicio de sesión, configuración de perfil y cierre de sesión. |
+| Epic 3  | ⁠Gestión de mensajería o contacto | Como diseñador o cliente decean manterner una comunicación  directa para consultar o acordar sus precios o citas. |
+| Epic 4  | ⁠Gestión de calificaciones | Como cliente deseo poder calificar el trabjo de los diseñadores para resltar o criticar sus trabajos.|
+| Epic 5  | ⁠Gestión de portafolios | Como diseñador deseo poder realizar operaciones relacionadas con la gestión de portafoilios de sus diseños, como agregar, editar, borrar y ordenar sus proyectos. |
+| Epic 6  | ⁠Gestión de pagos | Como diseñador o cliente, deseo poder reservar y pagar las citas con un diseñador Para poder optener suss servicios. |6|
+
+### Landing Page Bounded Context
+
+#### Interactuar con el TOOLBAR
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                       |
+| ID‑HU                     | HU01                                                                 |
+| Título HU                 | Interactuar con el TOOLBAR                                           |
+| Descripción HU            | Como diseñador y cliente quiero un toolbar para manejar en la página. |
+| Criterios de Aceptación   | **Scenario: Interactuar con el toolbar**<br>Dado que el diseñador o cliente ingresen a la página<br>Cuando ellos buscan revisar que tiene la página web<br>Entonces ellos interactuarán con el toolbar. |
+
+#### Call to Action
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                       |
+| ID‑HU                     | HU02                                                                 |
+| Título HU                 | Call to Action                                                       |
+| Descripción HU            | Como cliente y diseñador, quiero una sección con botón para iniciar la aplicación. |
+| Criterios de Aceptación   | **Scenario: Ingresar a la aplicación**<br>Dado el cliente o diseñador se encuentra en el landing page<br>Cuando ellos presionan el botón según sus roles<br>Entonces iniciarán en la aplicación. |
+
+#### Sección "How It Works"
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                |
+| ID‑HU                     | HU03                                                                 |
+| Título HU                 | Creación de la Sección "How It Works"                                |
+| Descripción HU            | Como cliente, quiero una sección que explique cómo funciona el servicio para comprender los pasos necesarios. |
+| Criterios de Aceptación   | **Scenario: Guía de la aplicación**<br>Dado el usuario se encuentra en el landing page<br>Cuando el usuario navega a la sección "How It Works"<br>Entonces se muestra información sobre cómo funciona el servicio y los pasos a seguir. |
+
+#### Sección "Features"
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                |
+| ID‑HU                     | HU04                                                                 |
+| Título HU                 | Visualizar la Sección "Features"                                     |
+| Descripción HU            | Como cliente, quiero una sección que destaque las características principales de la aplicación. |
+| Criterios de Aceptación   | **Scenario: Características de la aplicación**<br>Dado el usuario se encuentra en la sección "About"<br>Cuando el usuario navega a la sección "Features"<br>Entonces se muestran las características principales de la aplicación. |
+
+#### Sección "About us"
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                |
+| ID‑HU                     | HU05                                                                 |
+| Título HU                 | Visualizar la Sección "About us"                                     |
+| Descripción HU            | Como cliente, quiero una sección que presente información sobre el equipo. |
+| Criterios de Aceptación   | **Scenario: Información del equipo**<br>Dado el usuario se encuentra en el landing page<br>Cuando el usuario navega a la sección "About us"<br>Entonces se muestra información del equipo y nuestras características. |
+
+#### Sección de Preguntas Frecuentes
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                   |
+| ID‑HU                     | HU06                                                                 |
+| Título HU                 | Creación de la Sección "frequently asked questions"                  |
+| Descripción HU            | Como cliente, quiero una sección que muestre las preguntas frecuentes para tener ayuda de usuarios actuales. |
+| Criterios de Aceptación   | **Scenario: Información de preguntas frecuentes**<br>Dado el usuario se encuentra en el landing page<br>Cuando el usuario navega a la sección "preguntas frecuentes"<br>Entonces se muestran las preguntas frecuentes de los usuarios. |
+
+#### Formulario de Contacto
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                   |
+| ID‑HU                     | HU07                                                                 |
+| Título HU                 | Formulario de Contacto Sencillo                                      |
+| Descripción HU            | Como cliente, quiero un formulario para interactuar con los desarrolladores de forma directa. |
+| Criterios de Aceptación   | **Scenario: Contactar al equipo de desarrollo**<br>Dado el usuario se encuentra en el landing page<br>Cuando el usuario busca el formulario para dejar sus datos e intenciones<br>Entonces el equipo lo contactará e intentará resolver sus dudas. |
+
+#### Visualización de Planes
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                            |
+| ID‑HU                     | HU08                                                                 |
+| Título HU                 | Visualizar los planes                                                |
+| Descripción HU            | Como cliente, quiero poder ver los planes para poder afiliarme.      |
+| Criterios de Aceptación   | **Scenario: Ver planes del aplicativo**<br>Dado el usuario se encuentra en el landing page<br>Cuando el usuario encuentra la sección de los planes<br>Entonces podré afiliarme a alguno. |
+
+#### Sección de Footer
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Landing Page                                                       |
+| ID‑HU                     | HU09                                                                 |
+| Título HU                 | Creación de la Sección de Footer                                     |
+| Descripción HU            | Como cliente, quiero un footer en el landing page para acceder a enlaces adicionales y redes sociales. |
+| Criterios de Aceptación   | **Scenario: Ver redes sociales del aplicativo**<br>Dado el usuario se encuentra en el landing page<br>Cuando el usuario desplaza hacia abajo hasta el footer<br>Entonces se muestran enlaces adicionales y enlaces a las redes sociales de la aplicación. |
+
+### Gestión de Usuarios Bounded Context
+
+#### Registro de Cuentas
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Usuarios                                                  |
+| ID‑HU                     | HU10                                                                 |
+| Título HU                 | Registro de Cuentas                                                  |
+| Descripción HU            | Como usuario nuevo, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades disponibles. |
+| Criterios de Aceptación   | **Scenario 1: Registro Exitoso**<br>Dado que soy un usuario nuevo<br>Cuando completo el formulario de registro con información válida<br>Entonces se crea una cuenta para mí en la plataforma<br>Y recibo un correo electrónico de confirmación de registro.<br><br>**Scenario 2: Validación de Datos**<br>Dado que soy un usuario nuevo<br>Cuando intento registrarme con información incompleta o incorrecta<br>Entonces se muestran mensajes de error indicando los campos que requieren corrección<br>Y no se crea la cuenta hasta que se proporcionen datos válidos. |
+
+#### Inicio de Sesión
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Usuarios                                                  |
+| ID‑HU                     | HU11                                                                 |
+| Título HU                 | Inicio de Sesión                                                     |
+| Descripción HU            | Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mi cuenta y mis datos. |
+| Criterios de Aceptación   | **Scenario 1: Inicio de Sesión Exitoso**<br>Dado que soy un usuario registrado<br>Cuando ingreso mi correo electrónico y contraseña correctos<br>Entonces accedo a mi cuenta en la plataforma.<br><br>**Scenario 2: Contraseña Incorrecta**<br>Dado que soy un usuario registrado<br>Cuando ingreso mi correo electrónico y una contraseña incorrecta<br>Entonces se muestra un mensaje de error indicando que la contraseña es incorrecta<br>Y no puedo acceder a mi cuenta hasta que ingrese la contraseña correcta. |
+
+#### Configuración de Perfil
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Usuarios                                                  |
+| ID‑HU                     | HU12                                                                 |
+| Título HU                 | Configuración de Perfil                                              |
+| Descripción HU            | Como usuario registrado, quiero poder configurar mi perfil para personalizar mi experiencia en la plataforma. |
+| Criterios de Aceptación   | **Scenario 1: Edición de Perfil**<br>Dado que soy un usuario registrado<br>Cuando accedo a la sección de configuración de perfil<br>Entonces puedo editar información como mi nombre, foto de perfil, información de contacto, etc.<br><br>**Scenario 2: Cambio de Contraseña**<br>Dado que soy un usuario registrado<br>Cuando accedo a la sección de configuración de perfil<br>Y selecciono la opción de cambiar contraseña<br>Entonces puedo actualizar mi contraseña ingresando la contraseña actual y la nueva contraseña. |
+
+#### Cierre de Sesión
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Usuarios                                                  |
+| ID‑HU                     | HU13                                                                 |
+| Título HU                 | Cierre de Sesión                                                     |
+| Descripción HU            | Como usuario, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad. |
+| Criterios de Aceptación   | **Scenario 1: Cierre de Sesión Exitoso**<br>Dado que soy un usuario registrado y he iniciado sesión en la plataforma<br>Cuando selecciono la opción de cerrar sesión<br>Entonces mi sesión se cierra y soy redirigido a la página de inicio de sesión.<br><br>**Scenario 2: Acceso a Funcionalidades Limitadas sin Iniciar Sesión**<br>Dado que soy un usuario no registrado o no he iniciado sesión<br>Cuando intento acceder a funcionalidades que requieren inicio de sesión<br>Entonces se me redirige a la página de inicio de sesión antes de poder acceder a esas funcionalidades. |
+
+#### Recuperación de Contraseña
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Usuarios                                                  |
+| ID‑HU                     | HU14                                                                 |
+| Título HU                 | Recuperación de Contraseña                                           |
+| Descripción HU            | Como usuario, quiero poder recuperar mi contraseña en caso de olvidarla para poder volver a acceder a mi cuenta. |
+| Criterios de Aceptación   | **Scenario 1: Solicitud de Restablecimiento de Contraseña**<br>Dado que soy un usuario y he olvidado mi contraseña<br>Cuando selecciono la opción de "Olvidé mi contraseña" e ingreso mi correo electrónico<br>Entonces recibo un correo electrónico con un enlace para restablecer mi contraseña.<br><br>**Scenario 2: Restablecimiento de Contraseña**<br>Dado que soy un usuario y he solicitado restablecer mi contraseña<br>Cuando sigo el enlace recibido por correo electrónico y creo una nueva contraseña<br>Entonces mi contraseña se actualiza y puedo acceder a mi cuenta con la nueva contraseña. |
+
+### Gestión de Mensajería o Contacto Bounded Context
+
+#### Mensajería entre Clientes y Diseñadores
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Mensajería o Contacto                                     |
+| ID‑HU                     | HU15                                                                 |
+| Título HU                 | Mensajería entre Clientes y Diseñadores                              |
+| Descripción HU            | Como cliente, quiero poder enviar mensajes privados a los diseñadores para discutir precios, horarios o cosas varias. |
+| Criterios de Aceptación   | **Scenario 1: Envío de Mensajes Privados**<br>Dado que soy un usuario registrado<br>Cuando accedo al perfil de un diseñador y selecciono la opción de enviar mensaje<br>Entonces puedo redactar un mensaje privado y enviarlo al diseñador.<br><br>**Scenario 2: Recepción de Mensajes Privados**<br>Dado que soy un diseñador registrado<br>Cuando un usuario me envía un mensaje privado<br>Entonces recibo una notificación sobre el nuevo mensaje y puedo acceder a él desde mi bandeja de entrada. |
+
+#### Notificaciones de Mensajes Privados
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Mensajería o Contacto                                     |
+| ID‑HU                     | HU16                                                                 |
+| Título HU                 | Notificaciones de Mensajes Privados                                  |
+| Descripción HU            | Como usuario, quiero recibir notificaciones cuando reciba nuevos mensajes privados de los diseñadores para mantener comunicación fluida. |
+| Criterios de Aceptación   | **Scenario: Notificación de Nuevo Mensaje Privado**<br>Dado que soy un usuario registrado<br>Cuando recibo un nuevo mensaje privado de un diseñador<br>Entonces recibo una notificación en la plataforma o por correo electrónico informándome sobre el nuevo mensaje. |
+
+#### Eliminación de Mensajes
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Mensajería o Contacto                                     |
+| ID‑HU                     | HU17                                                                 |
+| Título HU                 | Eliminación de Mensajes                                              |
+| Descripción HU            | Como usuario, quiero poder eliminar mensajes individuales de mis conversaciones para mantener mi bandeja de entrada organizada. |
+| Criterios de Aceptación   | **Scenario 1: Eliminación de Mensaje Individual**<br>Dado que soy un usuario registrado y tengo una conversación privada en curso<br>Cuando accedo a la conversación y selecciono un mensaje específico<br>Entonces puedo eliminar el mensaje de la conversación.<br><br>**Scenario 2: Confirmación de Eliminación de Mensaje**<br>Dado que he seleccionado un mensaje para eliminar<br>Cuando confirmo la acción de eliminar<br>Entonces el mensaje se elimina de la conversación y ya no está visible. |
+
+#### Eliminación de Conversaciones
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Mensajería o Contacto                                     |
+| ID‑HU                     | HU18                                                                 |
+| Título HU                 | Eliminación de Conversaciones                                        |
+| Descripción HU            | Como usuario, quiero poder eliminar conversaciones completas de mi bandeja de entrada para mantenerla ordenada. |
+| Criterios de Aceptación   | **Scenario 1: Eliminación de Conversación Completa**<br>Dado que tengo varias conversaciones en mi bandeja de entrada<br>Cuando accedo a una conversación y selecciono eliminar conversación<br>Entonces se elimina la conversación completa.<br><br>**Scenario 2: Confirmación de Eliminación de Conversación**<br>Dado que he seleccionado una conversación para eliminar<br>Cuando confirmo la acción<br>Entonces la conversación se elimina de mi bandeja de entrada. |
+
+#### Ingresar a la caja de mensajes
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Mensajería o Contacto                                     |
+| ID‑HU                     | HU19                                                                 |
+| Título HU                 | Ingresar a la caja de mensajes                                       |
+| Descripción HU            | Como usuario, quiero poder entrar a una caja de mensajes para ver mis conversaciones pasadas. |
+| Criterios de Aceptación   | **Scenario: Ingresar al text box**<br>Dado que soy un usuario registrado en la aplicación<br>Cuando accedo al apartado de chat en la parte inferior derecha<br>Entonces puedo acceder a los chats anteriores. |
+
+### Gestión de Calificaciones Bounded Context
+
+#### Comentar una publicación
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Calificaciones                                            |
+| ID‑HU                     | HU20                                                                 |
+| Título HU                 | Comentar una publicación                                             |
+| Descripción HU            | Como usuario, quiero poder publicar comentarios en las publicaciones de los diseñadores. |
+| Criterios de Aceptación   | **Scenario: Comentar una publicación de un diseñador**<br>Dado que soy un cliente en el apartado de post<br>Cuando presiono en comentar<br>Entonces aparece una barra de texto<br>Y puedo ingresar mi comentario. |
+
+#### Dejar una calificación
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Calificaciones                                            |
+| ID‑HU                     | HU21                                                                 |
+| Título HU                 | Dejar una calificación                                               |
+| Descripción HU            | Como usuario, quiero poder dejar una calificación del trabajo del diseñador para mostrar mi conformidad o disconformidad. |
+| Criterios de Aceptación   | **Scenario: Calificación de un trabajo**<br>Dado que soy un cliente en un post de un diseñador<br>Cuando presiono en calificación<br>Entonces aparece un sistema de estrellas<br>Y puedo seleccionar de 1 a 5 estrellas. |
+
+#### Comentar un comentario
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Calificaciones                                            |
+| ID‑HU                     | HU22                                                                 |
+| Título HU                 | Comentar un comentario                                               |
+| Descripción HU            | Como usuario, quiero poder publicar comentarios en otro comentario.  |
+| Criterios de Aceptación   | **Scenario: Comentar un comentario**<br>Dado que soy un usuario en el apartado de comentarios de un post<br>Cuando presiono en "comentar comentario"<br>Entonces aparece una barra de texto debajo del comentario<br>Y puedo ingresar mi comentario. |
+
+#### Eliminar un comentario
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Calificaciones                                            |
+| ID‑HU                     | HU23                                                                 |
+| Título HU                 | Eliminar un comentario                                               |
+| Descripción HU            | Como usuario, quiero poder eliminar un comentario de una publicación. |
+| Criterios de Aceptación   | **Scenario 1: Eliminar un comentario de mi publicación**<br>Dado que soy un diseñador en los comentarios de mi post<br>Cuando presiono el botón de eliminar en las opciones del comentario<br>Entonces el comentario se elimina de mi post.<br><br>**Scenario 2: Eliminar mi comentario**<br>Dado que soy un cliente en los comentarios de un post<br>Cuando presiono el botón de eliminar en las opciones del comentario<br>Entonces el comentario se elimina. |
+
+#### Editar mi comentario
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Calificaciones                                            |
+| ID‑HU                     | HU24                                                                 |
+| Título HU                 | Editar mi comentario                                                 |
+| Descripción HU            | Como usuario, quiero poder editar un comentario para corregir algún error en el mensaje. |
+| Criterios de Aceptación   | **Scenario: Corregir un mensaje**<br>Dado que soy un usuario en el apartado de post<br>Cuando presiono en opciones del comentario<br>Y selecciono editar<br>Entonces aparece una barra de texto con el mensaje original<br>Y puedo reescribir lo que desee. |
+
+### Gestión de Portafolios Bounded Context
+
+#### Agregar un trabajo
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Portafolios                                               |
+| ID‑HU                     | HU25                                                                 |
+| Título HU                 | Agregar un trabajo                                                  |
+| Descripción HU            | Como diseñador, quiero poder subir mis proyectos realizados con descripción e imágenes para que los usuarios vean mis trabajos. |
+| Criterios de Aceptación   | **Scenario: Publicar un post del trabajo**<br>Dado que soy un diseñador en el apartado de post<br>Cuando presiono en subir post<br>Entonces aparece un formulario<br>Y puedo ingresar un título, descripción, imágenes y etiquetas. |
+
+#### Borrar un trabajo
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Portafolios                                               |
+| ID‑HU                     | HU26                                                                 |
+| Título HU                 | Borrar un trabajo                                                   |
+| Descripción HU            | Como diseñador, quiero poder borrar un trabajo para quitarlo de mi portafolio. |
+| Criterios de Aceptación   | **Scenario: Eliminar un trabajo del portafolio**<br>Dado que soy un diseñador en mi portafolio<br>Cuando presiono en opciones de un trabajo subido<br>Y selecciono la opción de borrar<br>Entonces el trabajo se borra de mi portafolio. |
+
+#### Editar un trabajo
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Portafolios                                               |
+| ID‑HU                     | HU27                                                                 |
+| Título HU                 | Editar un trabajo                                                   |
+| Descripción HU            | Como diseñador, quiero poder editar un trabajo para arreglar, modificar o mejorar mi trabajo. |
+| Criterios de Aceptación   | **Scenario: Editar un trabajo**<br>Dado que soy un diseñador en el apartado de portafolios<br>Cuando presiono opciones de un trabajo<br>Y selecciono la opción de editar<br>Entonces aparece un formulario para editar el trabajo. |
+
+#### Ordenar un trabajo
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Portafolios                                               |
+| ID‑HU                     | HU28                                                                 |
+| Título HU                 | Ordenar un trabajo                                                  |
+| Descripción HU            | Como diseñador, quiero poder ordenar mis trabajos según mis preferencias. |
+| Criterios de Aceptación   | **Scenario: Ordenar sus trabajos**<br>Dado que soy un diseñador en mi portafolio<br>Cuando presiono en un trabajo del portafolio<br>Entonces puedo deslizarlo a la posición que desee. |
+
+#### Buscar un trabajo por su título
+
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Portafolios                                               |
+| ID‑HU                     | HU29                                                                 |
+| Título HU                 | Buscar un trabajo por su título                                     |
+| Descripción HU            | Como diseñador, quiero poder buscar un trabajo en específico según su nombre. |
+| Criterios de Aceptación   | **Scenario: Búsqueda según su nombre**<br>Dado que soy un usuario en el apartado de post<br>Cuando presiono en la barra de búsqueda<br>Y escribo un nombre<br>Entonces aparece el trabajo buscado. |
 
 ### Payment Bounded Context
 
-**Iniciar pago con tarjeta**
+#### Iniciar pago con tarjeta
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <tbody>
-    <tr>
-      <th>Épica</th>
-      <td>Gestión de Pagos</td>
-    </tr>
-    <tr>
-      <th>ID‑HU</th>
-      <td>US01</td>
-    </tr>
-    <tr>
-      <th>Título HU</th>
-      <td>Iniciar pago con tarjeta</td>
-    </tr>
-    <tr>
-      <th>Descripción HU</th>
-      <td>Como cliente, quiero registrar los datos de mi tarjeta de crédito/débito, para que pueda pagar un servicio de forma segura.</td>
-    </tr>
-    <tr>
-      <th>Criterios de Aceptación (Gherkin)</th>
-      <td>
-        <b>Scenario 1: Pago exitoso</b><br>
-        Dado que el cliente ha introducido una tarjeta válida,<br>
-        Y está en la pantalla de pago,<br>
-        Cuando confirma el importe y acepta los términos,<br>
-        Entonces el sistema procesa el cargo<br>
-        Y muestra un mensaje de confirmación.<br><br>
-        <b>Scenario 2: Tarjeta rechazada</b><br>
-        Dado que el cliente introduce una tarjeta expirada o con fondos insuficientes,<br>
-        Cuando intenta procesar el pago,<br>
-        Entonces el sistema muestra un mensaje de error<br>
-        Y no completa la transacción.
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Pagos                                                     |
+| ID‑HU                     | US30                                                                 |
+| Título HU                 | Iniciar pago con tarjeta                                             |
+| Descripción HU            | Como cliente, quiero registrar los datos de mi tarjeta de crédito/débito, para que pueda pagar un servicio de forma segura. |
+| Criterios de Aceptación   | **Scenario 1: Pago exitoso**<br>Dado que el cliente ha introducido una tarjeta válida,<br>Y está en la pantalla de pago,<br>Cuando confirma el importe y acepta los términos,<br>Entonces el sistema procesa el cargo<br>Y muestra un mensaje de confirmación.<br><br>**Scenario 2: Tarjeta rechazada**<br>Dado que el cliente introduce una tarjeta expirada o con fondos insuficientes,<br>Cuando intenta procesar el pago,<br>Entonces el sistema muestra un mensaje de error<br>Y no completa la transacción. |
 
-**Confirmación de pago por correo**
+#### Confirmación de pago por correo
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <tbody>
-    <tr>
-      <th>Épica</th>
-      <td>Gestión de Pagos</td>
-    </tr>
-    <tr>
-      <th>ID‑HU</th>
-      <td>US02</td>
-    </tr>
-    <tr>
-      <th>Título HU</th>
-      <td>Confirmación de pago por correo</td>
-    </tr>
-    <tr>
-      <th>Descripción HU</th>
-      <td>Como cliente, quiero recibir un email de confirmación tras el pago, para tener registro de mi transacción.</td>
-    </tr>
-    <tr>
-      <th>Criterios de Aceptación (Gherkin)</th>
-      <td>
-        <b>Scenario 1: Envío de confirmación</b><br>
-        Dado que el pago se ha procesado exitosamente,<br>
-        Cuando la transacción finaliza,<br>
-        Entonces el sistema envía un correo con los detalles del pago.<br><br>
-        <b>Scenario 2: Fallo en envío de correo</b><br>
-        Dado que el servicio de correo está caído,<br>
-        Cuando intenta enviar la confirmación,<br>
-        Entonces el sistema registra el fallo en logs<br>
-        Y reintenta el envío.
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Pagos                                                     |
+| ID‑HU                     | US31                                                                 |
+| Título HU                 | Confirmación de pago por correo                                       |
+| Descripción HU            | Como cliente, quiero recibir un email de confirmación tras el pago, para tener registro de mi transacción. |
+| Criterios de Aceptación   | **Scenario 1: Envío de confirmación**<br>Dado que el pago se ha procesado exitosamente,<br>Cuando la transacción finaliza,<br>Entonces el sistema envía un correo con los detalles del pago.<br><br>**Scenario 2: Fallo en envío de correo**<br>Dado que el servicio de correo está caído,<br>Cuando intenta enviar la confirmación,<br>Entonces el sistema registra el fallo en logs<br>Y reintenta el envío. |
 
+#### Historial de transacciones
 
-**Historial de transacciones**
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Pagos                                                     |
+| ID‑HU                     | US32                                                                 |
+| Título HU                 | Historial de transacciones                                           |
+| Descripción HU            | Como cliente, quiero ver mi historial de pagos, para revisar mis transacciones anteriores. |
+| Criterios de Aceptación   | **Scenario 1: Historial con datos**<br>Dado que el cliente tiene pagos registrados,<br>Cuando accede a la sección "Mis pagos",<br>Entonces el sistema muestra lista de transacciones con fecha, importe y estado.<br><br>**Scenario 2: Sin transacciones**<br>Dado que el cliente no ha realizado pagos,<br>Cuando accede a "Mis pagos",<br>Entonces el sistema muestra el mensaje "No hay transacciones registradas". |
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <tbody>
-    <tr>
-      <th>Épica</th>
-      <td>Gestión de Pagos</td>
-    </tr>
-    <tr>
-      <th>ID‑HU</th>
-      <td>US03</td>
-    </tr>
-    <tr>
-      <th>Título HU</th>
-      <td>Historial de transacciones</td>
-    </tr>
-    <tr>
-      <th>Descripción HU</th>
-      <td>Como cliente, quiero ver mi historial de pagos, para revisar mis transacciones anteriores.</td>
-    </tr>
-    <tr>
-      <th>Criterios de Aceptación (Gherkin)</th>
-      <td>
-        <b>Scenario 1: Historial con datos</b><br>
-        Dado que el cliente tiene pagos registrados,<br>
-        Cuando accede a la sección “Mis pagos”,<br>
-        Entonces el sistema muestra lista de transacciones con fecha, importe y estado.<br><br>
-        <b>Scenario 2: Sin transacciones</b><br>
-        Dado que el cliente no ha realizado pagos,<br>
-        Cuando accede a “Mis pagos”,<br>
-        Entonces el sistema muestra el mensaje “No hay transacciones registradas”.
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### Solicitud de reembolso
 
-**Solicitud de reembolso**
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Pagos                                                     |
+| ID‑HU                     | US33                                                                 |
+| Título HU                 | Solicitud de reembolso                                               |
+| Descripción HU            | Como cliente, quiero solicitar un reembolso de un pago, para recuperar el importe en caso de cancelación del servicio. |
+| Criterios de Aceptación   | **Scenario 1: Reembolso aceptado**<br>Dado que el pago está dentro del período de reembolso,<br>Cuando el cliente solicita reembolso,<br>Entonces el sistema marca la transacción como "En proceso de reembolso"<br>Y genera una solicitud al equipo financiero.<br><br>**Scenario 2: Reembolso rechazado**<br>Dado que el pago excede el período permitido,<br>Cuando el cliente solicita reembolso,<br>Entonces el sistema muestra un mensaje "Reembolso no disponible". |
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <tbody>
-    <tr>
-      <th>Épica</th>
-      <td>Gestión de Pagos</td>
-    </tr>
-    <tr>
-      <th>ID‑HU</th>
-      <td>US04</td>
-    </tr>
-    <tr>
-      <th>Título HU</th>
-      <td>Solicitud de reembolso</td>
-    </tr>
-    <tr>
-      <th>Descripción HU</th>
-      <td>Como cliente, quiero solicitar un reembolso de un pago, para recuperar el importe en caso de cancelación del servicio.</td>
-    </tr>
-    <tr>
-      <th>Criterios de Aceptación (Gherkin)</th>
-      <td>
-        <b>Scenario 1: Reembolso aceptado</b><br>
-        Dado que el pago está dentro del período de reembolso,<br>
-        Cuando el cliente solicita reembolso,<br>
-        Entonces el sistema marca la transacción como “En proceso de reembolso”<br>
-        Y genera una solicitud al equipo financiero.<br><br>
-        <b>Scenario 2: Reembolso rechazado</b><br>
-        Dado que el pago excede el período permitido,<br>
-        Cuando el cliente solicita reembolso,<br>
-        Entonces el sistema muestra un mensaje “Reembolso no disponible”.
-      </td>
-    </tr>
-  </tbody>
-</table>
+#### Gestión de métodos de pago
 
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Pagos                                                     |
+| ID‑HU                     | US34                                                                 |
+| Título HU                 | Gestión de métodos de pago                                           |
+| Descripción HU            | Como cliente, quiero agregar y administrar mis métodos de pago (tarjetas, PayPal), para elegir el más conveniente en cada ocasión. |
+| Criterios de Aceptación   | **Scenario 1: Añadir nuevo método**<br>Dado que el cliente está en "Métodos de pago",<br>Cuando agrega una tarjeta válida,<br>Entonces el sistema guarda el método y lo muestra en la lista.<br><br>**Scenario 2: Eliminar método existente**<br>Dado que el cliente selecciona una tarjeta guardada,<br>Cuando la elimina,<br>Entonces el sistema la quita de la lista. |
 
-**Gestión de métodos de pago**
+#### Notificación de pago fallido
 
-<table border="1" cellspacing="0" cellpadding="4">
-  <tbody>
-    <tr>
-      <th>Épica</th>
-      <td>Gestión de Pagos</td>
-    </tr>
-    <tr>
-      <th>ID‑HU</th>
-      <td>US05</td>
-    </tr>
-    <tr>
-      <th>Título HU</th>
-      <td>Gestión de métodos de pago</td>
-    </tr>
-    <tr>
-      <th>Descripción HU</th>
-      <td>Como cliente, quiero agregar y administrar mis métodos de pago (tarjetas, PayPal), para elegir el más conveniente en cada ocasión.</td>
-    </tr>
-    <tr>
-      <th>Criterios de Aceptación (Gherkin)</th>
-      <td>
-        <b>Scenario 1: Añadir nuevo método</b><br>
-        Dado que el cliente está en “Métodos de pago”,<br>
-        Cuando agrega una tarjeta válida,<br>
-        Entonces el sistema guarda el método y lo muestra en la lista.<br><br>
-        <b>Scenario 2: Eliminar método existente</b><br>
-        Dado que el cliente selecciona una tarjeta guardada,<br>
-        Cuando la elimina,<br>
-        Entonces el sistema la quita de la lista.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-**Notificación de pago fallido**
-
-<table border="1" cellspacing="0" cellpadding="4">
-  <tbody>
-    <tr>
-      <th>Épica</th>
-      <td>Gestión de Pagos</td>
-    </tr>
-    <tr>
-      <th>ID‑HU</th>
-      <td>US06</td>
-    </tr>
-    <tr>
-      <th>Título HU</th>
-      <td>Notificación de pago fallido</td>
-    </tr>
-    <tr>
-      <th>Descripción HU</th>
-      <td>Como cliente, quiero recibir una notificación si mi pago falla, para saber que debo corregir mis datos o intentar otra vez.</td>
-    </tr>
-    <tr>
-      <th>Criterios de Aceptación (Gherkin)</th>
-      <td>
-        <b>Scenario 1: Pago declined</b><br>
-        Dado que el intento de pago es rechazado por el banco,<br>
-        Cuando la transacción falla,<br>
-        Entonces el sistema muestra un mensaje de error en pantalla<br>
-        Y envía una notificación push/email al cliente.<br><br>
-        <b>Scenario 2: Reintento posterior</b><br>
-        Dado que el cliente corrige los datos y reintenta,<br>
-        Cuando el pago se procesa exitosamente,<br>
-        Entonces el sistema actualiza el estado a “Pago completado”.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-| Epic ID | Título de Épica              | Descripción de la épica                                                                                                              | Número de User Stories asociados |
-|---------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| Epic 1  | Landing Page | Como usuario, deseo un landing page que presente información sobre el servicio y sus características principales. |1|
-| Epic 2  | Gestión de Usuarios | Como usuario, deseo poder realizar operaciones relacionadas con la gestión de mi cuenta, incluyendo el registro, inicio de sesión, configuración de perfil y cierre de sesión. |2|
-| Epic 3  | Gestión proyectos | Como usuario, deseo tener acceso a funcionalidades relacionadas con la gestión de los proyectos incluyendo la creación, interacción, edición y eliminación. |3|
-| Epic 4  | Gestión de contrato | Como usuario, deseo contratar a un diseñador para un proyecto personal. |4|
-
-
-
-| Epic / Story ID | Título | Descripción | Criterios de Aceptación  | Relacionado con (Epic ID) |
-|-----------------|--------------|---------------|-------------|------|
-| HU01 | Creación de la Sección "About" | Como cliente, quiero una sección que presente información sobre el servicio para comprender mejor la aplicación. | <br>Given el usuario se encuentra en el landing page.<br>When el usuario navega a la sección "About"<br>Then se muestra información sobre el servicio y su propósito. <br><br>| 1 |
-| HU02 | Creación de la Sección "Features" | Como cliente, quiero una sección que destaque las características principales de la aplicación. | <br>Given el usuario se encuentra en la sección "About"<br>When el usuario navega a la sección "Features".<br>Then se muestran las características principales de la aplicación. <br><br>| 1 |
-| HU03 | Creación de la Sección "How It Works" | Como cliente, quiero una sección que explique cómo funciona el servicio para comprender los pasos necesarios para utilizar la aplicación | <br>Given el usuario se encuentra en el landing page.<br>When el usuario navega a la sección "How It Works".<br>Then se muestra información sobre cómo funciona el servicio y los pasos a seguir. <br><br>| 1 |
-| HU04 | Creación de la Sección "frequently asked questions" | Como cliente, quiero una sección que muestre las preguntas frecuentes de los usuarios para tener una ayuda de los usuarios actuales. | <br>Given el usuario se encuentra en el landing page.<br>When el usuario navega a la sección "preguntas frecuentes".<br>Then se muestran las preguntas frecuentes de los usuarios. <br><br>| 1 |
-| HU05 | Creación de la Sección de Footer | Como cliente, quiero un footer en el landing page para acceder a enlaces adicionales y a las redes sociales de la aplicación. | <br>Given el usuario se encuentra en el landing page.<br>When el usuario desplaza hacia abajo hasta el footer.<br>Then Then se muestran enlaces adicionales y enlaces a las redes sociales de la aplicación. <br><br>| 1 |
-| HU06 | Then se muestran enlaces adicionales y enlaces a las redes sociales de la aplicación. | Como cliente, quiero una sección que muestre los socios o colaboradores de la aplicación para conocer las asociaciones relevantes. | <br>Given el usuario se encuentra en el landing page.<br>When When el usuario navega a la sección de socios.<br>Then se muestran los socios o colaboradores de la aplicación. <br><br>| 1 |
-| HU07 | Registro de Cuentas | Como usuario nuevo, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades disponibles | **Scenario: Registro Exitoso**<br>Given que soy un usuario nuevo<br>When completo el formulario de registro con información válida<br>Then se crea una cuenta para mí en la plataforma<br>And recibo un correo electrónico de confirmación de registro<br><br> **Scenario: Validación de Datos**<br>Given que soy un usuario nuevo<br>When intento registrarme con información incompleta o incorrecta<br>Then se muestran mensajes de error indicando los campos que requieren corrección<br>And no se crea la cuenta hasta que se proporcionen datos válidos<br><br>| 2 |
-| HU08 | Inicio de Sesión | Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mi cuenta y mis datos. | **Scenario: Inicio de Sesión Exitoso**<br>Given que soy un usuario registrado<br>When ingreso mi correo electrónico y contraseña correctos<br>Then accedo a mi cuenta en la plataforma <br><br>**Scenario: Contraseña Incorrecta**<br>Given que soy un usuario registrado <br>When ingreso mi correo electrónico y una contraseña incorrecta<br>Then se muestra un mensaje de error indicando que la contraseña es incorrecta<br>And no puedo acceder a mi cuenta hasta que ingrese la contraseña correcta<br><br>| 2 |
-| HU09 | Configuración de Perfil | Como usuario registrado, quiero poder configurar mi perfil para personalizar mi experiencia en la plataforma. | **Scenario: Edición de Perfil**<br>Given que soy un usuario registrado<br>When accedo a la sección de configuración de perfil<br>Then puedo editar información como mi nombre, foto de perfil, información de contacto, etc. <br><br> **Scenario: Cambio de Contraseña**<br>Given que soy un usuario registrado<br>When accedo a la sección de configuración de perfil <br>And selecciono la opción de cambiar contraseña <br>Then puedo actualizar mi contraseña ingresando la contraseña actual y la nueva contraseña <br><br>| 2 |
-| HU10 | Cierre de Sesión | Como usuario, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad. | **Scenario: Cierre de Sesión Exitoso**<br>Given que soy un usuario registrado y he iniciado sesión en la plataforma<br>When selecciono la opción de cerrar sesión<br>Then mi sesión se cierra y soy redirigido a la página de inicio de sesión <br><br> **Scenario: Acceso a Funcionalidades Limitadas sin Iniciar Sesión**<br>Given que soy un usuario no registrado o no he iniciado sesión<br>When intento acceder a funcionalidades que requieren inicio de sesión<br>Then se me redirige a la página de inicio de sesión antes de poder acceder a esas funcionalidades <br><br>| 2 |
-| HU11 | Subir proyecto del diseñador | Como usuario subir mi trabajo con todas sus características | <br>Given que soy un usuario<br>When seleccione la opción de subir trabajos<br>Then aparece un apartado donde puedo colocar la imágenes, título, descripción y categorías <br><br>| 3 |
-| HU12 | Borrar proyecto del diseñador | Como usuario deseo borrar un trabajo que no me gusta | <br>Given Given que soy un usuario <br>When seleccione el botón de borrar trabajo<br>Then el proyecto desaparece del apartado de sus proyectos <br><br>| 3 |
-| HU13 | Editar proyecto del diseñador | Como usuario deseo editar una o algunas características de un trabajo | <br>Given que soy un usuario <br>When seleccione el botón de editar trabajo<br>Then aparece un apartado de edición donde puedo  cambiar el título, descripción, etiquetas y/o fotos <br><br>| 3 |
-| HU14 | Interactuar en comentarios | Como usuario deseo interactuar como comentarios de un proyecto | **Scenario: responder un comentarios**<br>Given que soy un usuario <br>When voy al apartado de comentario<br>Then quiero responder un mensaje <br><br>**Scenario: comentar en un post**<br>Given que soy un usuario <br>When voy al apartado de comentario<br>Then escribo el un comentario en el post<br>And <br><br>| 3 |
-| HU15 | Filtrar proyecto del diseñador | Como usuario deseo filtrar los proyectos | <br>Given que soy un usuario <br>When voy al apartado de filtros<br>And elijo las etiquetas que deseo filtrar <br>Then me apareceran todos los proyectos con estas características <br><br>| 3 |
-| HU16 | Calificar publicación | Como usuario deseo puntuar un proyecto que me guste | **Scenario:**<br>Given que soy un usuario<br>When vea un proyecto que me guste<br>Then quiero calificarlo el proyecto del 1 al 5 <br><br>| 3 |
-| HU17 | Contratar a un diseñador | Como usuario deseo generar un contratar | <br>Given Como usuario deseo generar un contratar<br>When le doy al boton contratar<br>Then me dirigirán a un apartado donde pueda hablar con el diseñador de mi preferencia <br><br>| 4 |
-| HU18 | Cancelar un contrato | Como usuario deseo eliminar un contratar | <br>Given que soy un usuario que ya no desea optar por el diseñador<br>When presione el botón de eliminar en el apartado de contratos<br>Then el contrato desaparece<br>And <br><br>| 4 |
-| HU19 | Hablar con el diseñador | Como usuario deseo hablar con él diseñar | **Scenario: contactar directamente al diseñador**<br>Given que soy un usuario <br>When yo presione contratar<br>Then aparezca el numero y correo electrónico del diseñador<br><br> **Scenario: Contactar por mensajes de texto**<br>Given que soy un usuario <br>When yo presione el botón contratar<br>Then aparezca un cuadro donde podria enviarle mensajes directamente al diseñador <br><br>| 4 |
+| Campo                     | Valor                                                                 |
+|---------------------------|-----------------------------------------------------------------------|
+| Épica                     | Gestión de Pagos                                                     |
+| ID‑HU                     | US35                                                                 |
+| Título HU                 | Notificación de pago fallido                                         |
+| Descripción HU            | Como cliente, quiero recibir una notificación si mi pago falla, para saber que debo corregir mis datos o intentar otra vez. |
+| Criterios de Aceptación   | **Scenario 1: Pago declined**<br>Dado que el intento de pago es rechazado por el banco,<br>Cuando la transacción falla,<br>Entonces el sistema muestra un mensaje de error en pantalla<br>Y envía una notificación push/email al cliente.<br><br>**Scenario 2: Reintento posterior**<br>Dado que el cliente corrige los datos y reintenta,<br>Cuando el pago se procesa exitosamente,<br>Entonces el sistema actualiza el estado a "Pago completado". |
 
 ## 3.3. Impact Mapping
 ![Designer User Person Map](./assets/tb1%20images/Impact-Mapping.png)
