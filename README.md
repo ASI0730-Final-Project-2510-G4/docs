@@ -1028,3 +1028,26 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
     </tr>
   </tbody>
 </table>
+
+# Capítulo IV: Product Design
+## 4.6. Domain-Driven Software Architecture.
+
+La Arquitectura dirigida por el Dominio (DDD) se centra en modelar el software atendiendo las reglas y procesos del negocio, separando el sistema en Bounded Contexts que contienen su propio modelo y lenguaje ubicuo . En CreatiLink identificamos cinco contextos acotados—Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería—cada uno aislado para evitar ambigüedades y facilitar la evolución independiente de funcionalidades.
+
+### 4.6.1. Software Architecture Context Diagram.
+
+El Diagrama de Contexto ofrece una vista de alto nivel donde CreatiLink aparece como un único sistema central, rodeado por dos actores (Cliente y Diseñador) y los sistemas externos con los que interactúa: un Payment System, un Push Notification System y la Behance API.
+
+![C4 - Context Diagram](./assets/c4-diagrams/context-diagram.png)
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+En el Diagrama de Contenedores descomponemos CreatiLink en artefactos ejecutables y persistentes, mostrando también la tecnología utilizada.
+
+![C4 - Container Diagram](./assets/c4-diagrams/container-diagram.png)
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada Bounded Context, siguiendo el patrón Controller – Service – Repository.
+
+![C4 - Components Diagram](./assets/c4-diagrams/component-diagram.png)
