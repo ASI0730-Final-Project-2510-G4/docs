@@ -846,6 +846,235 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ## 3.2. User Stories.
 
+
+### Payment Bounded Context
+
+**Iniciar pago con tarjeta**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tbody>
+    <tr>
+      <th>Épica</th>
+      <td>Gestión de Pagos</td>
+    </tr>
+    <tr>
+      <th>ID‑HU</th>
+      <td>US01</td>
+    </tr>
+    <tr>
+      <th>Título HU</th>
+      <td>Iniciar pago con tarjeta</td>
+    </tr>
+    <tr>
+      <th>Descripción HU</th>
+      <td>Como cliente, quiero registrar los datos de mi tarjeta de crédito/débito, para que pueda pagar un servicio de forma segura.</td>
+    </tr>
+    <tr>
+      <th>Criterios de Aceptación (Gherkin)</th>
+      <td>
+        <b>Scenario 1: Pago exitoso</b><br>
+        Dado que el cliente ha introducido una tarjeta válida,<br>
+        Y está en la pantalla de pago,<br>
+        Cuando confirma el importe y acepta los términos,<br>
+        Entonces el sistema procesa el cargo<br>
+        Y muestra un mensaje de confirmación.<br><br>
+        <b>Scenario 2: Tarjeta rechazada</b><br>
+        Dado que el cliente introduce una tarjeta expirada o con fondos insuficientes,<br>
+        Cuando intenta procesar el pago,<br>
+        Entonces el sistema muestra un mensaje de error<br>
+        Y no completa la transacción.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Confirmación de pago por correo**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tbody>
+    <tr>
+      <th>Épica</th>
+      <td>Gestión de Pagos</td>
+    </tr>
+    <tr>
+      <th>ID‑HU</th>
+      <td>US02</td>
+    </tr>
+    <tr>
+      <th>Título HU</th>
+      <td>Confirmación de pago por correo</td>
+    </tr>
+    <tr>
+      <th>Descripción HU</th>
+      <td>Como cliente, quiero recibir un email de confirmación tras el pago, para tener registro de mi transacción.</td>
+    </tr>
+    <tr>
+      <th>Criterios de Aceptación (Gherkin)</th>
+      <td>
+        <b>Scenario 1: Envío de confirmación</b><br>
+        Dado que el pago se ha procesado exitosamente,<br>
+        Cuando la transacción finaliza,<br>
+        Entonces el sistema envía un correo con los detalles del pago.<br><br>
+        <b>Scenario 2: Fallo en envío de correo</b><br>
+        Dado que el servicio de correo está caído,<br>
+        Cuando intenta enviar la confirmación,<br>
+        Entonces el sistema registra el fallo en logs<br>
+        Y reintenta el envío.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Historial de transacciones**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tbody>
+    <tr>
+      <th>Épica</th>
+      <td>Gestión de Pagos</td>
+    </tr>
+    <tr>
+      <th>ID‑HU</th>
+      <td>US03</td>
+    </tr>
+    <tr>
+      <th>Título HU</th>
+      <td>Historial de transacciones</td>
+    </tr>
+    <tr>
+      <th>Descripción HU</th>
+      <td>Como cliente, quiero ver mi historial de pagos, para revisar mis transacciones anteriores.</td>
+    </tr>
+    <tr>
+      <th>Criterios de Aceptación (Gherkin)</th>
+      <td>
+        <b>Scenario 1: Historial con datos</b><br>
+        Dado que el cliente tiene pagos registrados,<br>
+        Cuando accede a la sección “Mis pagos”,<br>
+        Entonces el sistema muestra lista de transacciones con fecha, importe y estado.<br><br>
+        <b>Scenario 2: Sin transacciones</b><br>
+        Dado que el cliente no ha realizado pagos,<br>
+        Cuando accede a “Mis pagos”,<br>
+        Entonces el sistema muestra el mensaje “No hay transacciones registradas”.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+**Solicitud de reembolso**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tbody>
+    <tr>
+      <th>Épica</th>
+      <td>Gestión de Pagos</td>
+    </tr>
+    <tr>
+      <th>ID‑HU</th>
+      <td>US04</td>
+    </tr>
+    <tr>
+      <th>Título HU</th>
+      <td>Solicitud de reembolso</td>
+    </tr>
+    <tr>
+      <th>Descripción HU</th>
+      <td>Como cliente, quiero solicitar un reembolso de un pago, para recuperar el importe en caso de cancelación del servicio.</td>
+    </tr>
+    <tr>
+      <th>Criterios de Aceptación (Gherkin)</th>
+      <td>
+        <b>Scenario 1: Reembolso aceptado</b><br>
+        Dado que el pago está dentro del período de reembolso,<br>
+        Cuando el cliente solicita reembolso,<br>
+        Entonces el sistema marca la transacción como “En proceso de reembolso”<br>
+        Y genera una solicitud al equipo financiero.<br><br>
+        <b>Scenario 2: Reembolso rechazado</b><br>
+        Dado que el pago excede el período permitido,<br>
+        Cuando el cliente solicita reembolso,<br>
+        Entonces el sistema muestra un mensaje “Reembolso no disponible”.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Gestión de métodos de pago**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tbody>
+    <tr>
+      <th>Épica</th>
+      <td>Gestión de Pagos</td>
+    </tr>
+    <tr>
+      <th>ID‑HU</th>
+      <td>US05</td>
+    </tr>
+    <tr>
+      <th>Título HU</th>
+      <td>Gestión de métodos de pago</td>
+    </tr>
+    <tr>
+      <th>Descripción HU</th>
+      <td>Como cliente, quiero agregar y administrar mis métodos de pago (tarjetas, PayPal), para elegir el más conveniente en cada ocasión.</td>
+    </tr>
+    <tr>
+      <th>Criterios de Aceptación (Gherkin)</th>
+      <td>
+        <b>Scenario 1: Añadir nuevo método</b><br>
+        Dado que el cliente está en “Métodos de pago”,<br>
+        Cuando agrega una tarjeta válida,<br>
+        Entonces el sistema guarda el método y lo muestra en la lista.<br><br>
+        <b>Scenario 2: Eliminar método existente</b><br>
+        Dado que el cliente selecciona una tarjeta guardada,<br>
+        Cuando la elimina,<br>
+        Entonces el sistema la quita de la lista.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+**Notificación de pago fallido**
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tbody>
+    <tr>
+      <th>Épica</th>
+      <td>Gestión de Pagos</td>
+    </tr>
+    <tr>
+      <th>ID‑HU</th>
+      <td>US06</td>
+    </tr>
+    <tr>
+      <th>Título HU</th>
+      <td>Notificación de pago fallido</td>
+    </tr>
+    <tr>
+      <th>Descripción HU</th>
+      <td>Como cliente, quiero recibir una notificación si mi pago falla, para saber que debo corregir mis datos o intentar otra vez.</td>
+    </tr>
+    <tr>
+      <th>Criterios de Aceptación (Gherkin)</th>
+      <td>
+        <b>Scenario 1: Pago declined</b><br>
+        Dado que el intento de pago es rechazado por el banco,<br>
+        Cuando la transacción falla,<br>
+        Entonces el sistema muestra un mensaje de error en pantalla<br>
+        Y envía una notificación push/email al cliente.<br><br>
+        <b>Scenario 2: Reintento posterior</b><br>
+        Dado que el cliente corrige los datos y reintenta,<br>
+        Cuando el pago se procesa exitosamente,<br>
+        Entonces el sistema actualiza el estado a “Pago completado”.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 | Epic ID | Título de Épica              | Descripción de la épica                                                                                                              | Número de User Stories asociados |
 |---------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | Epic 1  | Landing Page | Como usuario, deseo un landing page que presente información sobre el servicio y sus características principales. |1|
