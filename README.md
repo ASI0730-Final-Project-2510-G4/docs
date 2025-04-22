@@ -250,7 +250,7 @@ Somos TechNova, un grupo conformado por 5 jóvenes estudiantes de la Universidad
 
 CreatiLink es una plataforma web que conecta a diseñadores independientes de distintos ámbitos con clientes que buscan servicios de diseño de una manera más sencilla, directa y confiable. Nuestro objetivo es brindar visibilidad y oportunidades reales a aquellos talentos que, pese a contar con formación académica o técnica, enfrentan dificultades para insertarse en el mercado laboral formal.
 
-Partimos de una problemática real, una gran parte de los diseñadores egresados no logra ejercer la carrera que estudiaron, en muchos casos por falta de oportunidades laborales o visibilidad. A través de TechNova, los diseñadores pueden crear un perfil social donde muestran su portafolio, experiencia, y reciben calificaciones de sus clientes, lo cual incrementa su reputación y la demanda de sus servicios.
+Partimos de una problemática real, una gran parte de los diseñadores egresados no logra ejercer la carrera que estudiaron, en muchos casos por falta de oportunidades laborales o visibilidad. A través de CreatiLink, los diseñadores pueden crear un perfil social donde muestran su portafolio, experiencia, y reciben calificaciones de sus clientes, lo cual incrementa su reputación y la demanda de sus servicios.
 
 Del lado del cliente, la app facilita encontrar diseñadores de calidad que muchas veces no operan desde locales físicos y por ello son difíciles de contactar. El sistema permite revisar perfiles, comparar trabajos previos, contactar directamente por chat para coordinar precio, fecha y lugar, y calificar la experiencia al finalizar el servicio.
 
