@@ -261,10 +261,13 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="180" height="180" src="assets/tb1 images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| <p align="center"><img width="280" height="380" src="assets/tb1 images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
 | --------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+- Anderson Gamarra Vega - U202016154
 
+| <p align="center"><img width="780" height="200" src="assets/tb1 images/anderson-profile.jpg"></p> | Mi nombre es Anderson Jose Gamarra Vega, tengo 24 años , estudiante de Ingeniería de Software. Desde siempre he sentido una gran pasión por la tecnología, pero me decanto especialmente por el desarrollo de software, pues me fascina aprender nuevos lenguajes de programación, diseñar soluciones digitales y afrontar retos mediante código. Esta inclinación hacia el software fue lo que me motivó a elegir esta carrera, y actualmente estoy profundizando en áreas como backend, arquitectura de software, metodologías agile. |
+|---|---| 
 
 ## 1.2. Solution Profile
 
@@ -1072,3 +1075,92 @@ En el Diagrama de Contenedores descomponemos CreatiLink en artefactos ejecutable
 Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada Bounded Context, siguiendo el patrón Controller – Service – Repository.
 
 ![C4 - Components Diagram](./assets/c4-diagrams/component-diagram.png)
+
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+![Class Diagrams](./assets/tb1%20images/ClassDiagrams.png)
+### 4.7.2. Class Dictionary.
+
+# Diccionario de Clases
+
+## Clases Principales
+
+### 1. `Usuario`
+**Descripción**: Clase base para todos los usuarios del sistema.  
+**Atributos**:
+| Nombre      | Tipo     | Descripción                          |
+|-------------|----------|--------------------------------------|
+| `id`        | String   | Identificador único                  |
+| `nombre`    | String   | Nombre completo                      |
+| `email`     | String   | Correo electrónico (único)           |
+| `password`  | String   | Contraseña encriptada                |
+| `rol`       | `Rol`    | Tipo de usuario (enum)               |
+
+**Métodos**:
+- `registrar()`: Crea una nueva cuenta de usuario
+- `login(credenciales)`: Autentica al usuario
+- `actualizarPerfil(datos)`: Modifica información personal
+
+---
+
+### 2. `Diseñador` (hereda de `Usuario`)
+**Descripción**: Usuario especializado en publicar proyectos de diseño.  
+**Atributos adicionales**:
+| Nombre            | Tipo   | Descripción                          |
+|-------------------|--------|--------------------------------------|
+| `especialidad`    | String | Área de expertise (ej: UI/UX)       |
+| `ratingPromedio`  | Float  | Calificación promedio (1.0-5.0)      |
+
+**Métodos adicionales**:
+- `subirProyecto(datos)`: Publica un nuevo proyecto
+- `gestionarPortafolio()`: CRUD de proyectos
+
+---
+
+### 3. `Cliente` (hereda de `Usuario`)
+**Descripción**: Usuario que contrata servicios y califica diseñadores.  
+**Atributos adicionales**:
+| Nombre           | Tipo                | Descripción                          |
+|------------------|---------------------|--------------------------------------|
+| `metodosPago`    | `List<MetodoPago>`  | Medios de pago registrados           |
+
+**Métodos adicionales**:
+- `realizarPago(monto)`: Ejecuta transacción
+- `calificarProyecto(proyecto, puntuacion)`: Crea una calificación
+
+---
+
+### 4. `Proyecto`
+**Descripción**: Trabajo creativo publicado por un diseñador.  
+**Atributos**:
+| Nombre         | Tipo               | Descripción                          |
+|----------------|--------------------|--------------------------------------|
+| `id`           | String             | Identificador único                  |
+| `titulo`       | String             | Nombre del proyecto                  |
+| `descripcion`  | String             | Detalles del trabajo                 |
+| `estado`       | `EstadoProyecto`   | Borrador/Publicado/Archivado         |
+| `tecnologias`  | `List<String>`     | Herramientas utilizadas              |
+
+**Métodos**:
+- `publicar()`: Cambia estado a "Publicado"
+- `archivar()`: Cambia estado a "Archivado"
+
+---
+
+### 5. `Mensaje`
+**Descripción**: Comunicación privada entre usuarios.  
+**Atributos**:
+| Nombre        | Tipo       | Descripción                          |
+|---------------|------------|--------------------------------------|
+| `id`          | String     | Identificador único                  |
+| `contenido`   | String     | Texto del mensaje                    |
+| `fecha`       | DateTime   | Fecha-hora de envío                  |
+| `leido`       | Boolean    | Estado de lectura                    |
+
+**Métodos**:
+- `enviar(destinatario)`: Transmite el mensaje
+- `eliminar()`: Remueve el mensaje
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
+![Database Diagram](./assets/tb1%20images/DatabaseDiagram.png)
