@@ -1072,3 +1072,92 @@ En el Diagrama de Contenedores descomponemos CreatiLink en artefactos ejecutable
 Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada Bounded Context, siguiendo el patrón Controller – Service – Repository.
 
 ![C4 - Components Diagram](./assets/c4-diagrams/component-diagram.png)
+
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+![Class Diagrams](./assets/tb1%20images/ClassDiagrams.png)
+### 4.7.2. Class Dictionary.
+
+# Diccionario de Clases
+
+## Clases Principales
+
+### 1. `Usuario`
+**Descripción**: Clase base para todos los usuarios del sistema.  
+**Atributos**:
+| Nombre      | Tipo     | Descripción                          |
+|-------------|----------|--------------------------------------|
+| `id`        | String   | Identificador único                  |
+| `nombre`    | String   | Nombre completo                      |
+| `email`     | String   | Correo electrónico (único)           |
+| `password`  | String   | Contraseña encriptada                |
+| `rol`       | `Rol`    | Tipo de usuario (enum)               |
+
+**Métodos**:
+- `registrar()`: Crea una nueva cuenta de usuario
+- `login(credenciales)`: Autentica al usuario
+- `actualizarPerfil(datos)`: Modifica información personal
+
+---
+
+### 2. `Diseñador` (hereda de `Usuario`)
+**Descripción**: Usuario especializado en publicar proyectos de diseño.  
+**Atributos adicionales**:
+| Nombre            | Tipo   | Descripción                          |
+|-------------------|--------|--------------------------------------|
+| `especialidad`    | String | Área de expertise (ej: UI/UX)       |
+| `ratingPromedio`  | Float  | Calificación promedio (1.0-5.0)      |
+
+**Métodos adicionales**:
+- `subirProyecto(datos)`: Publica un nuevo proyecto
+- `gestionarPortafolio()`: CRUD de proyectos
+
+---
+
+### 3. `Cliente` (hereda de `Usuario`)
+**Descripción**: Usuario que contrata servicios y califica diseñadores.  
+**Atributos adicionales**:
+| Nombre           | Tipo                | Descripción                          |
+|------------------|---------------------|--------------------------------------|
+| `metodosPago`    | `List<MetodoPago>`  | Medios de pago registrados           |
+
+**Métodos adicionales**:
+- `realizarPago(monto)`: Ejecuta transacción
+- `calificarProyecto(proyecto, puntuacion)`: Crea una calificación
+
+---
+
+### 4. `Proyecto`
+**Descripción**: Trabajo creativo publicado por un diseñador.  
+**Atributos**:
+| Nombre         | Tipo               | Descripción                          |
+|----------------|--------------------|--------------------------------------|
+| `id`           | String             | Identificador único                  |
+| `titulo`       | String             | Nombre del proyecto                  |
+| `descripcion`  | String             | Detalles del trabajo                 |
+| `estado`       | `EstadoProyecto`   | Borrador/Publicado/Archivado         |
+| `tecnologias`  | `List<String>`     | Herramientas utilizadas              |
+
+**Métodos**:
+- `publicar()`: Cambia estado a "Publicado"
+- `archivar()`: Cambia estado a "Archivado"
+
+---
+
+### 5. `Mensaje`
+**Descripción**: Comunicación privada entre usuarios.  
+**Atributos**:
+| Nombre        | Tipo       | Descripción                          |
+|---------------|------------|--------------------------------------|
+| `id`          | String     | Identificador único                  |
+| `contenido`   | String     | Texto del mensaje                    |
+| `fecha`       | DateTime   | Fecha-hora de envío                  |
+| `leido`       | Boolean    | Estado de lectura                    |
+
+**Métodos**:
+- `enviar(destinatario)`: Transmite el mensaje
+- `eliminar()`: Remueve el mensaje
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
+![Database Diagram](./assets/tb1%20images/DatabaseDiagram.png)
