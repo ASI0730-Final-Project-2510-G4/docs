@@ -269,6 +269,12 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 | <p align="center"><img width="780" height="200" src="assets/tb1 images/anderson-profile.jpg"></p> | Mi nombre es Anderson Jose Gamarra Vega, tengo 24 años , estudiante de Ingeniería de Software. Desde siempre he sentido una gran pasión por la tecnología, pero me decanto especialmente por el desarrollo de software, pues me fascina aprender nuevos lenguajes de programación, diseñar soluciones digitales y afrontar retos mediante código. Esta inclinación hacia el software fue lo que me motivó a elegir esta carrera, y actualmente estoy profundizando en áreas como backend, arquitectura de software, metodologías agile. |
 |---|---| 
 
+- Alexander Paolo Juto Yauricasa - U20191C054
+
+| <p align="center"><img width="780" height="200" src="assets/tb1 images/AlexanderJusto.png"></p> | Me llamo Alexander Paolo Justo Yauricasa, tengo 24 años y soy estudiante de Ingeniería de Software. Siempre he sentido un fuerte interés por la tecnología, pero me inclino especialmente hacia el desarrollo de software, ya que me entusiasma aprender nuevos lenguajes de programación, crear soluciones digitales y resolver desafíos a través del código. Esta pasión por el software fue lo que me llevó a elegir esta profesión, y hoy me enfoco en áreas como el desarrollo de base de datos y la arquitectura de software. |
+|---|---| 
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
