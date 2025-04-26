@@ -1019,7 +1019,7 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ## 3.3. Impact Mapping
 
-![Designer User Person Map](./assets/tb1images/Impact-Mapping.png)
+![Impact Mapping](./assets/tb1images/impact-mapping.png)
 
 ## 3.4. Product Backlog
 
@@ -1037,135 +1037,269 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
     <tr>
       <td>1</td>
       <td>HU01</td>
-      <td>Creación de la Sección "About"</td>
-      <td>Como cliente, quiero una sección que presente información sobre el servicio para comprender mejor la aplicación.</td>
-      <td>5</td>
+      <td>Interactuar con el TOOLBAR</td>
+      <td>Como diseñador y cliente quiero un toolbar para manejar en la página.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>2</td>
       <td>HU02</td>
-      <td>Creación de la Sección "Features"</td>
-      <td>Como cliente, quiero una sección que destaque las características principales de la aplicación.</td>
-      <td>5</td>
+      <td>Call to Action</td>
+      <td>Como cliente y diseñador, quiero una sección con botón para iniciar la aplicación.</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>3</td>
       <td>HU03</td>
       <td>Creación de la Sección "How It Works"</td>
-      <td>Como cliente, quiero una sección que explique cómo funciona el servicio para comprender los pasos necesarios para utilizar la aplicación.</td>
-      <td>5</td>
+      <td>Como cliente, quiero una sección que explique cómo funciona el servicio.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>4</td>
       <td>HU04</td>
-      <td>Creación de la Sección "FAQ"</td>
-      <td>Como cliente, quiero una sección que muestre las preguntas frecuentes de los usuarios para tener ayuda de los usuarios actuales.</td>
+      <td>Visualizar la Sección "Features"</td>
+      <td>Como cliente, quiero una sección que destaque las características principales de la aplicación.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>5</td>
       <td>HU05</td>
-      <td>Creación de la Sección de Footer</td>
-      <td>Como cliente, quiero un footer en el landing page para acceder a enlaces adicionales y a las redes sociales de la aplicación.</td>
-      <td>3</td>
+      <td>Visualizar la Sección "About us"</td>
+      <td>Como cliente, quiero una sección que presente información sobre el equipo.</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>6</td>
       <td>HU06</td>
-      <td>Creación de la Sección de Socios</td>
-      <td>Como cliente, quiero una sección que muestre los socios o colaboradores de la aplicación para conocer las asociaciones relevantes.</td>
+      <td>Preguntas Frecuentes</td>
+      <td>Como cliente quiero ver FAQs para obtener ayuda.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>7</td>
       <td>HU07</td>
-      <td>Registro de Cuentas</td>
-      <td>Como usuario nuevo, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades disponibles.</td>
-      <td>8</td>
+      <td>Formulario de Contacto Sencillo</td>
+      <td>Como cliente, quiero un formulario para interactuar con los desarrolladores.</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>8</td>
       <td>HU08</td>
-      <td>Inicio de Sesión</td>
-      <td>Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mi cuenta y mis datos.</td>
-      <td>8</td>
+      <td>Visualizar los planes</td>
+      <td>Como cliente, quiero poder ver los planes para poder afiliarme.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>9</td>
       <td>HU09</td>
-      <td>Configuración de Perfil</td>
-      <td>Como usuario registrado, quiero poder configurar mi perfil para personalizar mi experiencia en la plataforma.</td>
-      <td>5</td>
+      <td>Creación de la Sección de Footer</td>
+      <td>Como cliente, quiero un footer en el landing page para acceder a enlaces adicionales.</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>10</td>
       <td>HU10</td>
-      <td>Cierre de Sesión</td>
-      <td>Como usuario, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad.</td>
-      <td>3</td>
+      <td>Registro de Cuentas</td>
+      <td>Como usuario nuevo, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades disponibles.</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>11</td>
       <td>HU11</td>
-      <td>Subir Proyecto del Diseñador</td>
-      <td>Como usuario, quiero subir mi trabajo con todas sus características (imágenes, título, descripción, categorías).</td>
-      <td>5</td>
+      <td>Inicio de Sesión</td>
+      <td>Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mi cuenta y mis datos.</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>12</td>
       <td>HU12</td>
-      <td>Borrar Proyecto del Diseñador</td>
-      <td>Como usuario, quiero borrar un trabajo que no me gusta.</td>
-      <td>3</td>
+      <td>Como usuario registrado, quiero poder configurar mi perfil para personalizar mi experiencia en la plataforma.</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>13</td>
       <td>HU13</td>
-      <td>Editar Proyecto del Diseñador</td>
-      <td>Como usuario, quiero editar uno de mis proyectos para actualizar su descripción, imágenes, o categorías.</td>
-      <td>5</td>
+      <td>Cierre de Sesión</td>
+      <td>Como usuario, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad.</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>14</td>
       <td>HU14</td>
-      <td>Interactuar en Comentarios</td>
-      <td>Como usuario, quiero interactuar con los comentarios de un proyecto para responder dudas o agradecer sugerencias de los clientes y otros profesionales.</td>
-      <td>3</td>
+      <td>Recuperación de Contraseña</td>
+      <td>Como usuario, quiero poder recuperar mi contraseña en caso de olvidarla para poder volver a acceder a mi cuenta.</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>15</td>
       <td>HU15</td>
-      <td>Filtrar Proyecto del Diseñador</td>
-      <td>Como usuario, quiero filtrar los proyectos de acuerdo a etiquetas o categorías para encontrar los que más me interesen o me ayuden en futuros proyectos.</td>
+      <td>Mensajería entre Clientes y Diseñadores</td>
+      <td>Como cliente, quiero poder enviar mensajes privados a los diseñadores para discutir precios, horarios o cosas varias.</td>
       <td>5</td>
     </tr>
     <tr>
       <td>16</td>
       <td>HU16</td>
-      <td>Calificar Publicación</td>
-      <td>Como usuario, quiero poder calificar los proyectos que me gusten para dar feedback y ayudar a otros usuarios a tomar decisiones.</td>
+      <td>Notificaciones de Mensajes Privados</td>
+      <td>Como usuario, quiero recibir notificaciones cuando reciba nuevos mensajes privados de los diseñadores para mantener comunicación fluida.</td>
       <td>3</td>
     </tr>
     <tr>
       <td>17</td>
       <td>HU17</td>
-      <td>Contratar a un Diseñador</td>
-      <td>Como usuario, quiero poder contratar a un diseñador cuyos proyectos me hayan gustado, para comenzar a trabajar con él en mi proyecto.</td>
-      <td>8</td>
+      <td>Eliminación de Mensajes</td>
+      <td>Como usuario, quiero poder eliminar mensajes individuales de mis conversaciones para mantener mi bandeja de entrada organizada.</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>18</td>
       <td>HU18</td>
-      <td>Cancelar un Contrato</td>
-      <td>Como usuario, quiero poder cancelar un contrato con un diseñador si ya no estoy interesado en seguir adelante con el proyecto.</td>
-      <td>5</td>
+      <td>Eliminación de Conversaciones</td>
+      <td>Como usuario, quiero poder eliminar conversaciones completas de mi bandeja de entrada para mantenerla ordenada.</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>19</td>
       <td>HU19</td>
-      <td>Hablar con el Diseñador</td>
-      <td>Como usuario, quiero poder hablar con el diseñador para discutir detalles del proyecto o hacer preguntas antes de contratarlo.</td>
+      <td>Ingresar a la caja de mensajes</td>
+      <td>Como usuario, quiero poder entrar a una caja de mensajes para ver mis conversaciones pasadas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>HU20</td>
+      <td>Comentar una publicación</td>
+      <td>Como usuario, quiero poder publicar comentarios en las publicaciones de los diseñadores.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>HU21</td>
+      <td>Dejar una calificación</td>
+      <td>Como usuario, quiero poder dejar una calificación del trabajo del diseñador para mostrar mi conformidad o disconformidad.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>HU22</td>
+      <td>Comentar un comentario</td>
+      <td>Como usuario, quiero poder publicar comentarios en otro comentario.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>HU23</td>
+      <td>Eliminar un comentario</td>
+      <td>Como usuario, quiero poder eliminar un comentario de una publicación.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>HU24</td>
+      <td>Editar mi comentario</td>
+      <td>Como usuario, quiero poder editar un comentario para corregir algún error en el mensaje.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>HU25</td>
+      <td>Agregar un trabajo</td>
+      <td>Como diseñador, quiero poder subir mis proyectos realizados con descripción e imágenes para que los usuarios vean mis trabajos.</td>
       <td>5</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>HU26</td>
+      <td>Borrar un trabajo</td>
+      <td>Como diseñador, quiero poder borrar un trabajo para quitarlo de mi portafolio.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>HU27</td>
+      <td>Editar un trabajo</td>
+      <td>Como diseñador, quiero poder editar un trabajo para arreglar, modificar o mejorar mi trabajo.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>HU28</td>
+      <td>Ordenar un trabajo</td>
+      <td>Como diseñador, quiero poder ordenar mis trabajos según mis preferencias.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>HU29</td>
+      <td>Notificación de pago fallido</td>
+      <td>Como cliente, quiero recibir una notificación si mi pago falla, para saber que debo corregir mis datos o intentar otra vez.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>HU30</td>
+      <td>Iniciar pago con tarjeta</td>
+      <td>Como cliente, quiero registrar los datos de mi tarjeta de crédito/débito, para que pueda pagar un servicio de forma segura.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>HU31</td>
+      <td>Confirmación de pago por correo</td>
+      <td>Como cliente, quiero recibir un email de confirmación tras el pago, para tener registro de mi transacción.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>HU32</td>
+      <td>Historial de transacciones</td>
+      <td>Como cliente, quiero ver mi historial de pagos, para revisar mis transacciones anteriores.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>HU33</td>
+      <td>Solicitud de reembolso</td>
+      <td>Como cliente, quiero solicitar un reembolso de un pago, para recuperar el importe en caso de cancelación del servicio.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>HU34</td>
+      <td>Gestión de métodos de pago</td>
+      <td>Como cliente, quiero agregar y administrar mis métodos de pago (tarjetas, PayPal), para elegir el más conveniente en cada ocasión.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>HU35</td>
+      <td>Notificación de pago fallido</td>
+      <td>Como cliente, quiero recibir una notificación si mi pago falla, para saber que debo corregir mis datos o intentar otra vez.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>HU36</td>
+      <td>
+        Visualizar los detalles de uno de mis proyectos
+      </td>
+      <td>Como autor del portfolio, quiero ver el detalle completo de cada proyecto, para verificar cómo se muestra públicamente.</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>HU37</td>
+      <td>Cambiar el estado de un proyecto (publicado o borrador)</td>
+      <td>Como usuario, quiero marcar mis proyectos como publicados o dejarlos como borradores, para controlar qué se muestra públicamente.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>HU38</td>
+      <td>Agregar tecnologías utilizadas en un proyecto</td>
+      <td>Como usuario, quiero agregar una lista de tecnologías o herramientas utilizadas en cada proyecto, para mostrar mis habilidades técnicas de forma clara.</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
