@@ -792,6 +792,42 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
   </tr>
 </table>
 
+
+<table border="2">
+  <tr>
+    <th>Entrevista</th>
+    <td>1</td>
+    <th>Nombre</th>
+    <td>Maria Muñoz</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>21</td>
+    <th>Ciudad</th>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="./assets/entrevistas/cap-entrevista-iker.jpg" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+        En la entrevista, Iker Matías conversa con María Elena Muñoz Machuca, estudiante de marketing de 21 años. María comenta que utiliza herramientas como laptop, celular, Google Docs, Sheets, Drive, Canva, Notion, Instagram y LinkedIn para su trabajo académico. Sus objetivos a corto plazo son fortalecer habilidades en marketing digital, ganar experiencia en proyectos reales y ampliar su red de contactos. Relata su participación en campañas de marca, proyectos de e-commerce y gestión de inventarios para restaurantes. Al buscar diseñadores, valora el estilo visual, la claridad en la comunicación y la capacidad de adaptación a la identidad de marca. Prioriza el estilo cuando el presupuesto es limitado y la reputación cuando los proyectos son más serios. Considera que el éxito se mide por la calidad del resultado y la fluidez en el trabajo. Al conocer la propuesta de una app que conecta diseñadores con clientes, sugiere mejorar la identidad gráfica, adaptarla a móviles y ofrecer plantillas de diseño. Finalmente, acepta colaborar en futuras validaciones de la aplicación.   
+        </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317713_upc_edu_pe/ERM2Sr7sfZBGrL8PuLFsmEMBgP-UhdSmKGDEthAmU5jWlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Iwhzjd">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 6:40
+    </td>
+  </tr>
+</table>
+
 ## 2.3 Needfinding
 
 ### 2.3.1 User Personas
