@@ -746,6 +746,43 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
   </tr>
 </table>
 
+**Segmento objetivo de clientes**
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>1</td>
+    <th>Nombre</th>
+    <td>Camila conde</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>21</td>
+    <th>Ciudad</th>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="./assets/entrevistas/customer-1.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+         En la entrevista, Camila Conde comenta que se dedica al diseño, apoyándose fundamentalmente en Figma para el prototipado. Explica que, ha contratado el servicio de diseñadores para ayuda en algunos trabajos, y que le fue muy complicado encontrar uno que le llame la atencion. Menciona que, una web le gustaria y facilitaria la siguente que busqye a un diseñador.   
+        </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191c054_upc_edu_pe/ET3ZpgOVrTxHtuJpplw7UJEBqt4JaSCFnisVNEPk_Si_bQ?e=4LAa9L&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 6:40
+    </td>
+  </tr>
+</table>
+
 ## 2.3 Needfinding
 
 ### 2.3.1 User Personas
