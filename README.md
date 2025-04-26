@@ -1306,134 +1306,6 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 # Capítulo IV: Product Design
 
-## 4.6. Domain-Driven Software Architecture.
-
-La Arquitectura dirigida por el Dominio (DDD) se centra en modelar el software atendiendo las reglas y procesos del negocio, separando el sistema en Bounded Contexts que contienen su propio modelo y lenguaje ubicuo . En CreatiLink identificamos cinco contextos acotados—Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería—cada uno aislado para evitar ambigüedades y facilitar la evolución independiente de funcionalidades.
-
-### 4.6.1. Software Architecture Context Diagram.
-
-El Diagrama de Contexto ofrece una vista de alto nivel donde CreatiLink aparece como un único sistema central, rodeado por dos actores (Cliente y Diseñador) y los sistemas externos con los que interactúa: un Payment System, un Push Notification System y la Behance API.
-
-![C4 - Context Diagram](./assets/c4-diagrams/context-diagram.png)
-
-### 4.6.2. Software Architecture Container Diagrams.
-
-En el Diagrama de Contenedores descomponemos CreatiLink en artefactos ejecutables y persistentes, mostrando también la tecnología utilizada.
-
-![C4 - Container Diagram](./assets/c4-diagrams/container-diagram.png)
-
-### 4.6.3. Software Architecture Components Diagrams.
-
-Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada Bounded Context, siguiendo el patrón Controller – Service – Repository.
-
-![C4 - Components Diagram](./assets/c4-diagrams/component-diagram.png)
-
-## 4.7. Software Object-Oriented Design.
-
-### 4.7.1. Class Diagrams.
-
-![Class Diagrams](./assets/tb1images/ClassDiagrams.png)
-
-### 4.7.2. Class Dictionary.
-
-# Diccionario de Clases
-
-## Clases Principales
-
-### 1. `Usuario`
-
-**Descripción**: Clase base para todos los usuarios del sistema.  
-**Atributos**:
-| Nombre | Tipo | Descripción |
-|-------------|----------|--------------------------------------|
-| `id` | String | Identificador único |
-| `nombre` | String | Nombre completo |
-| `email` | String | Correo electrónico (único) |
-| `password` | String | Contraseña encriptada |
-| `rol` | `Rol` | Tipo de usuario (enum) |
-
-**Métodos**:
-
-- `registrar()`: Crea una nueva cuenta de usuario
-- `login(credenciales)`: Autentica al usuario
-- `actualizarPerfil(datos)`: Modifica información personal
-
----
-
-### 2. `Diseñador` (hereda de `Usuario`)
-
-**Descripción**: Usuario especializado en publicar proyectos de diseño.  
-**Atributos adicionales**:
-| Nombre | Tipo | Descripción |
-|-------------------|--------|--------------------------------------|
-| `especialidad` | String | Área de expertise (ej: UI/UX) |
-| `ratingPromedio` | Float | Calificación promedio (1.0-5.0) |
-
-**Métodos adicionales**:
-
-- `subirProyecto(datos)`: Publica un nuevo proyecto
-- `gestionarPortafolio()`: CRUD de proyectos
-
----
-
-### 3. `Cliente` (hereda de `Usuario`)
-
-**Descripción**: Usuario que contrata servicios y califica diseñadores.  
-**Atributos adicionales**:
-| Nombre | Tipo | Descripción |
-|------------------|---------------------|--------------------------------------|
-| `metodosPago` | `List<MetodoPago>` | Medios de pago registrados |
-
-**Métodos adicionales**:
-
-- `realizarPago(monto)`: Ejecuta transacción
-- `calificarProyecto(proyecto, puntuacion)`: Crea una calificación
-
----
-
-### 4. `Proyecto`
-
-**Descripción**: Trabajo creativo publicado por un diseñador.  
-**Atributos**:
-| Nombre | Tipo | Descripción |
-|----------------|--------------------|--------------------------------------|
-| `id` | String | Identificador único |
-| `titulo` | String | Nombre del proyecto |
-| `descripcion` | String | Detalles del trabajo |
-| `estado` | `EstadoProyecto` | Borrador/Publicado/Archivado |
-| `tecnologias` | `List<String>` | Herramientas utilizadas |
-
-**Métodos**:
-
-- `publicar()`: Cambia estado a "Publicado"
-- `archivar()`: Cambia estado a "Archivado"
-
----
-
-### 5. `Mensaje`
-
-**Descripción**: Comunicación privada entre usuarios.  
-**Atributos**:
-| Nombre | Tipo | Descripción |
-|---------------|------------|--------------------------------------|
-| `id` | String | Identificador único |
-| `contenido` | String | Texto del mensaje |
-| `fecha` | DateTime | Fecha-hora de envío |
-| `leido` | Boolean | Estado de lectura |
-
-**Métodos**:
-
-- `enviar(destinatario)`: Transmite el mensaje
-- `eliminar()`: Remueve el mensaje
-
-## 4.8. Database Design.
-
-### 4.8.1. Database Diagram.
-
-![Database Diagram](./assets/tb1images/DatabaseDiagram.png)
-
-
-## Capítulo IV: Product Design
 
 ### 4.1. Style Guidelines.
 
@@ -1855,6 +1727,134 @@ El inicio de sesión en FreelanceHub está diseñado para ofrecer una experienci
 #### 4.4.1. Web Applications Wireframes
 
 En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida.
+
+
+## 4.6. Domain-Driven Software Architecture.
+
+La Arquitectura dirigida por el Dominio (DDD) se centra en modelar el software atendiendo las reglas y procesos del negocio, separando el sistema en Bounded Contexts que contienen su propio modelo y lenguaje ubicuo . En CreatiLink identificamos cinco contextos acotados—Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería—cada uno aislado para evitar ambigüedades y facilitar la evolución independiente de funcionalidades.
+
+### 4.6.1. Software Architecture Context Diagram.
+
+El Diagrama de Contexto ofrece una vista de alto nivel donde CreatiLink aparece como un único sistema central, rodeado por dos actores (Cliente y Diseñador) y los sistemas externos con los que interactúa: un Payment System, un Push Notification System y la Behance API.
+
+![C4 - Context Diagram](./assets/c4-diagrams/context-diagram.png)
+
+### 4.6.2. Software Architecture Container Diagrams.
+
+En el Diagrama de Contenedores descomponemos CreatiLink en artefactos ejecutables y persistentes, mostrando también la tecnología utilizada.
+
+![C4 - Container Diagram](./assets/c4-diagrams/container-diagram.png)
+
+### 4.6.3. Software Architecture Components Diagrams.
+
+Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada Bounded Context, siguiendo el patrón Controller – Service – Repository.
+
+![C4 - Components Diagram](./assets/c4-diagrams/component-diagram.png)
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams.
+
+![Class Diagrams](./assets/tb1images/ClassDiagrams.png)
+
+### 4.7.2. Class Dictionary.
+
+# Diccionario de Clases
+
+## Clases Principales
+
+### 1. `Usuario`
+
+**Descripción**: Clase base para todos los usuarios del sistema.  
+**Atributos**:
+| Nombre | Tipo | Descripción |
+|-------------|----------|--------------------------------------|
+| `id` | String | Identificador único |
+| `nombre` | String | Nombre completo |
+| `email` | String | Correo electrónico (único) |
+| `password` | String | Contraseña encriptada |
+| `rol` | `Rol` | Tipo de usuario (enum) |
+
+**Métodos**:
+
+- `registrar()`: Crea una nueva cuenta de usuario
+- `login(credenciales)`: Autentica al usuario
+- `actualizarPerfil(datos)`: Modifica información personal
+
+---
+
+### 2. `Diseñador` (hereda de `Usuario`)
+
+**Descripción**: Usuario especializado en publicar proyectos de diseño.  
+**Atributos adicionales**:
+| Nombre | Tipo | Descripción |
+|-------------------|--------|--------------------------------------|
+| `especialidad` | String | Área de expertise (ej: UI/UX) |
+| `ratingPromedio` | Float | Calificación promedio (1.0-5.0) |
+
+**Métodos adicionales**:
+
+- `subirProyecto(datos)`: Publica un nuevo proyecto
+- `gestionarPortafolio()`: CRUD de proyectos
+
+---
+
+### 3. `Cliente` (hereda de `Usuario`)
+
+**Descripción**: Usuario que contrata servicios y califica diseñadores.  
+**Atributos adicionales**:
+| Nombre | Tipo | Descripción |
+|------------------|---------------------|--------------------------------------|
+| `metodosPago` | `List<MetodoPago>` | Medios de pago registrados |
+
+**Métodos adicionales**:
+
+- `realizarPago(monto)`: Ejecuta transacción
+- `calificarProyecto(proyecto, puntuacion)`: Crea una calificación
+
+---
+
+### 4. `Proyecto`
+
+**Descripción**: Trabajo creativo publicado por un diseñador.  
+**Atributos**:
+| Nombre | Tipo | Descripción |
+|----------------|--------------------|--------------------------------------|
+| `id` | String | Identificador único |
+| `titulo` | String | Nombre del proyecto |
+| `descripcion` | String | Detalles del trabajo |
+| `estado` | `EstadoProyecto` | Borrador/Publicado/Archivado |
+| `tecnologias` | `List<String>` | Herramientas utilizadas |
+
+**Métodos**:
+
+- `publicar()`: Cambia estado a "Publicado"
+- `archivar()`: Cambia estado a "Archivado"
+
+---
+
+### 5. `Mensaje`
+
+**Descripción**: Comunicación privada entre usuarios.  
+**Atributos**:
+| Nombre | Tipo | Descripción |
+|---------------|------------|--------------------------------------|
+| `id` | String | Identificador único |
+| `contenido` | String | Texto del mensaje |
+| `fecha` | DateTime | Fecha-hora de envío |
+| `leido` | Boolean | Estado de lectura |
+
+**Métodos**:
+
+- `enviar(destinatario)`: Transmite el mensaje
+- `eliminar()`: Remueve el mensaje
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
+
+![Database Diagram](./assets/tb1images/DatabaseDiagram.png)
+
 
 
 ## Capítulo V: Product Implementation, Validation & Deploymentt
