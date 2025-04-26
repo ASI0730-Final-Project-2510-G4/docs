@@ -262,6 +262,13 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 | <p align="center"><img width="780" height="200" src="assets/tb1images/javier-profile.jpg"></p> | Me llamo Javier Oswaldo Tello Murga, tengo 22 años y soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona capaz, con muchas ganas de adquirir conocimientos, sobre todo con los temas que tenga que ver con mi carrera. Tengo conocimiento en wordprees básico, html y css intermedio y C++. |
 | -----------------------------------------------------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+- Pejerrey Ruiz Iker Matias - U202317713
+
+| <p align="center"><img width="780" height="200" src="assets/tb1images/Iker-profile.jpg"></p> | Soy un estudiante de la carrera de Ingeniería de Software, tengo 18 años y me apasiona la música y los videojuegos. Me considero una persona responsable y creativa en ciertos aspectos, y en mi opinión considero que estas y más cualidades me ayudarán a llevar a cabo de manera satisfactoria el proyecto. |
+| -----------------------------------------------------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
