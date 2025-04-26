@@ -244,17 +244,17 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img width="280" height="380" src="assets/tb1 images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| <p align="center"><img width="280" height="380" src="./assets/tb1images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
 | -------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Anderson Gamarra Vega - U202016154
 
-| <p align="center"><img width="780" height="200" src="assets/tb1 images/anderson-profile.jpg"></p> | Mi nombre es Anderson Jose Gamarra Vega, tengo 24 años , estudiante de Ingeniería de Software. Desde siempre he sentido una gran pasión por la tecnología, pero me decanto especialmente por el desarrollo de software, pues me fascina aprender nuevos lenguajes de programación, diseñar soluciones digitales y afrontar retos mediante código. Esta inclinación hacia el software fue lo que me motivó a elegir esta carrera, y actualmente estoy profundizando en áreas como backend, arquitectura de software, metodologías agile. |
+| <p align="center"><img width="780" height="200" src="./assets/tb1images/anderson-profile.jpg"></p> | Mi nombre es Anderson Jose Gamarra Vega, tengo 24 años , estudiante de Ingeniería de Software. Desde siempre he sentido una gran pasión por la tecnología, pero me decanto especialmente por el desarrollo de software, pues me fascina aprender nuevos lenguajes de programación, diseñar soluciones digitales y afrontar retos mediante código. Esta inclinación hacia el software fue lo que me motivó a elegir esta carrera, y actualmente estoy profundizando en áreas como backend, arquitectura de software, metodologías agile. |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Alexander Paolo Juto Yauricasa - U20191C054
 
-| <p align="center"><img width="780" height="200" src="assets/tb1 images/AlexanderJusto.png"></p> | Me llamo Alexander Paolo Justo Yauricasa, tengo 24 años y soy estudiante de Ingeniería de Software. Siempre he sentido un fuerte interés por la tecnología, pero me inclino especialmente hacia el desarrollo de software, ya que me entusiasma aprender nuevos lenguajes de programación, crear soluciones digitales y resolver desafíos a través del código. Esta pasión por el software fue lo que me llevó a elegir esta profesión, y hoy me enfoco en áreas como el desarrollo de base de datos y la arquitectura de software. |
+| <p align="center"><img width="780" height="200" src="assets/tb1images/AlexanderJusto.png"></p> | Me llamo Alexander Paolo Justo Yauricasa, tengo 24 años y soy estudiante de Ingeniería de Software. Siempre he sentido un fuerte interés por la tecnología, pero me inclino especialmente hacia el desarrollo de software, ya que me entusiasma aprender nuevos lenguajes de programación, crear soluciones digitales y resolver desafíos a través del código. Esta pasión por el software fue lo que me llevó a elegir esta profesión, y hoy me enfoco en áreas como el desarrollo de base de datos y la arquitectura de software. |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 1.2. Solution Profile
@@ -752,11 +752,11 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 **Diseñador**
 
-![Designer User Person Map](./assets/tb1%20images/User-Persona-Designer.png)
+![Designer User Person Map](./assets/tb1images/User-Persona-Designer.png)
 
 **Client**
 
-![Designer User Person Map](./assets/tb1%20images/User-Person-Client.png)
+![Designer User Person Map](./assets/tb1images/User-Person-Client.png)
 
 ### 2.3.1 User Task Matrix
 
@@ -845,31 +845,31 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 **Diseñador**
 
-![Designer User Person Map](./assets/tb1%20images/Journey-Map-Designer.png)
+![Designer User Person Map](./assets/tb1images/Journey-Map-Designer.png)
 
 **Client**
 
-![Designer User Person Map](./assets/tb1%20images/Journey-Map-Client.png)
+![Designer User Person Map](./assets/tb1images/Journey-Map-Client.png)
 
 ### 2.3.4 Empathy Mapping
 
 **Diseñador**
 
-![Designer User Person Map](./assets/tb1%20images/Empathy-Map-Designer.png)
+![Designer User Person Map](./assets/tb1images/Empathy-Map-Designer.png)
 
 **Client**
 
-![Designer User Person Map](./assets/tb1%20images/Empathy-Map-Client.png)
+![Designer User Person Map](./assets/tb1images/Empathy-Map-Client.png)
 
 ### 2.3.5 As-is Scenario Mapping
 
 **Diseñador**
 
-![Designer User Person Map](./assets/tb1%20images/As-Is-Designer.png)
+![Designer User Person Map](./assets/tb1images/As-Is-Designer.png)
 
 **Client**
 
-![Designer User Person Map](./assets/tb1%20images/As-Is-Client.png)
+![Designer User Person Map](./assets/tb1images/As-Is-Client.png)
 
 # Capítulo III: Requirements Specification
 
@@ -885,8 +885,8 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ## 3.2. User Stories.
 
-| Epic ID | Título de Épica                   | Descripción de la épica                                                                                                                                                                         |
-| ------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Epic ID | Título de Épica                   | Descripción de la épica|
+| ------- | ---------------------------------| --- |
 | Epic 1  | Landing Page                      | Como Como diseñador o cliente, deseo un landing page que presente información sobre el servicio y sus características principales.                                                              |
 | Epic 2  | Gestión de Usuarios               | Como Como diseñador o cliente, deseo poder realizar operaciones relacionadas con la gestión de mi cuenta, incluyendo el registro, inicio de sesión, configuración de perfil y cierre de sesión. |
 | Epic 3  | ⁠Gestión de mensajería o contacto | Como diseñador o cliente decean manterner una comunicación directa para consultar o acordar sus precios o citas.                                                                                |
@@ -937,7 +937,7 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ## 3.3. Impact Mapping
 
-![Designer User Person Map](./assets/tb1%20images/Impact-Mapping.png)
+![Designer User Person Map](./assets/tb1images/Impact-Mapping.png)
 
 ## 3.4. Product Backlog
 
@@ -1116,7 +1116,7 @@ Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada
 
 ### 4.7.1. Class Diagrams.
 
-![Class Diagrams](./assets/tb1%20images/ClassDiagrams.png)
+![Class Diagrams](./assets/tb1images/ClassDiagrams.png)
 
 ### 4.7.2. Class Dictionary.
 
@@ -1214,7 +1214,7 @@ Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada
 
 ### 4.8.1. Database Diagram.
 
-![Database Diagram](./assets/tb1%20images/DatabaseDiagram.png)
+![Database Diagram](./assets/tb1images/DatabaseDiagram.png)
 
 
 ## Capítulo IV: Product Design
