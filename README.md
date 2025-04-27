@@ -2363,34 +2363,23 @@ Link Trello: https://trello.com/b/DchlumuQ/asi0730-final-project-2510-g4
 En este Sprint, los miembros del equipo de desarrollo de software de KSI han completado y desplegado la Landing Page. A continuación, mostramos imágenes que demuestran cómo nuestra página presenta de manera clara e intuitiva la información sobre nuestro producto y nuestra empresa.
 
 <p align="center">
-  <img src="assets/tb1images/l1.png">
+  <img src="assets/LandingPage/execution-fr-1.png">
   <br>
   Vista general de la Landing Page, destacando el diseño limpio y moderno que permite a los usuarios navegar fácilmente por la información.
 </p>
 
 <p align="center">
-  <img src="assets/tb1images/l2.png">
+  <img src="assets/LandingPage/execution-fr-2.png">
   <br>
   Sección de beneficios clave del producto, mostrando cómo se presentan de manera atractiva y accesible para atraer a los usuarios.
 </p>
 
 <p align="center">
-  <img src="assets/tb1images/l3.png">
+  <img src="assets/LandingPage/execution-fr-3.png">
   <br>
   Sección de preguntas frecuentes, organizada por categorías, donde los usuarios pueden encontrar respuestas rápidas a sus dudas sobre el uso de la plataforma y área de contacto, mostrando el formulario que permite a los usuarios enviar mensajes directamente al equipo de soporte, facilitando la comunicación.
 </p>
 
-<p align="center">
-  <img src="assets/tb1images/l5.png">
-  <br>
-  Diseño del formulario de iniciar sesión, que garantiza de forma sencilla acceder a la aplicación web.
-</p>
-
-<p align="center">
-  <img src="assets/tb1images/l4.png">
-  <br>
-  Diseño del formulario de registro, que enfatiza la simplicidad y la facilidad de uso, asegurando que los nuevos usuarios puedan registrarse sin complicaciones.
-</p>
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
