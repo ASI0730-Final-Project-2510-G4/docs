@@ -754,6 +754,40 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
     </td>
   </tr>
 </table>
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>2</td>
+    <th>Nombre</th>
+    <td>Marycruz Murga</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>25</td>
+    <th>Ciudad</th>
+    <td>Lima</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="./assets/entrevistas/cap-entrevista-javier.jpg" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+         En la entrevista, Marycruz comenta que tiene bachiller en diseño de interiores, sus herramientas principales son el Autocad y Sketchup. Se le dificulta dificil encontrar a clientes constantes y desctaca que algunos clientes no valoran o reconocen el conocimiento que tiene y que ser independiente le ayuda a manejar sus tiempos para balancear su estilo de vida y que le gusataría una plataforma que pueda ayudarle a crecer profesionalmente.   
+        </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218387_upc_edu_pe/EUjlVwfNWi9LhPdpuhGQLEEBpNsrmAZop014C15E_FXjLQ?e=4jeaRQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D ">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 8:00
+    </td>
+  </tr>
+</table>
 
 **Segmento objetivo de clientes**
 
