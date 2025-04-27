@@ -789,6 +789,42 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
   </tr>
 </table>
 
+
+<table border="1">
+  <tr>
+    <th>Entrevista</th>
+    <td>3</td>
+    <th>Nombre</th>
+    <td>Alejandra Lora Rojas</td>
+  </tr>
+  <tr>
+    <th>Edad</th>
+    <td>21</td>
+    <th>Ciudad</th>
+    <td>Nordhausen - Alemania</td>
+  </tr>
+  <tr>
+    <th>Captura de la entrevista: <img src="./assets/entrevistas/designer-2.png" alt="Captura de la entrevista" width="200"></th>
+    <td colspan="3">
+         En la entrevista, Alejandra comenta que trabaja en el área de tecnología e innovación, participando en diversos proyectos relacionados con el desarrollo y adaptación de nuevas herramientas. Resalta que posee habilidades para el trabajo en equipo, la rápida adaptación a cambios y un fuerte interés por el aprendizaje continuo. Además, menciona que su principal motivación es enfrentarse a nuevos retos y encontrar un entorno que le permita crecer profesional y personalmente.  
+        </td>
+  </tr>
+  <tr>
+    <th>URL de la grabación</th>
+    <td colspan="3">
+      <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a962_upc_edu_pe/EZVhRjmp0C1LjUlnAY4VuE8BSu_SAgb3-G9JhWxTcv6S1w?e=eoMYPJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+        Ver grabación
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <th>Timing</th>
+    <td colspan="3">
+        00:00 - 4:46
+    </td>
+  </tr>
+</table>
+
 **Segmento objetivo de clientes**
 
 <table border="1">
