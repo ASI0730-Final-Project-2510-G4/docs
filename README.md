@@ -1762,6 +1762,80 @@ El inicio de sesión en FreelanceHub está diseñado para ofrecer una experienci
 
 En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida.
 
+**Segmento objetivo usuario**
+Es la página principal para el usuario.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe1.jpg" alt="" width=""><br>
+
+En esta parte se podrá elegir a un diseñador de una espicífioca área.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe3.jpg" alt="" width=""><br>
+
+En esta parte el usuario ve los proyectos mas relevantes de los diseñadores.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe4.jpg" alt="" width=""><br>
+
+En esta parte el usuario ha seleccionado un proyecto y ve las reseñas del mismo.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe5.jpg" alt="" width=""><br>
+
+En esta parte el usuario ve el perfil del diseñador.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe6.jpg" alt="" width=""><br>
+
+En esta parte el usuario ve los proyectos del diseñador seleccionado.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe7.jpg" alt="" width=""><br>
+
+**Segmento objetivo diseñador**
+Es la página principal para el diseñador
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe2.jpg" alt="" width=""><br>
+
+En esta parte el diseñador ve su perfil.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe8.jpg" alt="" width=""><br>
+
+En esta parte el diseñador edita su perfil como parte de su portafolio.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe9.jpg" alt="" width=""><br>
+
+En esta parte el diseñador ve sus reseñas y comentarios.
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\wireframe10.jpg" alt="" width=""><br>
+
+#### 4.4.2. Web Applications Diagrams
+
+**User goal:** Como usuario deseo manterner una comunicación directa para consultar o acordar sus precios o citas.
+
+**Segmento Cliente:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama1.jpg" alt="" width=""><br>
+
+**Segmento Diseñador:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama2.jpg" alt="" width=""><br>
+
+**User goal:** Como usuario, deseo poder realizar operaciones relacionadas con la gestión de mi cuenta, incluyendo el registro, inicio de sesión y configuración de perfil.
+
+**Segmento Cliente:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama4.jpg" alt="" width=""><br>
+
+**Segmento Diseñador:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama5.jpg" alt="" width=""><br>
+
+**User goal:** Como usuario, deseo poder reservar y pagar las citas con otros usuarios para poder optar por sus
+
+**Segmento Cliente:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama6.jpg" alt="" width=""><br>
+
+**Segmento Diseñador:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama7.jpg" alt="" width=""><br>
+
+**User goal:** Como usuario deseo poder realizar operaciones relacionadas con la gestión de portafolio
+
+**Segmento Cliente:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama.jpg" alt="" width=""><br>
+
+**Segmento Diseñador:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama-1.jpg" alt="" width=""><br>
+
+**User goal:** Como usuario, deseo poder gestionar calificaciones
+
+**Segmento Cliente:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama8.jpg" alt="" width=""><br>
+
+**Segmento Diseñador:**
+<img src="C:\Users\javie\OneDrive\Documentos\docs\assets\tb1images\diagrama9.jpg" alt="" width=""><br>
+
 
 ## 4.6. Domain-Driven Software Architecture.
 
