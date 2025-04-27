@@ -1304,8 +1304,7 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
   </tbody>
 </table>
 
-# Capítulo IV: Product Design
-
+## Capítulo IV: Product Design
 
 ### 4.1. Style Guidelines.
 
@@ -1315,7 +1314,7 @@ En este capítulo se mostrará el desarrollo de las interfaces y procesos relaci
 
 **Colors:**
 
-Para los colores de la aplicación “FRELANCEHUB” utilizamos una corta variedad de colores vivos, enfocado en los caminos que brinda nuestro logo. Hubo variaciones en PC, ya que se decidió darle espacio a la interfaz y a la simplicidad de está. Además, utilizamos colores importantes para llamar la atención del usuario. Esto se debe a que el mayor público se encuentra en estos dispositivos y se necesita de mayor visibilidad de la app.
+Para los colores de la aplicación “CreatiLink” utilizamos una corta variedad de colores vivos, enfocado en los caminos que brinda nuestro logo. Hubo variaciones en PC, ya que se decidió darle espacio a la interfaz y a la simplicidad de está. Además, utilizamos colores importantes para llamar la atención del usuario. Esto se debe a que el mayor público se encuentra en estos dispositivos y se necesita de mayor visibilidad de la app.
 
 ![alt text](assets/tb1images/paleta.png)
 
@@ -1389,11 +1388,11 @@ Se utilizarán animaciones suaves al hacer scroll, mostrando secciones con imág
 
 
 ### 4.2. Information Architecture
-- La arquitectura de la información de FreelanceHun busca ofrecer una experiencia fluida e intuitiva para dos tipos de usuarios: personas naturales y empresas. La organización y etiquetado de contenidos se diseñó para guiar al usuario de forma eficiente desde el registro hasta el aprovechamiento de todas las funcionalidades de la plataforma. Esto se logra a través de una combinación de jerarquías visuales claras, secuencias lógicas y categorizaciones adaptadas a cada audiencia.
+- La arquitectura de la información de CreatiLink busca ofrecer una experiencia fluida e intuitiva para dos tipos de usuarios: personas naturales y empresas. La organización y etiquetado de contenidos se diseñó para guiar al usuario de forma eficiente desde el registro hasta el aprovechamiento de todas las funcionalidades de la plataforma. Esto se logra a través de una combinación de jerarquías visuales claras, secuencias lógicas y categorizaciones adaptadas a cada audiencia.
 
 #### 4.2.1. Organization Systems
 
-Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, se presenta la estructura visual diseñada para adaptarse a nuestros dos segmentos objetivos: **diseñadores gráficos freelance** y **clientes**.
+Tenemos como objetivo proporcionar una experiencia de usuario coherente y eficiente tanto en nuestra página web como en nuestra aplicación móvil. A continuación, se presenta la estructura visual diseñada para adaptarse a nuestros dos segmentos objetivos: **diseñadores freelance** y **clientes**.
 
 Aunque ambos segmentos tienen acceso a las mismas secciones, la diferencia clave radica en los permisos. Mientras que el freelancer puede gestionar y editar su perfil, portfolios, mensajes y pagos, el cliente puede navegar, contactar diseñadores, calificar y realizar pagos por los servicios contratados.
 
@@ -1413,7 +1412,7 @@ Al ingresar a la plataforma, el cliente accede a su panel principal donde puede 
 
 - **Gestión de Usuarios**: Puede actualizar sus datos personales, cambiar su contraseña o configurar sus preferencias de comunicación.
 
-### Diseñador Gráfico  
+### Diseñador Freelance  
 El diseñador accede a su dashboard personalizado, donde puede visualizar los proyectos en los que está trabajando y administrar su perfil profesional. Las secciones clave incluyen:
 
 - **Gestión de Portfolios**: Puede crear y organizar su portfolio de trabajos, agregando descripciones, imágenes y etiquetas para atraer a clientes potenciales.
@@ -1443,7 +1442,7 @@ El diseñador accede a su dashboard personalizado, donde puede visualizar los pr
 
 #### 4.2.2. Labeling Systems
 
-El equipo de "FreelanceHub" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "FreelanceHub". Acontinuacion las mencionaremos y sus relaciones:
+El equipo de "CreatiLink" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "CreatiLink". Acontinuacion las mencionaremos y sus relaciones:
 
 - Gestión de Usuarios:
 La sección de Gestión de Usuarios es el punto de partida de la aplicación. Aquí, los usuarios pueden crear, visualizar y administrar su perfil, incluyendo su información personal, roles y preferencias dentro de la plataforma.
@@ -1462,79 +1461,79 @@ La sección de Mensajería permite a los usuarios comunicarse de manera eficient
 
 #### 4.2.3. SEO Tags and Meta Tags
 
-Para mejorar la visibilidad de **FreelanceHub** en los motores de búsqueda y atraer a los usuarios adecuados, se ha optado por definir los siguientes datos:
+Para mejorar la visibilidad de **CreatiLink** en los motores de búsqueda y atraer a los usuarios adecuados, se ha optado por definir los siguientes datos:
 
 **Landing Page**
 
 **Title:**  
-FreelanceHub - Plataforma de Freelance para Diseñadores Gráficos  
+CreatiLink - Plataforma de Freelance para Diseñadores Freelance 
 **Meta Description:**  
-FreelanceHub es una plataforma integral para diseñadores gráficos. Mejora tu productividad, visibilidad y gestión de proyectos con herramientas avanzadas para la gestión de portfolios, pagos y calificaciones.  
+CreatiLink es una plataforma integral para diseñadores. Mejora tu productividad, visibilidad y gestión de proyectos con herramientas avanzadas para la gestión de portfolios, pagos y calificaciones.  
 **Keywords:**  
-freelance, diseñadores gráficos, plataforma para diseñadores, gestión de proyectos, pagos para diseñadores, portfolios de diseño, calificaciones de servicios, plataforma de contacto  
+freelance, diseñadores, plataforma para diseñadores, gestión de proyectos, pagos para diseñadores, portfolios de diseño, calificaciones de servicios, plataforma de contacto  
 **Author:**  
-FreelanceHub Team
+CreatiLink Team
 
 **Gestión de Usuarios**
 
 **Title:**  
-Gestión de Usuarios en FreelanceHub  
+Gestión de Usuarios en CreatiLink  
 **Meta Description:**  
-Administra tu perfil de usuario en FreelanceHub. Configura tus preferencias, actualiza tu información personal y personaliza tu experiencia en la plataforma.  
+Administra tu perfil de usuario en CreatiLink. Configura tus preferencias, actualiza tu información personal y personaliza tu experiencia en la plataforma.  
 **Keywords:**  
 gestión de usuarios, perfil de usuario, configuración de cuenta, preferencias de usuario, plataforma para diseñadores  
 **Author:**  
-FreelanceHub Team
+CreatiLink Team
 
 **Gestión de Pagos**
 
 **Title:**  
 Gestión de Pagos y Transacciones  
 **Meta Description:**  
-Gestiona tus pagos y transacciones de manera segura en FreelanceHub. Visualiza el historial de pagos y realiza cobros de manera rápida y confiable.  
+Gestiona tus pagos y transacciones de manera segura en CreatiLink. Visualiza el historial de pagos y realiza cobros de manera rápida y confiable.  
 **Keywords:**  
 gestión de pagos, pagos seguros, transacciones freelance, cobros para diseñadores  
 **Author:**  
-FreelanceHub Team
+CreatiLink Team
 
 **Gestión de Calificaciones**
 
 **Title:**  
 Gestión de Calificaciones y Opiniones  
 **Meta Description:**  
-Califica y recibe feedback sobre tus proyectos en FreelanceHub. Mantén un historial de calificaciones para mejorar la calidad de tus servicios.  
+Califica y recibe feedback sobre tus proyectos en CreatiLink. Mantén un historial de calificaciones para mejorar la calidad de tus servicios.  
 **Keywords:**  
 calificaciones, feedback de diseñadores, calificación de servicios, opiniones de clientes  
 **Author:**  
-FreelanceHub Team
+CreatiLink Team
 
 **Gestión de Portfolios**
 
 **Title:**  
 Gestión de Portfolios de Diseño  
 **Meta Description:**  
-Crea, actualiza y muestra tu portfolio de diseño gráfico en FreelanceHub. Atrae a nuevos clientes con una presentación visual de tu trabajo.  
+Crea, actualiza y muestra tu portfolio de diseño gráfico en CreatiLink. Atrae a nuevos clientes con una presentación visual de tu trabajo.  
 **Keywords:**  
 portfolios de diseño, gestión de portfolios, diseño gráfico, trabajos anteriores, portfolio freelance  
 **Author:**  
-FreelanceHub Team
+CreatiLink Team
 
 **Gestión de Mensajería o Contacto**
 
 **Title:**  
 Gestión de Mensajería y Contacto  
 **Meta Description:**  
-Mantén una comunicación fluida con tus clientes y colegas a través del sistema de mensajería de FreelanceHub. Envia y recibe mensajes en tiempo real.  
+Mantén una comunicación fluida con tus clientes y colegas a través del sistema de mensajería de CreatiLink. Envia y recibe mensajes en tiempo real.  
 **Keywords:**  
 mensajería, contacto con clientes, sistema de mensajería, comunicación freelance  
 **Author:**  
-FreelanceHub Team
+CreatiLink Team
 
 
 
 #### 4.2.4. Searching Systems
 **Búsqueda en Portfolios**  
-El sistema de búsqueda en la sección de Gestión de Portfolios permite a los usuarios encontrar rápidamente los portfolios de diseñadores gráficos dentro de FreelanceHub. Esta funcionalidad optimiza la experiencia de los clientes que buscan talentos específicos para sus proyectos o desean explorar diferentes estilos de diseño.
+El sistema de búsqueda en la sección de Gestión de Portfolios permite a los usuarios encontrar rápidamente los portfolios de diseñadores dentro de CreatiLink. Esta funcionalidad optimiza la experiencia de los clientes que buscan talentos específicos para sus proyectos o desean explorar diferentes estilos de diseño.
 
 **Objetivo:** Facilitar la localización de portfolios de diseñadores específicos dentro de la plataforma.  
 
@@ -1546,7 +1545,7 @@ El sistema de búsqueda en la sección de Gestión de Portfolios permite a los u
 
 #### 4.2.5. Navigation Systems
 
-Este formato está diseñado para  **FreelanceHub**, reflejando cómo los distintos roles (freelancers y clientes) interactúan con las diversas secciones de la app según sus permisos y responsabilidades.
+Este formato está diseñado para  **CreatiLink**, reflejando cómo los distintos roles (freelancers y clientes) interactúan con las diversas secciones de la app según sus permisos y responsabilidades.
 
 **Página Principal (Proyectos)**
 
@@ -1555,7 +1554,7 @@ Muestra todos los proyectos en los que el usuario está involucrado.
 Botones de acción para crear, editar o gestionar los proyectos existentes.  
 
 **Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede gestionar sus proyectos, crear nuevos y editar los existentes.  
+- **Freelancer (Diseñador):** Puede gestionar sus proyectos, crear nuevos y editar los existentes.  
 - **Cliente:** Solo puede visualizar los proyectos en los que participa.
 
 ---
@@ -1563,12 +1562,12 @@ Botones de acción para crear, editar o gestionar los proyectos existentes.
 **Sección de Portfolios**
 
 **Estructura:**  
-Visualización de portfolios creados por los diseñadores gráficos en la plataforma.  
+Visualización de portfolios creados por los diseñadores en la plataforma.  
 Submenú para acceder a la vista de portfolios destacados o filtrados.  
 
 **Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede gestionar su propio portfolio, agregar nuevos trabajos y modificar los existentes.  
-- **Cliente:** Solo puede visualizar los portfolios y contactar a los diseñadores según sus intereses.
+- **Freelancer (Diseñador):** Puede gestionar su propio portfolio, agregar nuevos trabajos y modificar los existentes.  
+- **Cliente:** Solo puede visualizar los portafolios y contactar a los diseñadores según sus intereses.
 
 ---
 
@@ -1579,7 +1578,7 @@ Visualización de las transacciones y pagos realizados, tanto entrantes como sal
 Opciones para gestionar métodos de pago y ver el historial de pagos.  
 
 **Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede ver su historial de pagos, realizar cobros y gestionar su información de pago.  
+- **Freelancer (Diseñador):** Puede ver su historial de pagos, realizar cobros y gestionar su información de pago.  
 - **Cliente:** Puede ver el historial de pagos realizados y gestionar métodos de pago, pero no tiene acceso a la información del freelancer.
 
 ---
@@ -1591,7 +1590,7 @@ Visualización de las calificaciones que ha recibido el diseñador gráfico y de
 Opciones para dar feedback sobre los servicios recibidos.  
 
 **Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede ver las calificaciones recibidas y responder a los comentarios.  
+- **Freelancer (Diseñador):** Puede ver las calificaciones recibidas y responder a los comentarios.  
 - **Cliente:** Puede calificar los trabajos del freelancer y dejar comentarios sobre su experiencia.
 
 ---
@@ -1603,14 +1602,14 @@ Sistema de mensajería para mantener la comunicación entre el freelancer y el c
 Permite enviar y recibir mensajes en tiempo real.  
 
 **Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede enviar y recibir mensajes relacionados con sus proyectos.  
+- **Freelancer (Diseñador):** Puede enviar y recibir mensajes relacionados con sus proyectos.  
 - **Cliente:** Puede enviar y recibir mensajes con el freelancer en relación a los proyectos.
 
 ---
 
 **Sistema de Navegación Condicional por Roles**
 
-- **Freelancer (Diseñador gráfico):** Tiene acceso completo a todas las opciones de navegación y puede gestionar sus portfolios, pagos, calificaciones y mensajes.  
+- **Freelancer (Diseñador):** Tiene acceso completo a todas las opciones de navegación y puede gestionar sus portfolios, pagos, calificaciones y mensajes.  
 - **Cliente:** Solo puede visualizar la información disponible en las secciones correspondientes, sin opciones de edición o gestión, como ver portfolios, calificaciones y contactar a diseñadores.
 
 
@@ -1636,37 +1635,37 @@ La landing page cuenta con diferentes secciones:
 - Footer: Enlaces a las redes sociales de la plataforma.
 - Preguntas Frecuentes: Se muestra las preguntas frecuentes que suelen hacernos al momento de utilizar nuestra aplicación web
 
-![alt text](assets/tb1images/wire1.png)
+![alt text](assets/tb1images/WireFrame1Landing.png)
 
-Apartado de registro en FreelanceHub
-El proceso de registro en FreelanceHub permite a los usuarios crear una cuenta para acceder a todas las funcionalidades de la plataforma. Freelancers y clientes pueden registrarse proporcionando su información básica, como nombre, correo electrónico y contraseña, para comenzar a gestionar proyectos, portfolios y comunicaciones de manera segura.
+Apartado de registro en CreatiLink
+El proceso de registro en CreatiLink permite a los usuarios crear una cuenta para acceder a todas las funcionalidades de la plataforma. Freelancers y clientes pueden registrarse proporcionando su información básica, como nombre, correo electrónico y contraseña, para comenzar a gestionar proyectos, portfolios y comunicaciones de manera segura.
 
-![alt text](assets/tb1images/wire2.png)
+![alt text](assets/tb1images/createAccountDesktop1.png)
 
-Apartado de Inicio de Sesión en FreelanceHub
-El inicio de sesión en FreelanceHub permite a los usuarios acceder a sus cuentas con su correo electrónico y contraseña previamente registrados. Esto les da acceso a sus proyectos, portfolios, mensajes y todo lo relacionado con su actividad en la plataforma, asegurando que solo los usuarios autenticados puedan realizar acciones en sus cuentas.
+Apartado de Inicio de Sesión en CreatiLink
+El inicio de sesión en CreatiLink permite a los usuarios acceder a sus cuentas con su correo electrónico y contraseña previamente registrados. Esto les da acceso a sus proyectos, portfolios, mensajes y todo lo relacionado con su actividad en la plataforma, asegurando que solo los usuarios autenticados puedan realizar acciones en sus cuentas.
 
-![alt text](assets/tb1images/wire3.png)
+![alt text](assets/tb1images/LoginDesktop1.png)
 
 ##### Mobile Web Browser:
 
-En la versión móvil de FreelanceHub, se implementa un hamburger menu que permite a los usuarios acceder fácilmente a la navegación de la plataforma. Este menú desplegable ofrece enlaces rápidos a las secciones clave de la app, proporcionando una experiencia de usuario optimizada y accesible desde dispositivos móviles, asegurando que los usuarios puedan moverse por la plataforma de manera fluida y eficiente.
+En la versión móvil de CreatiLink, se implementa un hamburger menu que permite a los usuarios acceder fácilmente a la navegación de la plataforma. Este menú desplegable ofrece enlaces rápidos a las secciones clave de la app, proporcionando una experiencia de usuario optimizada y accesible desde dispositivos móviles, asegurando que los usuarios puedan moverse por la plataforma de manera fluida y eficiente.
 
-![alt text](assets/tb1images/wire4.png)
+![alt text](assets/tb1images/MenuMovile.png)
 
 Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, preguntas frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla; permitiendo así acceso óptimo a la información.
 
-![alt text](assets/tb1images/wire5.png)
+![alt text](assets/tb1images/WireframeMovile.png)
 
 ##### Formulario de Registro Adaptado a Móvil
-El formulario de registro de FreelanceHub está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
+El formulario de registro de CreatiLink está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
 
-![alt text](assets/tb1images/wire6.png)
+![alt text](assets/tb1images/registroMovile.png)
 
 ##### Inicio de Sesión Adaptado a Móvil
-El inicio de sesión en FreelanceHub está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
+El inicio de sesión en CreatiLink está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
 
-![alt text](assets/tb1images/wire7.png)
+![alt text](assets/tb1images/LoginMovile.png)
 
 
 
@@ -1687,15 +1686,15 @@ La landing page cuenta con diferentes secciones:
 - Preguntas Frecuentes: Se muestra las preguntas mas recurrentes de la aplicación lo cual le da a saber al usuario algunas respuestas de lo que es nuestra aplicación y lo facil de usar.
 - Footer: Enlaces a las redes sociales de la plataforma.
 
-![alt text](assets/tb1images/wirel1.png)
+![alt text](assets/tb1images/MockupCreati.png)
 
 Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
 
-![alt text](assets/tb1images/wirel2.png)
+![alt text](assets/tb1images/MockupRegistro.png)
 
 Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
 
-![alt text](assets/tb1images/wirel3.png)
+![alt text](assets/tb1images/LoginMockup.png)
 
 ##### Mobile Web Browser:
 
@@ -1703,22 +1702,22 @@ Apartado de inicio de sesión, en donde el usuario ingresa el correo y contrase�
 
 Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se encuentran los links de navegación. 
 
-![alt text](assets/tb1images/wirel4.png)
+![alt text](assets/tb1images/MenuMovileMockup.png)
 
 Se cuenta con las mismas secciones que para desktop web browser (Hero o header, Descripción general, Beneficios, Nosotros, Preguntas Frecuentes), las cuales tienen la misma finalidad, pero en este caso se adaptan a la pantalla, permitiendo así un acceso óptimo a la información.
 
-![alt text](assets/tb1images/wirel5.png)
+![alt text](assets/tb1images/Mockup-Movile.png)
 
 
 ##### Formulario de Registro Adaptado a Móvil
-El formulario de registro de FreelanceHub está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
+El formulario de registro de CreatiLink está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
 
-![alt text](assets/tb1images/wirel6.png)
+![alt text](assets/tb1images/Registro-Movile-M.png)
 
 ##### Inicio de Sesión Adaptado a Móvil
-El inicio de sesión en FreelanceHub está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
+El inicio de sesión en CreatiLink está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
 
-![alt text](assets/tb1images/wirel7.png)
+![alt text](assets/tb1images/LoginMovileM.png)
 
 
 
@@ -1727,6 +1726,140 @@ El inicio de sesión en FreelanceHub está diseñado para ofrecer una experienci
 #### 4.4.1. Web Applications Wireframes
 
 En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida.
+
+#### 4.4.2. Web Applications Mock-ups
+Los mockups son representaciones visuales o maquetas estáticas de un diseño, que muestran cómo se verá un producto final, como una aplicación, un sitio web o un objeto físico. Son útiles para presentar ideas, realizar ajustes y obtener comentarios antes de pasar a fases más avanzadas del desarrollo.
+
+
+![alt text](assets/tb1images/Inicio-designer.png)
+_Nota: Pagina de inicio del usuario_
+
+
+
+![alt text](assets/tb1images/Inicio user.jpg)
+_Nota: Pagina de inicio del diseñador_
+
+
+
+![alt text](assets/tb1images/buscarDiseñadores.png)
+_Nota: Pestaña para buscar diseñadores del usuario_
+
+
+
+![alt text](assets/tb1images/Categoriaescogida.png)
+_Nota: Pestaña para escoger la categoria del diseñador por parte del usuario_
+
+
+
+![alt text](assets/tb1images/configuration.png)
+_Nota: Pestaña de configuracion para el usuario y el diseñador_
+
+
+
+![alt text](assets/tb1images/contrato-cerrado.png)
+_Nota: Pestaña de contrato cerrado para el diseñador y usuario_
+
+
+
+![alt text](assets/tb1images/contrato-designer.png)
+_Nota: Pestaña que ve el diseñador para aceptar o rechazar un contrato_
+
+
+
+![alt text](assets/tb1images/contrato-terminado.png)
+_Nota: Pestaña que ve el diseñador al momento de mandar un trabajo_
+
+
+
+![alt text](assets/tb1images/contratoUser.png)
+_Nota: Pestaña que ve el usuario para crear un contrato_
+
+
+
+![alt text](assets/tb1images/edit-perfil-user.png)
+_Nota: Pestaña que permite al usuario editar su perfil_
+
+
+
+![alt text](assets/tb1images/editarPost.png)
+_Nota: Pestaña para el diseñador que permite editar un post de su portafolio_
+
+
+
+![alt text](assets/tb1images/msj-calificacion.png)
+_Nota:Pestaña que ve el usuario para crear una reseña_
+
+
+
+![alt text](assets/tb1images/perfil-designer.png)
+_Nota: Pestaña que muestra el perfil del diseñador_
+
+
+
+![alt text](assets/tb1images/perfil-user.png)
+_Nota: Pestaña que muestra el perfil del usuario_
+
+
+
+![alt text](assets/tb1images/post.png)
+_Nota:Imagen que muestra la publicacion de un trabajo del diseñado_
+
+
+
+#### 4.4.3. Web Applications User flow Diagrams
+
+**User goal: Como usuario, deseo poder realizar operaciones relacionadas con la gestión de mi cuenta, incluyendo el registro, inicio de sesión y configuración de perfil.**
+
+**_Segmento: Cliente:_**
+
+![alt text](./assets/tb1images/Diagrama%20gestionUsuario-user.jpg)
+
+
+
+**_Segmento: Diseñador:_**
+![alt text](assets/tb1images/Diagrama%20gestionUsuario-designer.jpg)
+
+
+
+**User goal: Como usuario deseo manterner una comunicación directa para consultar o acordar sus precios o citas.**
+**_Segmento: Cliente:_**
+![alt text](assets/tb1images/Diagrama%20Mensajes-usuario.png)
+
+
+**_Segmento: Diseñador:_**
+![alt text](assets/tb1images/Diagrama%20Mensajes-designer.png)
+
+
+
+**User goal: Como usuario, deseo poder reservar y pagar las citas con otros usuarios para poder optar por sus servicios.**
+**_Segmento: Cliente:_**
+![alt text](assets/tb1images/Diagrama%20Pagos-usuario.jpg)
+
+
+**_Segmento: Diseñador:_**
+![alt text](assets/tb1images/Diagrama%20Pagos-diseñador.jpg)
+
+
+
+**User goal: Como usuario deseo poder realizar operaciones relacionadas con la gestión de portafolio**
+**_Segmento: Cliente:_**
+![alt text](assets/tb1images/Diagrama%20portafolio-user.jpg)
+
+
+**_Segmento: Diseñador:_**
+![alt text](assets/tb1images/Diagrama%20portafolio-designer.jpg)
+
+
+
+**User goal: Como usuario, deseo poder gestionar calificaciones**
+**_Segmento: Cliente:_**
+![alt text](assets/tb1images/Diagrama%20calificaciones%20user.jpg)
+
+
+
+**_Segmento: Diseñador:_**
+![alt text](assets/tb1images/Diagrama%20calificaciones%20designer.jpg)
+
 
 
 ## 4.6. Domain-Driven Software Architecture.
