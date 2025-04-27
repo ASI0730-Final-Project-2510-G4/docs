@@ -30,68 +30,69 @@
 
 ## Registro de Versiones del Informe
 
-| Version | Fecha   | Autor                    | Descripcion |
-| ------- | ------- | ------------------------ | ----------- |
-| TB1     | ------- | Valentino Sandoval Paiva | ---------   |
-| TB1     | ------- | Valentino Sandoval Paiva | ---------   |
-| TB1     | ------- | Valentino Sandoval Paiva | ---------   |
+
+| Versión | Fecha    | Autor              | Descripción de la modificación                          |
+| ------- | -------- | ------------------ | ------------------------------------------------------- |
+| TB1       | 16/04/25 | Alexander Paolo Justo Yauricasa      | Creación del documento en formato Markdown              |
+| TB1       | 20/04/25 | Alexander Paolo Justo Yauricasa      | Realización del capítulo I y el capítulo IV             |
+| TB1       | 20/04/25 | Anderson Jose Gamarra Vega        | Realización del capítulo I, capítulo II y capítulo V    |
+| TB1      | 20/04/25 | Javier Oswaldo Tello Murga       | Realización del capítulo II, capítulo III y capítulo IV |
+| TB1       | 20/04/25 | Valentino Sandoval Paiva   | Realización del capítulo I y capítulo II                |
+| TB1      | 20/04/25 | Iker Matias Pejerrey Ruiz | Realización del capítulo III, capítulo IV y capítulo V  |
 
 ## Project Report Collaboration Insights
 
 | URL de la organización del proyecto | URL del repositorio del reporte |
 | :---------------------------------: | :-----------------------------: |
-|                                     |                                 |
+|               https://github.com/ASI0730-Final-Project-2510-G4                      |          https://github.com/ASI0730-Final-Project-2510-G4/docs                       |
 
 | URL del repositorio del backend | URL del repositorio del Frontend | URL del repositorio de la landing page |
 | :-----------------------------: | :------------------------------: | :------------------------------------: |
-|                                 |                                  |                                        |
+|                 https://github.com/ASI0730-Final-Project-2510-G4/backend                |               https://github.com/ASI0730-Final-Project-2510-G4/frontend                   |             https://github.com/ASI0730-Final-Project-2510-G4/LandingPage                           |
 
-**URL FRONTEND Y BACKEND DESPLEGADO**:
 
-**URL FRONTEND**:
-
-**URL BACKEND**:
+**URL LANDING PAGE DESPLEGADA**: https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
 <br>**Vista de commits: Landing page:**  
-![alt text]()
 
-![alt text]()
+![alt text](assets/CO4.jpg)
 
-![alt text]()
 
-- Valentino Sandoval Paiva:
+![alt text](assets/CO5.jpg)
 
-<br>**Issues**
+COMMITS: 
 
-![alt text]()
+- Valentino Sandoval Paiva: 2
+- Alexander Paolo Justo Yauricasa: 1 
+- Anderson Jose Gamarra Vega: 1
+- Javier Oswaldo Tello Murga: 1
+- Iker Matias Pejerrey Ruiz:  2
 
 <br>**Report:**
 
-![alt text]()
+![alt text](assets/CO.jpg)
 
-![alt text]()
+![alt text](assets/CO2.jpg)
 
-![alt text]()
+![alt text](assets/CO3.jpg)
 
-- Valentino Sandoval Paiva:
+COMMITS: 
+
+- Valentino Sandoval Paiva: 8
+- Alexander Paolo Justo Yauricasa: 12 
+- Anderson Jose Gamarra Vega: 21
+- Javier Oswaldo Tello Murga: 7
+- Iker Matias Pejerrey Ruiz:  13
+
 
 TB1:<br>
-|**Integrante**|**Tarea Asignada**|
+|Integrante|Tarea Asignada|
 |-|-|
-|Sandoval Paiva Valentino||
-|||
-| | |
-| | |
-| | |
-
-TP:<br>
-|**Integrante**|**Tarea Asignada**|
-|-|-|
-|Sandoval Paiva Valentino||
-|||
-| | |
-| | |
-| | |
+|Sandoval Paiva Valentino|Lean UX Problem Statements,Lean UX Assumptions,Diseño de entrevistas,Coompetidores,Estrategias y tácticas frente a competidores,User Stories,Product Backlog, Class Diagrams, Class Dictionary, Database Diagram, Sprint Planning 1, Sprint Backlog 1|
+|Iker Matias Pejerrey Ruiz|Descripción de la Startup, 5w y 2h, Solution Profile, Antecedentes y problemática, el regitro de una entrevista , Empathy Mapping, User Task Matrix, Style Guidelines y Software configuration Management.|
+| Alexander Paolo Justo Yauricasa | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+|Anderson Jose Gamarra Vega | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
+| Javier Oswaldo Tello Murga | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
 
 ## Contenido
 
@@ -219,10 +220,11 @@ TP:<br>
 
 Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos
 
-| Criterio especifico                                                                                      | Acciones Realizadas                                                                                                                                                         | Conclusiones                                   |
-| :------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | TB1:<br>**Valentino Sandoval Paiva**<br>**Valentino Sandoval Paiva** <br>**Valentino Sandoval Paiva** <br>**Valentino Sandoval Paiva** <br>**Javier Tello Murga** <br> En el proyecto, participé activamente con el grupo, con las tareas asignadas, también pude hacer una entrevista y así pude lograr entender realmente bien sus necesidades para poder realizar el trabajo correctamente.<br> TP: <br> **Valentino Sandoval Paiva** <br> TB2: <br> **Valentino Sandoval Paiva** <br> TF: <br> **Valentino Sandoval Paiva** <br> | **Valentino Sandoval Paiva**<br>TB1:           |
-| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | TB1:<br>**Valentino Sandoval Paiva** <br> TP: <br> **Valentino Sandoval Paiva** <br> TB2: <br> **Valentino Sandoval Paiva** <br> TF: <br> **Valentino Sandoval Paiva** <br> | <br> **Valentino Sandoval Paiva**<br> TB1:<br> |
+| Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | <br>**Alexander Paolo Justo Yauricasa**<br> En la fase de Estrategias y tácticas frente a competidores, lideré al equipo para decidir nuestras mejores opciones, además de coordinar la estructura de nuestro Diagrama de clases y Base de Datos.<br> En el desarrollo del componente de Inventory Management, trabajé en colaboración durante las reuniones del equipo para asegurar que su creación fuera correcta.<br> En el Sprint II, promoví un liderazgo compartido para facilitar la toma de decisiones y asegurar que todos los miembros colaboraran en la ejecución.<br> **Anderson Jose Gamarra Vega**<br> Durante la creación de la landing page, trabajé junto con el equipo para coordinar opciones de diseño y contenido, y decidimos cómo estructurar la página. Colaboramos en la creación de los wireframes y mockups, teniendo en cuenta las ideas de todos.<br> Fomenté un ambiente colaborativo donde cada miembro participó activamente en la planificación y ejecución, asegurando que las tareas se distribuyeran de manera justa.<br> **Valentino Sandoval Paiva**<br> Durante la fase de definición de estrategias, trabajé con el equipo utilizando herramientas como Lean UX Assumptions y Empathy Mapping para priorizar nuestras opciones. Apliqué Impact Mapping para alinear las decisiones con los objetivos del proyecto.<br> Fomenté el liderazgo colaborativo en el sprint, organizando tareas y asegurando que todos los miembros tuvieran un papel activo en el progreso.<br> **Javier Oswaldo Tello Murga**<br> Durante la fase de definición de la estructura del proyecto, trabajé en conjunto con el equipo para establecer una visión compartida. Aseguré que la comunicación fuera fluida y que cada miembro estuviera al tanto de las tareas asignadas.<br> Coordiné la integración de los diferentes módulos del proyecto, promoviendo la colaboración entre los miembros del equipo.<br> **Iker Matias Pejerrey Ruiz**<br> Lideré sesiones de lluvia de ideas con el equipo para establecer las prioridades del proyecto. Trabajé en la implementación de nuevas características del backend, colaborando estrechamente con los otros miembros para asegurar su integración efectiva.<br> Durante el desarrollo del sprint, fui responsable de asegurar que todas las tareas se completaran según los tiempos establecidos, apoyando al equipo cuando fue necesario. <br> | Para el presente TB1, cada miembro aportó de manera coordinada, demostrando un trabajo conjunto efectivo y participando activamente en la toma de decisiones.<br> La colaboración entre los miembros fue clave para completar las tareas con éxito y asegurar una distribución equitativa de responsabilidades.<br> En el TP, cada miembro colaboró activamente, demostrando liderazgo compartido y un alto nivel de cooperación.<br> En el TB2, se superaron algunos inconvenientes mediante reuniones continuas, lo que permitió que el equipo trabajara de manera eficiente, optimizando las tareas y mejorando la comunicación.<br> Para el TF, las reuniones de coordinación ayudaron a mejorar la integración entre el frontend y el backend, permitiendo un avance efectivo del proyecto. |
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Alexander Paolo Justo Yauricasa**<br> Durante la realización del diagrama de Base de Datos y el Diagrama de Clases, coordiné el trabajo con el equipo mediante reuniones grupales. Las tareas fueron organizadas eficientemente utilizando Trello.<br> **Anderson Jose Gamarra Vega**<br> Durante la creación de los wireframes y mockups, mantuve un entorno inclusivo con reuniones a través de Google Meet, donde definimos metas claras y asignamos tareas.<br> Durante el sprint, ayudé a coordinar la estructura del repositorio y la asignación de tareas, colaborando en la mejora de secciones del frontend.<br> **Valentino Sandoval Paiva**<br> Durante la fase de planificación, utilicé herramientas de gestión como Trello para asignar tareas y priorizar actividades. Aseguré que todos los miembros participaran activamente y mantuvimos una comunicación constante a través de reuniones periódicas.<br> **Javier Oswaldo Tello Murga**<br> Fomenté la colaboración continua al organizar reuniones de seguimiento del progreso del proyecto. Establecí un sistema de trabajo donde cada miembro tuviera clara su responsabilidad y el flujo de trabajo fuera eficiente.<br> **Iker Matias Pejerrey Ruiz**<br> Durante la planificación del sprint, ayudé al equipo a priorizar las tareas mediante la creación de un cronograma visual. Establecí metas alcanzables para cada miembro, fomentando un ambiente de trabajo colaborativo.<br> | En el presente TB1, la organización de las tareas y las reuniones grupales contribuyó a un avance eficiente en la planificación.<br> Durante el TP, las sesiones colaborativas permitieron una distribución eficaz de las responsabilidades, asegurando el cumplimiento de los objetivos.<br> En el TB2, la planificación de tareas y la asignación equitativa de responsabilidades mejoraron la ejecución del proyecto, asegurando que cada miembro contribuyera de manera significativa.<br> Para el TF, las reuniones y la coordinación del equipo ayudaron a integrar eficazmente las tareas y lograr un flujo de trabajo óptimo, favoreciendo el éxito del proyecto. |
+
 
 # Capítulo I: Introducción
 
@@ -2155,7 +2157,7 @@ El sprint planning es una reunion antes de cada sprint en la metodologia Scrum d
 | **Sprint Goal & User Stories**||
 | **Sprint 1 Goal**| Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
 | **Sprint 1 Velocity**| ------ |
-| **Sum of Story Points**| 19 |
+| **Sum of Story Points**| 8 |
 
 #### 5.2.1.2 Sprint Backlog 1.
 
@@ -2303,24 +2305,37 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
   Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones.
   Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
-**Landing Page**
-
-![Commits](assets/TB1-new/landingc1.jpeg)
-![Commits](assets/TB1-new/landingc2.jpeg)
 
 
-- Valentino Sandoval Paiva: 
+**URL LANDING PAGE DESPLEGADA**: https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+<br>**Vista de commits: Landing page:**  
+
+![alt text](assets/CO4.jpg)
 
 
-**Report:**
+![alt text](assets/CO5.jpg)
 
-![alt text](assets/TB1-new/commitsall2.jpeg)
+COMMITS: 
 
-![alt text](assets/TB1-new/commitall1.jpeg)
+- Valentino Sandoval Paiva: 2
+- Alexander Paolo Justo Yauricasa: 1 
+- Anderson Jose Gamarra Vega: 1
+- Javier Oswaldo Tello Murga: 1
+- Iker Matias Pejerrey Ruiz:  2
 
-![alt text](assets/TB1-image/commitsreport3.jpeg)
+<br>**Report:**
 
-![Commits](assets/TB1-image/commitsreport3.jpeg)
+![alt text](assets/CO.jpg)
 
+![alt text](assets/CO2.jpg)
 
-- Valentino Sandoval Paiva: 
+![alt text](assets/CO3.jpg)
+
+COMMITS: 
+
+- Valentino Sandoval Paiva: 8
+- Alexander Paolo Justo Yauricasa: 12 
+- Anderson Jose Gamarra Vega: 21
+- Javier Oswaldo Tello Murga: 7
+- Iker Matias Pejerrey Ruiz:  13
