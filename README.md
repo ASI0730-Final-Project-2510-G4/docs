@@ -30,43 +30,40 @@
 
 ## Registro de Versiones del Informe
 
-
-| Versión | Fecha    | Autor              | Descripción de la modificación                          |
-| ------- | -------- | ------------------ | ------------------------------------------------------- |
-| TB1       | 16/04/25 | Alexander Paolo Justo Yauricasa      | Creación del documento en formato Markdown              |
-| TB1       | 20/04/25 | Alexander Paolo Justo Yauricasa      | Realización del capítulo I y el capítulo IV             |
-| TB1       | 20/04/25 | Anderson Jose Gamarra Vega        | Realización del capítulo I, capítulo II y capítulo V    |
-| TB1      | 20/04/25 | Javier Oswaldo Tello Murga       | Realización del capítulo II, capítulo III y capítulo IV |
-| TB1       | 20/04/25 | Valentino Sandoval Paiva   | Realización del capítulo I y capítulo II                |
-| TB1      | 20/04/25 | Iker Matias Pejerrey Ruiz | Realización del capítulo III, capítulo IV y capítulo V  |
+| Versión | Fecha    | Autor                           | Descripción de la modificación                          |
+| ------- | -------- | ------------------------------- | ------------------------------------------------------- |
+| TB1     | 16/04/25 | Alexander Paolo Justo Yauricasa | Creación del documento en formato Markdown              |
+| TB1     | 20/04/25 | Alexander Paolo Justo Yauricasa | Realización del capítulo I y el capítulo IV             |
+| TB1     | 20/04/25 | Anderson Jose Gamarra Vega      | Realización del capítulo I, capítulo II y capítulo V    |
+| TB1     | 20/04/25 | Javier Oswaldo Tello Murga      | Realización del capítulo II, capítulo III y capítulo IV |
+| TB1     | 20/04/25 | Valentino Sandoval Paiva        | Realización del capítulo I y capítulo II                |
+| TB1     | 20/04/25 | Iker Matias Pejerrey Ruiz       | Realización del capítulo III, capítulo IV y capítulo V  |
 
 ## Project Report Collaboration Insights
 
-| URL de la organización del proyecto | URL del repositorio del reporte |
-| :---------------------------------: | :-----------------------------: |
-|               https://github.com/ASI0730-Final-Project-2510-G4                      |          https://github.com/ASI0730-Final-Project-2510-G4/docs                       |
+|       URL de la organización del proyecto        |            URL del repositorio del reporte            |
+| :----------------------------------------------: | :---------------------------------------------------: |
+| https://github.com/ASI0730-Final-Project-2510-G4 | https://github.com/ASI0730-Final-Project-2510-G4/docs |
 
-| URL del repositorio del backend | URL del repositorio del Frontend | URL del repositorio de la landing page |
-| :-----------------------------: | :------------------------------: | :------------------------------------: |
-|                 https://github.com/ASI0730-Final-Project-2510-G4/backend                |               https://github.com/ASI0730-Final-Project-2510-G4/frontend                   |             https://github.com/ASI0730-Final-Project-2510-G4/LandingPage                           |
-
+|             URL del repositorio del backend              |             URL del repositorio del Frontend              |            URL del repositorio de la landing page            |
+| :------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+| https://github.com/ASI0730-Final-Project-2510-G4/backend | https://github.com/ASI0730-Final-Project-2510-G4/frontend | https://github.com/ASI0730-Final-Project-2510-G4/LandingPage |
 
 **URL LANDING PAGE DESPLEGADA**: https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
-<br>**Vista de commits: Landing page:**  
+<br>**Vista de commits: Landing page:**
 
 ![alt text](assets/CO4.jpg)
 
-
 ![alt text](assets/CO5.jpg)
 
-COMMITS: 
+COMMITS:
 
 - Valentino Sandoval Paiva: 2
-- Alexander Paolo Justo Yauricasa: 1 
+- Alexander Paolo Justo Yauricasa: 1
 - Anderson Jose Gamarra Vega: 1
 - Javier Oswaldo Tello Murga: 1
-- Iker Matias Pejerrey Ruiz:  2
+- Iker Matias Pejerrey Ruiz: 2
 
 <br>**Report:**
 
@@ -76,14 +73,13 @@ COMMITS:
 
 ![alt text](assets/CO3.jpg)
 
-COMMITS: 
+COMMITS:
 
 - Valentino Sandoval Paiva: 8
-- Alexander Paolo Justo Yauricasa: 12 
+- Alexander Paolo Justo Yauricasa: 12
 - Anderson Jose Gamarra Vega: 21
 - Javier Oswaldo Tello Murga: 7
-- Iker Matias Pejerrey Ruiz:  13
-
+- Iker Matias Pejerrey Ruiz: 13
 
 TB1:<br>
 |Integrante|Tarea Asignada|
@@ -220,11 +216,10 @@ TB1:<br>
 
 Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos
 
-| Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | <br>**Alexander Paolo Justo Yauricasa**<br> En la fase de Estrategias y tácticas frente a competidores, lideré al equipo para decidir nuestras mejores opciones, además de coordinar la estructura de nuestro Diagrama de clases y Base de Datos.<br> En el desarrollo del componente de Inventory Management, trabajé en colaboración durante las reuniones del equipo para asegurar que su creación fuera correcta.<br> En el Sprint II, promoví un liderazgo compartido para facilitar la toma de decisiones y asegurar que todos los miembros colaboraran en la ejecución.<br> **Anderson Jose Gamarra Vega**<br> Durante la creación de la landing page, trabajé junto con el equipo para coordinar opciones de diseño y contenido, y decidimos cómo estructurar la página. Colaboramos en la creación de los wireframes y mockups, teniendo en cuenta las ideas de todos.<br> Fomenté un ambiente colaborativo donde cada miembro participó activamente en la planificación y ejecución, asegurando que las tareas se distribuyeran de manera justa.<br> **Valentino Sandoval Paiva**<br> Durante la fase de definición de estrategias, trabajé con el equipo utilizando herramientas como Lean UX Assumptions y Empathy Mapping para priorizar nuestras opciones. Apliqué Impact Mapping para alinear las decisiones con los objetivos del proyecto.<br> Fomenté el liderazgo colaborativo en el sprint, organizando tareas y asegurando que todos los miembros tuvieran un papel activo en el progreso.<br> **Javier Oswaldo Tello Murga**<br> Durante la fase de definición de la estructura del proyecto, trabajé en conjunto con el equipo para establecer una visión compartida. Aseguré que la comunicación fuera fluida y que cada miembro estuviera al tanto de las tareas asignadas.<br> Coordiné la integración de los diferentes módulos del proyecto, promoviendo la colaboración entre los miembros del equipo.<br> **Iker Matias Pejerrey Ruiz**<br> Lideré sesiones de lluvia de ideas con el equipo para establecer las prioridades del proyecto. Trabajé en la implementación de nuevas características del backend, colaborando estrechamente con los otros miembros para asegurar su integración efectiva.<br> Durante el desarrollo del sprint, fui responsable de asegurar que todas las tareas se completaran según los tiempos establecidos, apoyando al equipo cuando fue necesario. <br> | Para el presente TB1, cada miembro aportó de manera coordinada, demostrando un trabajo conjunto efectivo y participando activamente en la toma de decisiones.<br> La colaboración entre los miembros fue clave para completar las tareas con éxito y asegurar una distribución equitativa de responsabilidades.<br> En el TP, cada miembro colaboró activamente, demostrando liderazgo compartido y un alto nivel de cooperación.<br> En el TB2, se superaron algunos inconvenientes mediante reuniones continuas, lo que permitió que el equipo trabajara de manera eficiente, optimizando las tareas y mejorando la comunicación.<br> Para el TF, las reuniones de coordinación ayudaron a mejorar la integración entre el frontend y el backend, permitiendo un avance efectivo del proyecto. |
-| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Alexander Paolo Justo Yauricasa**<br> Durante la realización del diagrama de Base de Datos y el Diagrama de Clases, coordiné el trabajo con el equipo mediante reuniones grupales. Las tareas fueron organizadas eficientemente utilizando Trello.<br> **Anderson Jose Gamarra Vega**<br> Durante la creación de los wireframes y mockups, mantuve un entorno inclusivo con reuniones a través de Google Meet, donde definimos metas claras y asignamos tareas.<br> Durante el sprint, ayudé a coordinar la estructura del repositorio y la asignación de tareas, colaborando en la mejora de secciones del frontend.<br> **Valentino Sandoval Paiva**<br> Durante la fase de planificación, utilicé herramientas de gestión como Trello para asignar tareas y priorizar actividades. Aseguré que todos los miembros participaran activamente y mantuvimos una comunicación constante a través de reuniones periódicas.<br> **Javier Oswaldo Tello Murga**<br> Fomenté la colaboración continua al organizar reuniones de seguimiento del progreso del proyecto. Establecí un sistema de trabajo donde cada miembro tuviera clara su responsabilidad y el flujo de trabajo fuera eficiente.<br> **Iker Matias Pejerrey Ruiz**<br> Durante la planificación del sprint, ayudé al equipo a priorizar las tareas mediante la creación de un cronograma visual. Establecí metas alcanzables para cada miembro, fomentando un ambiente de trabajo colaborativo.<br> | En el presente TB1, la organización de las tareas y las reuniones grupales contribuyó a un avance eficiente en la planificación.<br> Durante el TP, las sesiones colaborativas permitieron una distribución eficaz de las responsabilidades, asegurando el cumplimiento de los objetivos.<br> En el TB2, la planificación de tareas y la asignación equitativa de responsabilidades mejoraron la ejecución del proyecto, asegurando que cada miembro contribuyera de manera significativa.<br> Para el TF, las reuniones y la coordinación del equipo ayudaron a integrar eficazmente las tareas y lograr un flujo de trabajo óptimo, favoreciendo el éxito del proyecto. |
-
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Alexander Paolo Justo Yauricasa**<br> Durante la realización del diagrama de Base de Datos y el Diagrama de Clases, coordiné el trabajo con el equipo mediante reuniones grupales. Las tareas fueron organizadas eficientemente utilizando Trello.<br> **Anderson Jose Gamarra Vega**<br> Durante la creación de los wireframes y mockups, mantuve un entorno inclusivo con reuniones a través de Google Meet, donde definimos metas claras y asignamos tareas.<br> Durante el sprint, ayudé a coordinar la estructura del repositorio y la asignación de tareas, colaborando en la mejora de secciones del frontend.<br> **Valentino Sandoval Paiva**<br> Durante la fase de planificación, utilicé herramientas de gestión como Trello para asignar tareas y priorizar actividades. Aseguré que todos los miembros participaran activamente y mantuvimos una comunicación constante a través de reuniones periódicas.<br> **Javier Oswaldo Tello Murga**<br> Fomenté la colaboración continua al organizar reuniones de seguimiento del progreso del proyecto. Establecí un sistema de trabajo donde cada miembro tuviera clara su responsabilidad y el flujo de trabajo fuera eficiente.<br> **Iker Matias Pejerrey Ruiz**<br> Durante la planificación del sprint, ayudé al equipo a priorizar las tareas mediante la creación de un cronograma visual. Establecí metas alcanzables para cada miembro, fomentando un ambiente de trabajo colaborativo.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | En el presente TB1, la organización de las tareas y las reuniones grupales contribuyó a un avance eficiente en la planificación.<br> Durante el TP, las sesiones colaborativas permitieron una distribución eficaz de las responsabilidades, asegurando el cumplimiento de los objetivos.<br> En el TB2, la planificación de tareas y la asignación equitativa de responsabilidades mejoraron la ejecución del proyecto, asegurando que cada miembro contribuyera de manera significativa.<br> Para el TF, las reuniones y la coordinación del equipo ayudaron a integrar eficazmente las tareas y lograr un flujo de trabajo óptimo, favoreciendo el éxito del proyecto.                                                                                                                        |
 
 # Capítulo I: Introducción
 
@@ -247,29 +242,27 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 - Valentino Sandoval Paiva - U20211A962
 
 | <p align="center"><img width="280" height="380" src="./assets/tb1images/valentino_profile.png"></p> | Mi nombre es Valentino Sandoval, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 4to ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
-| -------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Anderson Gamarra Vega - U202016154
 
 | <p align="center"><img width="780" height="200" src="./assets/tb1images/anderson-profile.jpg"></p> | Mi nombre es Anderson Jose Gamarra Vega, tengo 24 años , estudiante de Ingeniería de Software. Desde siempre he sentido una gran pasión por la tecnología, pero me decanto especialmente por el desarrollo de software, pues me fascina aprender nuevos lenguajes de programación, diseñar soluciones digitales y afrontar retos mediante código. Esta inclinación hacia el software fue lo que me motivó a elegir esta carrera, y actualmente estoy profundizando en áreas como backend, arquitectura de software, metodologías agile. |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Alexander Paolo Juto Yauricasa - U20191C054
 
 | <p align="center"><img width="780" height="200" src="assets/tb1images/AlexanderJusto.png"></p> | Me llamo Alexander Paolo Justo Yauricasa, tengo 24 años y soy estudiante de Ingeniería de Software. Siempre he sentido un fuerte interés por la tecnología, pero me inclino especialmente hacia el desarrollo de software, ya que me entusiasma aprender nuevos lenguajes de programación, crear soluciones digitales y resolver desafíos a través del código. Esta pasión por el software fue lo que me llevó a elegir esta profesión, y hoy me enfoco en áreas como el desarrollo de base de datos y la arquitectura de software. |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Javier Oswaldo Tello Murga - U202218387
 
 | <p align="center"><img width="780" height="200" src="assets/tb1images/javier-profile.jpg"></p> | Me llamo Javier Oswaldo Tello Murga, tengo 22 años y soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona capaz, con muchas ganas de adquirir conocimientos, sobre todo con los temas que tenga que ver con mi carrera. Tengo conocimiento en wordprees básico, html y css intermedio y C++. |
-| -----------------------------------------------------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Pejerrey Ruiz Iker Matias - U202317713
 
 | <p align="center"><img width="780" height="200" src="assets/tb1images/Iker-profile.jpg"></p> | Soy un estudiante de la carrera de Ingeniería de Software, tengo 18 años y me apasiona la música y los videojuegos. Me considero una persona responsable y creativa en ciertos aspectos, y en mi opinión considero que estas y más cualidades me ayudarán a llevar a cabo de manera satisfactoria el proyecto. |
-| -----------------------------------------------------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 1.2. Solution Profile
 
@@ -396,15 +389,15 @@ Los Lean UX Hypothesis Statements son una forma estructurada de expresar suposic
 
 El Lean UX Canvas es una herramienta visual diseñada para ayudar a equipos de diseño y desarrollo a organizar sus ideas, definir problemas y formular hipótesis de manera colaborativa. Este canvas es especialmente útil en proyectos donde la agilidad y la alineación entre los integrantes son clave para el éxito. Funciona como una guía estructurada que fomenta el pensamiento centrado en el usuario y la experimentación rápida.
 
-| Número | Título | Detalles |
-| ------ | ------ | -------- |
-| 1      | Business Problem | Muchos diseñadores, pese a contar con formación académica o técnica, no logran insertarse con éxito en el mercado laboral formal. Esto se debe a la falta de visibilidad, escasez de oportunidades, y ausencia de canales efectivos para ofrecer sus servicios directamente a clientes|
-| 2      |Solutions | - Plataforma web donde los diseñadores pueden crear perfiles, mostrar portafolios, recibir valoraciones y comunicarse directamente con los clientes. <br> - Sistema de búsqueda por categoría de diseño.<br> - Chat integrado para coordinar servicios sin intermediarios. <br> - Sistema de calificación/reseña para fomentar la confianza.|
-| 3      | Business Outcomes| -Aumentar el número de diseñadores registrados en la plataforma. <br> -Generar una red activa de contratación directa entre diseñadores y clientes. <br> -Incrementar la retención y recurrencia de uso de la app <br> -Escalar el modelo hacia futuras integraciones (como pagos, membresías, etc.)|
-| 4      | Users| -Diseñadores independientes: gráficos, industriales, UX/UI, interiores, moda, etc. <br> -Clientes que buscan contratar diseñadores específicos para proyectos personales o comerciales.|
-| 5      | User Outcomes & Benefits| -Para los diseñadores: mayor exposición, generación de ingresos y creación de una reputación basada en calificaciones. <br> -Para los clientes: contratación de diseñadores confiables, acceso a portafolios, contacto directo y experiencias personalizadas.|
-| 6      | Hypotheses| 1.Creemos que los diseñadores independientes necesitan una plataforma para exhibir su trabajo y atraer clientes. <br> 2.Creemos que los clientes necesitan una forma fácil y confiable de encontrar diseñadores de calidad sin recurrir a agencias o intermediarios. <br> 3.Creemos que una interfaz clara con perfiles visuales y reseñas fomentará la confianza y facilitará la contratación. <br> 4.Creemos que al centralizar a los diseñadores en un solo espacio, generaremos más tráfico y visibilidad para ellos. |
-| 8      | What’s the least amount of work we need to do to learn the next most important thing? | Construir un MVP básico que permita: <br> Registro de diseñadores. <br> -Creación de un perfil con portafolio. <br> -Visibilidad de perfiles por parte de clientes. <br> -Comunicación inicial vía chat o contacto directo. <br> Y validarlo con un grupo pequeño de diseñadores y clientes reales.| \   |
+| Número | Título                                                                                | Detalles                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1      | Business Problem                                                                      | Muchos diseñadores, pese a contar con formación académica o técnica, no logran insertarse con éxito en el mercado laboral formal. Esto se debe a la falta de visibilidad, escasez de oportunidades, y ausencia de canales efectivos para ofrecer sus servicios directamente a clientes                                                                                                                                                                                                                                    |
+| 2      | Solutions                                                                             | - Plataforma web donde los diseñadores pueden crear perfiles, mostrar portafolios, recibir valoraciones y comunicarse directamente con los clientes. <br> - Sistema de búsqueda por categoría de diseño.<br> - Chat integrado para coordinar servicios sin intermediarios. <br> - Sistema de calificación/reseña para fomentar la confianza.                                                                                                                                                                              |
+| 3      | Business Outcomes                                                                     | -Aumentar el número de diseñadores registrados en la plataforma. <br> -Generar una red activa de contratación directa entre diseñadores y clientes. <br> -Incrementar la retención y recurrencia de uso de la app <br> -Escalar el modelo hacia futuras integraciones (como pagos, membresías, etc.)                                                                                                                                                                                                                      |
+| 4      | Users                                                                                 | -Diseñadores independientes: gráficos, industriales, UX/UI, interiores, moda, etc. <br> -Clientes que buscan contratar diseñadores específicos para proyectos personales o comerciales.                                                                                                                                                                                                                                                                                                                                   |
+| 5      | User Outcomes & Benefits                                                              | -Para los diseñadores: mayor exposición, generación de ingresos y creación de una reputación basada en calificaciones. <br> -Para los clientes: contratación de diseñadores confiables, acceso a portafolios, contacto directo y experiencias personalizadas.                                                                                                                                                                                                                                                             |
+| 6      | Hypotheses                                                                            | 1.Creemos que los diseñadores independientes necesitan una plataforma para exhibir su trabajo y atraer clientes. <br> 2.Creemos que los clientes necesitan una forma fácil y confiable de encontrar diseñadores de calidad sin recurrir a agencias o intermediarios. <br> 3.Creemos que una interfaz clara con perfiles visuales y reseñas fomentará la confianza y facilitará la contratación. <br> 4.Creemos que al centralizar a los diseñadores en un solo espacio, generaremos más tráfico y visibilidad para ellos. |
+| 8      | What’s the least amount of work we need to do to learn the next most important thing? | Construir un MVP básico que permita: <br> Registro de diseñadores. <br> -Creación de un perfil con portafolio. <br> -Visibilidad de perfiles por parte de clientes. <br> -Comunicación inicial vía chat o contacto directo. <br> Y validarlo con un grupo pequeño de diseñadores y clientes reales.                                                                                                                                                                                                                       | \   |
 
 ## 1.3. Segmentos Objetivos:
 
@@ -791,7 +784,6 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
   </tr>
 </table>
 
-
 <table border="1">
   <tr>
     <th>Entrevista</th>
@@ -863,7 +855,6 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
     </td>
   </tr>
 </table>
-
 
 <table border="2">
   <tr>
@@ -1039,8 +1030,8 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 ## 3.2. User Stories.
 
-| Epic ID | Título de Épica                   | Descripción de la épica|
-| ------- | ---------------------------------| --- |
+| Epic ID | Título de Épica                   | Descripción de la épica                                                                                                                                                                         |
+| ------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Epic 1  | Landing Page                      | Como Como diseñador o cliente, deseo un landing page que presente información sobre el servicio y sus características principales.                                                              |
 | Epic 2  | Gestión de Usuarios               | Como Como diseñador o cliente, deseo poder realizar operaciones relacionadas con la gestión de mi cuenta, incluyendo el registro, inicio de sesión, configuración de perfil y cierre de sesión. |
 | Epic 3  | ⁠Gestión de mensajería o contacto | Como diseñador o cliente decean manterner una comunicación directa para consultar o acordar sus precios o citas.                                                                                |
@@ -1378,7 +1369,6 @@ Público: Empresas de todos los tamaños y particulares que buscan talento remot
 
 # Capítulo IV: Product Design
 
-
 ### 4.1. Style Guidelines.
 
 En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
@@ -1436,7 +1426,7 @@ La principal estética tanto de la página web como de la aplicación será mini
 **Diseño de Página:**
 
 - La página contará con una barra de navegación fija en la parte superior, la cual incluye los apartados de: Inicio, Nosotros, Servicios y Contacto. Al igual que en el sitio, se mantendrá un diseño limpio y centrado en la experiencia del usuario. Además, contará con un footer que incluye enlaces a redes sociales como Instagram y otras plataformas relevantes.
-Se utilizarán animaciones suaves al hacer scroll, mostrando secciones con imágenes, íconos y texto que explican el servicio de forma visual y atractiva. En computadoras de escritorio o laptops, será suficiente con scrollear para visualizar toda la página, manteniendo una navegación fluida y responsiva en todo momento.
+  Se utilizarán animaciones suaves al hacer scroll, mostrando secciones con imágenes, íconos y texto que explican el servicio de forma visual y atractiva. En computadoras de escritorio o laptops, será suficiente con scrollear para visualizar toda la página, manteniendo una navegación fluida y responsiva en todo momento.
 
 **Diseño Responsive:**
 
@@ -1458,9 +1448,8 @@ Se utilizarán animaciones suaves al hacer scroll, mostrando secciones con imág
 
 - Se facilitarán enlaces a recursos visuales, como imágenes de marca y gráficos, para que el equipo pueda acceder a ellos de manera sencilla. Además, se incluirán enlaces de descarga para las fuentes y archivos de diseño utilizados en el sitio web.
 
-
-
 ### 4.2. Information Architecture
+
 - La arquitectura de la información de FreelanceHun busca ofrecer una experiencia fluida e intuitiva para dos tipos de usuarios: personas naturales y empresas. La organización y etiquetado de contenidos se diseñó para guiar al usuario de forma eficiente desde el registro hasta el aprovechamiento de todas las funcionalidades de la plataforma. Esto se logra a través de una combinación de jerarquías visuales claras, secuencias lógicas y categorizaciones adaptadas a cada audiencia.
 
 #### 4.2.1. Organization Systems
@@ -1472,11 +1461,11 @@ Aunque ambos segmentos tienen acceso a las mismas secciones, la diferencia clave
 A continuación, se presenta la estructura visual y funcional de la aplicación, pensada para adaptarse a las necesidades de ambos segmentos.
 Aunque ambos usuarios pueden navegar por las mismas secciones del sistema, sus permisos y funcionalidades varían según su rol en la plataforma.
 
-### Cliente  
+### Cliente
+
 Al ingresar a la plataforma, el cliente accede a su panel principal donde puede gestionar sus solicitudes de diseño. Las secciones clave disponibles son:
 
 - **Portfolios**: Puede explorar los portfolios públicos de los diseñadores disponibles, filtrarlos por especialidad o estilo visual, y guardar sus favoritos.
-  
 - **Mensajería**: A través de este módulo, puede iniciar conversaciones directas con los diseñadores para detallar requerimientos o aclarar dudas antes de contratar.
 
 - **Pagos**: Desde esta sección, el cliente puede realizar pagos seguros por los servicios contratados, consultar el historial de transacciones y descargar comprobantes.
@@ -1485,7 +1474,8 @@ Al ingresar a la plataforma, el cliente accede a su panel principal donde puede 
 
 - **Gestión de Usuarios**: Puede actualizar sus datos personales, cambiar su contraseña o configurar sus preferencias de comunicación.
 
-### Diseñador Gráfico  
+### Diseñador Gráfico
+
 El diseñador accede a su dashboard personalizado, donde puede visualizar los proyectos en los que está trabajando y administrar su perfil profesional. Las secciones clave incluyen:
 
 - **Gestión de Portfolios**: Puede crear y organizar su portfolio de trabajos, agregando descripciones, imágenes y etiquetas para atraer a clientes potenciales.
@@ -1502,35 +1492,34 @@ El diseñador accede a su dashboard personalizado, donde puede visualizar los pr
 
 ### Diferencias Clave entre Roles
 
-| Funcionalidad              | Cliente           | Diseñador Gráfico     |
-|---------------------------|-------------------|------------------------|
-| Ver portfolios            | ✅                | ✅ (con edición propia) |
-| Enviar mensajes           | ✅                | ✅                     |
-| Realizar pagos            | ✅                | ❌ (solo visualiza)    |
-| Recibir pagos             | ❌                | ✅                     |
-| Calificar usuarios        | ✅                | ✅ (solo visualiza)    |
-| Editar perfil             | ✅                | ✅                     |
-| Gestionar portfolio       | ❌                | ✅                     |
-
+| Funcionalidad       | Cliente | Diseñador Gráfico       |
+| ------------------- | ------- | ----------------------- |
+| Ver portfolios      | ✅      | ✅ (con edición propia) |
+| Enviar mensajes     | ✅      | ✅                      |
+| Realizar pagos      | ✅      | ❌ (solo visualiza)     |
+| Recibir pagos       | ❌      | ✅                      |
+| Calificar usuarios  | ✅      | ✅ (solo visualiza)     |
+| Editar perfil       | ✅      | ✅                      |
+| Gestionar portfolio | ❌      | ✅                      |
 
 #### 4.2.2. Labeling Systems
 
 El equipo de "FreelanceHub" opto por usar etiquetas simples, claras y que están diseñadas para minimizar la confusión, garantizando una navegación intuitiva y fluida para todos los usuarios de la plataforma "FreelanceHub". Acontinuacion las mencionaremos y sus relaciones:
 
 - Gestión de Usuarios:
-La sección de Gestión de Usuarios es el punto de partida de la aplicación. Aquí, los usuarios pueden crear, visualizar y administrar su perfil, incluyendo su información personal, roles y preferencias dentro de la plataforma.
+  La sección de Gestión de Usuarios es el punto de partida de la aplicación. Aquí, los usuarios pueden crear, visualizar y administrar su perfil, incluyendo su información personal, roles y preferencias dentro de la plataforma.
 
 - Gestión de Pagos:
-La sección de Gestión de Pagos proporciona una visión general de todas las transacciones realizadas en la plataforma. Los diseñadores y clientes pueden gestionar sus pagos, ver el historial de transacciones y realizar pagos de manera segura a través de esta sección.
+  La sección de Gestión de Pagos proporciona una visión general de todas las transacciones realizadas en la plataforma. Los diseñadores y clientes pueden gestionar sus pagos, ver el historial de transacciones y realizar pagos de manera segura a través de esta sección.
 
 - Gestión de Calificaciones:
-La sección de Gestión de Calificaciones permite a los usuarios calificar los servicios prestados o recibidos, brindando un sistema de retroalimentación crucial para mantener la calidad en la plataforma. También se pueden consultar las calificaciones pasadas y modificar las opiniones si es necesario.
+  La sección de Gestión de Calificaciones permite a los usuarios calificar los servicios prestados o recibidos, brindando un sistema de retroalimentación crucial para mantener la calidad en la plataforma. También se pueden consultar las calificaciones pasadas y modificar las opiniones si es necesario.
 
 - Gestión de Portfolios:
-La sección de Gestión de Portfolios es donde los diseñadores pueden cargar y mostrar sus trabajos anteriores. Los usuarios pueden agregar, editar o eliminar elementos en su portfolio, ofreciendo una representación visual de su habilidad y creatividad.
+  La sección de Gestión de Portfolios es donde los diseñadores pueden cargar y mostrar sus trabajos anteriores. Los usuarios pueden agregar, editar o eliminar elementos en su portfolio, ofreciendo una representación visual de su habilidad y creatividad.
 
 - Gestión de Mensajería o Contacto:
-La sección de Mensajería permite a los usuarios comunicarse de manera eficiente con otros miembros de la plataforma. Los diseñadores pueden recibir mensajes, gestionar solicitudes de contacto y mantener una conversación fluida con clientes y otros diseñadores.
+  La sección de Mensajería permite a los usuarios comunicarse de manera eficiente con otros miembros de la plataforma. Los diseñadores pueden recibir mensajes, gestionar solicitudes de contacto y mantener una conversación fluida con clientes y otros diseñadores.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -1602,32 +1591,32 @@ mensajería, contacto con clientes, sistema de mensajería, comunicación freela
 **Author:**  
 FreelanceHub Team
 
-
-
 #### 4.2.4. Searching Systems
+
 **Búsqueda en Portfolios**  
 El sistema de búsqueda en la sección de Gestión de Portfolios permite a los usuarios encontrar rápidamente los portfolios de diseñadores gráficos dentro de FreelanceHub. Esta funcionalidad optimiza la experiencia de los clientes que buscan talentos específicos para sus proyectos o desean explorar diferentes estilos de diseño.
 
-**Objetivo:** Facilitar la localización de portfolios de diseñadores específicos dentro de la plataforma.  
+**Objetivo:** Facilitar la localización de portfolios de diseñadores específicos dentro de la plataforma.
 
-**Ubicación:** En la sección de **Gestión de Portfolios**.  
+**Ubicación:** En la sección de **Gestión de Portfolios**.
 
-**Funcionalidad:** Permite buscar por nombre de diseñador, categoría de diseño, o palabras clave en las descripciones del portfolio.  
+**Funcionalidad:** Permite buscar por nombre de diseñador, categoría de diseño, o palabras clave en las descripciones del portfolio.
 
 **Vista de Resultados:** Muestra los portfolios que coinciden con los parámetros de búsqueda, incluyendo una vista previa del diseño y detalles básicos de cada uno.
 
 #### 4.2.5. Navigation Systems
 
-Este formato está diseñado para  **FreelanceHub**, reflejando cómo los distintos roles (freelancers y clientes) interactúan con las diversas secciones de la app según sus permisos y responsabilidades.
+Este formato está diseñado para **FreelanceHub**, reflejando cómo los distintos roles (freelancers y clientes) interactúan con las diversas secciones de la app según sus permisos y responsabilidades.
 
 **Página Principal (Proyectos)**
 
 **Estructura:**  
 Muestra todos los proyectos en los que el usuario está involucrado.  
-Botones de acción para crear, editar o gestionar los proyectos existentes.  
+Botones de acción para crear, editar o gestionar los proyectos existentes.
 
-**Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede gestionar sus proyectos, crear nuevos y editar los existentes.  
+**Acción del Usuario:**
+
+- **Freelancer (Diseñador gráfico):** Puede gestionar sus proyectos, crear nuevos y editar los existentes.
 - **Cliente:** Solo puede visualizar los proyectos en los que participa.
 
 ---
@@ -1636,10 +1625,11 @@ Botones de acción para crear, editar o gestionar los proyectos existentes.
 
 **Estructura:**  
 Visualización de portfolios creados por los diseñadores gráficos en la plataforma.  
-Submenú para acceder a la vista de portfolios destacados o filtrados.  
+Submenú para acceder a la vista de portfolios destacados o filtrados.
 
-**Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede gestionar su propio portfolio, agregar nuevos trabajos y modificar los existentes.  
+**Acción del Usuario:**
+
+- **Freelancer (Diseñador gráfico):** Puede gestionar su propio portfolio, agregar nuevos trabajos y modificar los existentes.
 - **Cliente:** Solo puede visualizar los portfolios y contactar a los diseñadores según sus intereses.
 
 ---
@@ -1648,10 +1638,11 @@ Submenú para acceder a la vista de portfolios destacados o filtrados.
 
 **Estructura:**  
 Visualización de las transacciones y pagos realizados, tanto entrantes como salientes.  
-Opciones para gestionar métodos de pago y ver el historial de pagos.  
+Opciones para gestionar métodos de pago y ver el historial de pagos.
 
-**Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede ver su historial de pagos, realizar cobros y gestionar su información de pago.  
+**Acción del Usuario:**
+
+- **Freelancer (Diseñador gráfico):** Puede ver su historial de pagos, realizar cobros y gestionar su información de pago.
 - **Cliente:** Puede ver el historial de pagos realizados y gestionar métodos de pago, pero no tiene acceso a la información del freelancer.
 
 ---
@@ -1660,10 +1651,11 @@ Opciones para gestionar métodos de pago y ver el historial de pagos.
 
 **Estructura:**  
 Visualización de las calificaciones que ha recibido el diseñador gráfico y de los comentarios de los clientes.  
-Opciones para dar feedback sobre los servicios recibidos.  
+Opciones para dar feedback sobre los servicios recibidos.
 
-**Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede ver las calificaciones recibidas y responder a los comentarios.  
+**Acción del Usuario:**
+
+- **Freelancer (Diseñador gráfico):** Puede ver las calificaciones recibidas y responder a los comentarios.
 - **Cliente:** Puede calificar los trabajos del freelancer y dejar comentarios sobre su experiencia.
 
 ---
@@ -1672,19 +1664,19 @@ Opciones para dar feedback sobre los servicios recibidos.
 
 **Estructura:**  
 Sistema de mensajería para mantener la comunicación entre el freelancer y el cliente.  
-Permite enviar y recibir mensajes en tiempo real.  
+Permite enviar y recibir mensajes en tiempo real.
 
-**Acción del Usuario:**  
-- **Freelancer (Diseñador gráfico):** Puede enviar y recibir mensajes relacionados con sus proyectos.  
+**Acción del Usuario:**
+
+- **Freelancer (Diseñador gráfico):** Puede enviar y recibir mensajes relacionados con sus proyectos.
 - **Cliente:** Puede enviar y recibir mensajes con el freelancer en relación a los proyectos.
 
 ---
 
 **Sistema de Navegación Condicional por Roles**
 
-- **Freelancer (Diseñador gráfico):** Tiene acceso completo a todas las opciones de navegación y puede gestionar sus portfolios, pagos, calificaciones y mensajes.  
+- **Freelancer (Diseñador gráfico):** Tiene acceso completo a todas las opciones de navegación y puede gestionar sus portfolios, pagos, calificaciones y mensajes.
 - **Cliente:** Solo puede visualizar la información disponible en las secciones correspondientes, sin opciones de edición o gestión, como ver portfolios, calificaciones y contactar a diseñadores.
-
 
 ### 4.3. Landing Page UI Design
 
@@ -1731,16 +1723,16 @@ Se cuenta con las mismas secciones que para desktop web browser (Hero o header, 
 ![alt text](assets/tb1images/wire5.png)
 
 ##### Formulario de Registro Adaptado a Móvil
+
 El formulario de registro de FreelanceHub está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
 
 ![alt text](assets/tb1images/wire6.png)
 
 ##### Inicio de Sesión Adaptado a Móvil
+
 El inicio de sesión en FreelanceHub está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
 
 ![alt text](assets/tb1images/wire7.png)
-
-
 
 #### 4.3.2. Landing Page Mock-up
 
@@ -1761,11 +1753,11 @@ La landing page cuenta con diferentes secciones:
 
 ![alt text](assets/tb1images/wirel1.png)
 
-Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.  
+Apartado de registro, en donde el usuario deberá ingresar los datos necesarios de la manera que vea conveniente.
 
 ![alt text](assets/tb1images/wirel2.png)
 
-Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.  
+Apartado de inicio de sesión, en donde el usuario ingresa el correo y contraseña asociados a la cuenta.
 
 ![alt text](assets/tb1images/wirel3.png)
 
@@ -1773,7 +1765,7 @@ Apartado de inicio de sesión, en donde el usuario ingresa el correo y contrase�
 
 <p align="center">
 
-Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se encuentran los links de navegación. 
+Se cuenta con un hamburger menu, el cual puede ser desplegado por el usuario y en donde se encuentran los links de navegación.
 
 ![alt text](assets/tb1images/wirel4.png)
 
@@ -1781,25 +1773,23 @@ Se cuenta con las mismas secciones que para desktop web browser (Hero o header, 
 
 ![alt text](assets/tb1images/wirel5.png)
 
-
 ##### Formulario de Registro Adaptado a Móvil
+
 El formulario de registro de FreelanceHub está completamente optimizado para dispositivos móviles, adaptándose de manera responsiva a diferentes tamaños de pantalla. Los usuarios pueden completar su registro de forma sencilla y rápida, sin importar el dispositivo que estén utilizando, asegurando una experiencia de usuario fluida y cómoda en teléfonos y tabletas.
 
 ![alt text](assets/tb1images/wirel6.png)
 
 ##### Inicio de Sesión Adaptado a Móvil
+
 El inicio de sesión en FreelanceHub está diseñado para ofrecer una experiencia optimizada en dispositivos móviles. El formulario se ajusta de manera responsiva a diferentes tamaños de pantalla, permitiendo a los usuarios acceder rápidamente a sus cuentas desde teléfonos y tabletas, con un proceso de inicio de sesión ágil y fácil de usar.
 
 ![alt text](assets/tb1images/wirel7.png)
-
-
 
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
 
 En esta parte se explorará el diseño de la experiencia que tendrán los usuarios al interactuar con la aplicación web. Tanto la ubicación de elementos, como las fuentes y colores, están pensados para ofrecer al usuario una experiencia visualmente atractia y fluida.
-
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -1926,8 +1916,6 @@ Dentro del contenedor API Backend definimos un Diagrama de Componentes para cada
 ### 4.8.1. Database Diagram.
 
 ![Database Diagram](./assets/tb1images/DatabaseDiagram.png)
-
-
 
 ## Capítulo V: Product Implementation, Validation & Deploymentt
 
@@ -2090,7 +2078,10 @@ En el _Source Code Style Guide_, presentaremos las convenciones, estilos, diseñ
 
   ```typescript
   class User {
-    constructor(public name: string, public age: number) {}
+    constructor(
+      public name: string,
+      public age: number,
+    ) {}
   }
   ```
 
@@ -2131,9 +2122,6 @@ Dentro del menú de ajustes, elegimos la opción "Pages".
 En la sección de GitHub Pages, escogemos la rama principal (main) en el menú desplegable de la sección "Branch" y guardamos la configuración presionando el botón "Save".
 Después de unos momentos, recibiremos el enlace a nuestro sitio web publicado en GitHub Pages.
 
-
-
-
 ### 5.2 Landing Page, Services & Applications Implementation.
 
 El desarrollo, testeo y despliegue de nuestra landing page es importante para que nuestros clientes puedan acceder a la información sobre nuestra empresa y producto a través de una interfaz con diseño responsivo, navegación intuitiva y solo con información relevante. Esta primera etapa nos permite crear un diseño conceptual sobre la estética que nuestra aplicación completa y lista para su uso. Estas etapas nos ayudaran a dar una primera impresión a los clientes para validar ideas e identificar problemas que se deben solucionar.
@@ -2146,18 +2134,18 @@ El primer sprint es una etapa importante en nuestro marco de gestión de proyect
 
 El sprint planning es una reunion antes de cada sprint en la metodologia Scrum donde el equipo elige las user stories que va a transformar en un producto tangible. Tambien define que como se van a separar los trabajos y quien sera responsable. Nuestro objetivo sera construir un plan resolubre en un tiempo determinado que sera lo que dure el sprint, para crearlo fomentaremos la colaboracion para que todos sepan y entiendas los objetivos y prioridades.
 
-| Sprint #| Sprint 1|
-| -- | -- |
-| **Sprint Planning Background**||
-| **Date**| 17/04/2025|
-| **Time**| 18:00 PM|
-| **Location**| Discord (Reunión virtual)|
-| **Prepared By**|Valentino Sandoval Paiva|
-| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Alexander Paolo Justo Yauricasa, Anderson Jose Gamarra Vega, Javier Oswaldo Tello Murga |
-| **Sprint Goal & User Stories**||
-| **Sprint 1 Goal**| Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
-| **Sprint 1 Velocity**| ------ |
-| **Sum of Story Points**| 8 |
+| Sprint #                            | Sprint 1                                                                                                                                                                                                                                                                                   |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sprint Planning Background**      |                                                                                                                                                                                                                                                                                            |
+| **Date**                            | 17/04/2025                                                                                                                                                                                                                                                                                 |
+| **Time**                            | 18:00 PM                                                                                                                                                                                                                                                                                   |
+| **Location**                        | Discord (Reunión virtual)                                                                                                                                                                                                                                                                  |
+| **Prepared By**                     | Valentino Sandoval Paiva                                                                                                                                                                                                                                                                   |
+| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Alexander Paolo Justo Yauricasa, Anderson Jose Gamarra Vega, Javier Oswaldo Tello Murga                                                                                                                                                                          |
+| **Sprint Goal & User Stories**      |                                                                                                                                                                                                                                                                                            |
+| **Sprint 1 Goal**                   | Nuestro enfoque está en finalizar el informe y desplegar nuestra Landing Page desde el repositorio de GitHub. Creemos que esto entrega una experiencia de usuario optimizada a nuestros clientes. Esto se confirmará cuando todas las tareas se muevan a la columna "Terminado" en Trello. |
+| **Sprint 1 Velocity**               | ------                                                                                                                                                                                                                                                                                     |
+| **Sum of Story Points**             | 8                                                                                                                                                                                                                                                                                          |
 
 #### 5.2.1.2 Sprint Backlog 1.
 
@@ -2167,41 +2155,40 @@ Para el primer sprint backlog, recopilamos historias de usuario relacionadas con
 Link Trello: https://trello.com/b/DchlumuQ/asi0730-final-project-2510-g4
 
 # Sprint #1
-| **User Story ID** | **Title (User Story)**                         | **Work-Item / Task ID** | **Title (Work-Item/Task)**                   | **Description**                                                                 | **Estimation (Hours)** | **Assigned To**                        | **Status** |
-|-------------------|-----------------------------------------------|-------------------------|----------------------------------------------|---------------------------------------------------------------------------------|------------------------|----------------------------------------|------------|
-| **US01**          | Vista General de Beneficios y Funcionalidades | **TA001**               | Implementación de Sección de Beneficios      | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma. | 3 horas               | Anderson Jose Gamarra Vega             | To-Do     |
-|                   |                                               | **TA002**               | Ajuste de diseño en CSS                      | Mejorar la presentación visual de la sección con estilos personalizados y diseño responsivo. | 2 horas               | Valentino Sandoval Paiva               | To-Do     |
-|                   |                                               | **TA003**               | Optimización de JavaScript para interactividad | Añadir efectos básicos como hover o transiciones animadas a los elementos. | 2 horas               | Javier Oswaldo Tello Murga             | To-Do     |
-|                   |                                               | **TA004**               | Prueba de compatibilidad con navegadores     | Verificar que la sección de beneficios funcione correctamente en navegadores modernos. | 1 hora                | Iker Matias Pejerrey Ruiz              | To-Do     |
-|                   |                                               | **TA005**               | Subir los archivos al repositorio            | Cargar HTML, CSS, y JS relacionados con la sección de beneficios al repositorio y realizar pruebas. | 1.5 horas             | Alexander Paolo Justo Yauricasa        | To-Do     |
-| **US10**          | Registro de Cuentas                           | **TA001**               | Crear formulario de registro                 | Crear el formulario de registro para usuarios nuevos.                          | 2 horas               | Valentino Sandoval Paiva               | To-Do     |
-|                   |                                               | **TA002**               | Validación de datos de registro              | Implementar validaciones de campo (email, contraseña).                         | 2 horas               | Alexander Paolo Justo Yauricasa        | To-Do     |
-|                   |                                               | **TA003**               | Implementar recuperación de contraseñas       | Añadir funcionalidad de recuperación de contraseña por email.                   | 2 horas               | Anderson Jose Gamarra Vega             | To-Do     |
-|                   |                                               | **TA004**               | Añadir notificaciones de éxito/error en registro | Implementar mensajes de confirmación y error tras registro.                      | 1.5 horas             | Iker Matias Pejerrey Ruiz              | To-Do     |
-|                   |                                               | **TA005**               | Subir formulario de registro a producción    | Subir y probar la funcionalidad en el entorno de producción.                    | 1 hora                | Javier Oswaldo Tello Murga             | To-Do     |
-| **US11**          | Inicio de Sesión                              | **TA006**               | Crear formulario de inicio de sesión         | Crear el formulario de login con campos de usuario y contraseña.               | 1.5 horas             | Anderson Jose Gamarra Vega             | To-Do     |
-|                   |                                               | **TA007**               | Implementar validaciones de sesión           | Agregar validaciones de login (usuario o contraseña incorrectos).              | 1.5 horas             | Iker Matias Pejerrey Ruiz              | To-Do     |
-|                   |                                               | **TA008**               | Implementar redirección post-login           | Redirigir al usuario al dashboard después de un inicio de sesión exitoso.      | 1 hora                | Valentino Sandoval Paiva               | To-Do     |
-|                   |                                               | **TA009**               | Añadir funcionalidad de "Recordarme"         | Implementar opción para recordar la sesión del usuario.                        | 2 horas               | Javier Oswaldo Tello Murga             | To-Do     |
-|                   |                                               | **TA010**               | Pruebas de login                            | Probar el formulario y la funcionalidad del inicio de sesión.                  | 1 hora                | Alexander Paolo Justo Yauricasa        | To-Do     |
-| **US13**          | Cierre de Sesión                              | **TA011**               | Crear funcionalidad de logout                | Implementar funcionalidad para que los usuarios cierren sesión correctamente.  | 1 hora                | Iker Matias Pejerrey Ruiz              | To-Do     |
-|                   |                                               | **TA012**               | Redirección post-logout                      | Asegurarse de que al cerrar sesión, el usuario sea redirigido a la pantalla de login. | 0.5 horas             | Alexander Paolo Justo Yauricasa        | To-Do     |
-|                   |                                               | **TA013**               | Validación de sesión activa antes de logout  | Verificar que la sesión esté activa antes de permitir el logout.               | 1 hora                | Javier Oswaldo Tello Murga             | To-Do     |
-|                   |                                               | **TA014**               | Agregar mensaje de confirmación de logout    | Mostrar un mensaje de confirmación cuando el usuario cierra sesión.            | 0.5 horas             | Valentino Sandoval Paiva               | To-Do     |
-|                   |                                               | **TA015**               | Pruebas de logout                           | Realizar pruebas completas para asegurar el correcto funcionamiento del cierre de sesión. | 1 hora                | Anderson Jose Gamarra Vega             | To-Do     |
-| **US07**          | Formulario de Contacto                        | **TA016**               | Crear formulario de contacto                 | Crear el formulario de contacto en la página de landing.                       | 1.5 horas             | Alexander Paolo Justo Yauricasa        | To-Do     |
-|                   |                                               | **TA017**               | Validación de campos en el formulario        | Implementar validaciones para asegurarse que los campos estén correctamente llenados. | 1 hora                | Iker Matias Pejerrey Ruiz              | To-Do     |
-|                   |                                               | **TA018**               | Implementar funcionalidad de envío de formulario | Añadir funcionalidad para enviar el formulario al equipo de soporte.            | 2 horas               | Anderson Jose Gamarra Vega             | To-Do     |
-|                   |                                               | **TA019**               | Agregar mensaje de confirmación              | Mostrar mensaje de confirmación cuando el usuario envía el formulario correctamente. | 1 hora                | Valentino Sandoval Paiva               | To-Do     |
-|                   |                                               | **TA020**               | Probar funcionalidad del formulario          | Realizar pruebas para asegurar que el formulario de contacto funcione correctamente. | 1 hora                | Javier Oswaldo Tello Murga             | To-Do     |
 
+| **User Story ID** | **Title (User Story)**                        | **Work-Item / Task ID** | **Title (Work-Item/Task)**                       | **Description**                                                                                       | **Estimation (Hours)** | **Assigned To**                 | **Status** |
+| ----------------- | --------------------------------------------- | ----------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------- | ---------- |
+| **US01**          | Vista General de Beneficios y Funcionalidades | **TA001**               | Implementación de Sección de Beneficios          | Crear y diseñar la sección de la página principal que destaque los beneficios clave de la plataforma. | 3 horas                | Anderson Jose Gamarra Vega      | To-Do      |
+|                   |                                               | **TA002**               | Ajuste de diseño en CSS                          | Mejorar la presentación visual de la sección con estilos personalizados y diseño responsivo.          | 2 horas                | Valentino Sandoval Paiva        | To-Do      |
+|                   |                                               | **TA003**               | Optimización de JavaScript para interactividad   | Añadir efectos básicos como hover o transiciones animadas a los elementos.                            | 2 horas                | Javier Oswaldo Tello Murga      | To-Do      |
+|                   |                                               | **TA004**               | Prueba de compatibilidad con navegadores         | Verificar que la sección de beneficios funcione correctamente en navegadores modernos.                | 1 hora                 | Iker Matias Pejerrey Ruiz       | To-Do      |
+|                   |                                               | **TA005**               | Subir los archivos al repositorio                | Cargar HTML, CSS, y JS relacionados con la sección de beneficios al repositorio y realizar pruebas.   | 1.5 horas              | Alexander Paolo Justo Yauricasa | To-Do      |
+| **US10**          | Registro de Cuentas                           | **TA001**               | Crear formulario de registro                     | Crear el formulario de registro para usuarios nuevos.                                                 | 2 horas                | Valentino Sandoval Paiva        | To-Do      |
+|                   |                                               | **TA002**               | Validación de datos de registro                  | Implementar validaciones de campo (email, contraseña).                                                | 2 horas                | Alexander Paolo Justo Yauricasa | To-Do      |
+|                   |                                               | **TA003**               | Implementar recuperación de contraseñas          | Añadir funcionalidad de recuperación de contraseña por email.                                         | 2 horas                | Anderson Jose Gamarra Vega      | To-Do      |
+|                   |                                               | **TA004**               | Añadir notificaciones de éxito/error en registro | Implementar mensajes de confirmación y error tras registro.                                           | 1.5 horas              | Iker Matias Pejerrey Ruiz       | To-Do      |
+|                   |                                               | **TA005**               | Subir formulario de registro a producción        | Subir y probar la funcionalidad en el entorno de producción.                                          | 1 hora                 | Javier Oswaldo Tello Murga      | To-Do      |
+| **US11**          | Inicio de Sesión                              | **TA006**               | Crear formulario de inicio de sesión             | Crear el formulario de login con campos de usuario y contraseña.                                      | 1.5 horas              | Anderson Jose Gamarra Vega      | To-Do      |
+|                   |                                               | **TA007**               | Implementar validaciones de sesión               | Agregar validaciones de login (usuario o contraseña incorrectos).                                     | 1.5 horas              | Iker Matias Pejerrey Ruiz       | To-Do      |
+|                   |                                               | **TA008**               | Implementar redirección post-login               | Redirigir al usuario al dashboard después de un inicio de sesión exitoso.                             | 1 hora                 | Valentino Sandoval Paiva        | To-Do      |
+|                   |                                               | **TA009**               | Añadir funcionalidad de "Recordarme"             | Implementar opción para recordar la sesión del usuario.                                               | 2 horas                | Javier Oswaldo Tello Murga      | To-Do      |
+|                   |                                               | **TA010**               | Pruebas de login                                 | Probar el formulario y la funcionalidad del inicio de sesión.                                         | 1 hora                 | Alexander Paolo Justo Yauricasa | To-Do      |
+| **US13**          | Cierre de Sesión                              | **TA011**               | Crear funcionalidad de logout                    | Implementar funcionalidad para que los usuarios cierren sesión correctamente.                         | 1 hora                 | Iker Matias Pejerrey Ruiz       | To-Do      |
+|                   |                                               | **TA012**               | Redirección post-logout                          | Asegurarse de que al cerrar sesión, el usuario sea redirigido a la pantalla de login.                 | 0.5 horas              | Alexander Paolo Justo Yauricasa | To-Do      |
+|                   |                                               | **TA013**               | Validación de sesión activa antes de logout      | Verificar que la sesión esté activa antes de permitir el logout.                                      | 1 hora                 | Javier Oswaldo Tello Murga      | To-Do      |
+|                   |                                               | **TA014**               | Agregar mensaje de confirmación de logout        | Mostrar un mensaje de confirmación cuando el usuario cierra sesión.                                   | 0.5 horas              | Valentino Sandoval Paiva        | To-Do      |
+|                   |                                               | **TA015**               | Pruebas de logout                                | Realizar pruebas completas para asegurar el correcto funcionamiento del cierre de sesión.             | 1 hora                 | Anderson Jose Gamarra Vega      | To-Do      |
+| **US07**          | Formulario de Contacto                        | **TA016**               | Crear formulario de contacto                     | Crear el formulario de contacto en la página de landing.                                              | 1.5 horas              | Alexander Paolo Justo Yauricasa | To-Do      |
+|                   |                                               | **TA017**               | Validación de campos en el formulario            | Implementar validaciones para asegurarse que los campos estén correctamente llenados.                 | 1 hora                 | Iker Matias Pejerrey Ruiz       | To-Do      |
+|                   |                                               | **TA018**               | Implementar funcionalidad de envío de formulario | Añadir funcionalidad para enviar el formulario al equipo de soporte.                                  | 2 horas                | Anderson Jose Gamarra Vega      | To-Do      |
+|                   |                                               | **TA019**               | Agregar mensaje de confirmación                  | Mostrar mensaje de confirmación cuando el usuario envía el formulario correctamente.                  | 1 hora                 | Valentino Sandoval Paiva        | To-Do      |
+|                   |                                               | **TA020**               | Probar funcionalidad del formulario              | Realizar pruebas para asegurar que el formulario de contacto funcione correctamente.                  | 1 hora                 | Javier Oswaldo Tello Murga      | To-Do      |
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
-
 | Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
 | ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
-| Landing-page | main   | 0b0887a6738319e793654bf080e88feef6db5243                                  | Initial commit                                                              | Created the README file.                                                                                 | 16/04/2025              |
+| Landing-page | main   | 0b0887a6738319e793654bf080e88feef6db5243 | Initial commit                                                              | Created the README file.                                                                                 | 16/04/2025              |
 | Landing-page | main   | 3cd1ffc                                  | Feat: added navbar and header                                               | Feat: added navbar and header                                                                            | 16/04/2025              |
 | Landing-page | main   | 2fb452a                                  | feat: added descripcion general and beneficios sections                     | feat: added descripcion general and beneficios sections                                                  | 16/04/2025              |
 | Landing-page | main   | 7fe0bdd                                  | Feat: Add nosotros                                                          | Feat: Add nosotros                                                                                       | 16/04/2025              |
@@ -2214,20 +2201,19 @@ Link Trello: https://trello.com/b/DchlumuQ/asi0730-final-project-2510-g4
 | Landing-page | main   | a6dde725b27df498b1d2a3e182e6ec2ac55541d4 | feat: Agregación de estilos para un sección                                 | Se implementa estilos al landing page                                                                    | 17/04/2025              |
 | Landing-page | main   | 220f08f437e7a7d9904371c4a59b488f39b8455c | feat: Añadir Preguntas frecuentes, actualización de imagenes y contactanos  | Se añade una seccion de preguntas y respuestas, la actualización de imagenes y la sección de contactanos | 17/04/2025              |
 
-
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review.
 
-| Repository                                                            | Branch             | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)     |
-| --------------------------------------------------------------------- | ------------------ | ---------------------------------------- | ------------------------ | ------------------------------------------- | ----------------------- |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing                        | feature/tb1-Alexander  | 4823259                                  | Initial commit           | Created the README file.                    | 21/04/2025              |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing                        | feature/tb1-Alexander  | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 21/04/2025               |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Valentino  | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 21/04/2025               |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Valentino  | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 21/04/2025               |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Anderson   | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 21/04/2025               |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Anderson   | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 21/04/2025               |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing                         | feature/tb1-Javier   | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 21/04/2025               |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Javier  | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes | 21/04/2025               |
-| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Iker | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US08 gherkin | Se añade la sección de Contactanos          | 21/04/2025              |
+| Repository                                               | Branch                | Commit Id                                | Commit Message           | Commit Message Body                         | Committed on (Date)      |
+| -------------------------------------------------------- | --------------------- | ---------------------------------------- | ------------------------ | ------------------------------------------- | ------------------------ |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Alexander | 4823259                                  | Initial commit           | Created the README file.                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Alexander | a58791b                                  | feat: added US43 gherkin | feat: added US43 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Valentino | 29d0d8e                                  | feat: added US44 gherkin | feat: added US44 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Valentino | 9c68a0f                                  | feat: added US45 gherkin | feat: added US45 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Anderson  | 92ff505                                  | feat: added US46 gherkin | feat: added US46 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Anderson  | 6d40835                                  | feat: added US47 gherkin | feat: added US47 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Javier    | ab19556                                  | feat: added US48 gherkin | feat: added US48 gherkin                    | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Javier    | 0813c9549f96710be687e9a3c1f1d8913b3d3c57 | feat: added US07 gherkin | Se añade la sección de Preguntas Frecuentes | 21/04/2025               |
+| https://github.com/ASI0730-Final-Project-2510-G4/Testing | feature/tb1-Iker      | 451cf0957cd87a511014c1b35adc4b82a80ef9f4 | feat: added US08 gherkin | Se añade la sección de Contactanos          | 21/04/2025               |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
@@ -2305,24 +2291,21 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
   Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones.
   Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
 
-
-
 **URL LANDING PAGE DESPLEGADA**: https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
-<br>**Vista de commits: Landing page:**  
+<br>**Vista de commits: Landing page:**
 
 ![alt text](assets/CO4.jpg)
 
-
 ![alt text](assets/CO5.jpg)
 
-COMMITS: 
+COMMITS:
 
 - Valentino Sandoval Paiva: 2
-- Alexander Paolo Justo Yauricasa: 1 
+- Alexander Paolo Justo Yauricasa: 1
 - Anderson Jose Gamarra Vega: 1
 - Javier Oswaldo Tello Murga: 1
-- Iker Matias Pejerrey Ruiz:  2
+- Iker Matias Pejerrey Ruiz: 2
 
 <br>**Report:**
 
@@ -2332,10 +2315,21 @@ COMMITS:
 
 ![alt text](assets/CO3.jpg)
 
-COMMITS: 
+COMMITS:
 
 - Valentino Sandoval Paiva: 8
-- Alexander Paolo Justo Yauricasa: 12 
+- Alexander Paolo Justo Yauricasa: 12
 - Anderson Jose Gamarra Vega: 21
 - Javier Oswaldo Tello Murga: 7
-- Iker Matias Pejerrey Ruiz:  13
+- Iker Matias Pejerrey Ruiz: 13
+
+# Conclusiones
+
+A lo largo del desarrollo de CreatiLink aplicamos los principios de Domain-Driven Design para organizar la plataforma en cinco contextos acotados —Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería— lo que nos permitió modelar cada área de negocio de manera independiente y con un lenguaje común para todo el equipo. Para comunicar esta estructura utilizamos el Modelo C4, desplegando primero un Diagrama de Contexto que sitúa a CreatiLink en relación con sus usuarios (Cliente y Diseñador) y los sistemas externos de pagos, notificaciones y portfolios; luego un Diagrama de Contenedores que muestra la descomposición en Landing Page y SPA en Vue.js, API en ASP .NET Core y base de datos PostgreSQL; y finalmente un Diagrama de Componentes que detalla, dentro del backend, los módulos Controller – Service – Repository de cada contexto.
+
+# Anexos
+
+- **Link Figma:** https://www.figma.com/design/GFWpz5Az7LqwCFOvAw8PQY/Untitled?node-id=1-963&t=A6Pvz688DuxJAsL7-1
+- **Link Landing Page:** https://asi0730-final-project-2510-g4.github.io/LandingPage/
+- **Link Repositorio Docs Github:** https://github.com/ASI0730-Final-Project-2510-G4/docs
+- **Link Organizacion Github:** https://github.com/ASI0730-Final-Project-2510-G4
