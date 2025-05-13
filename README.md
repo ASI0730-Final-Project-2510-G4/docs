@@ -2529,6 +2529,113 @@ COMMITS:
 - Javier Oswaldo Tello Murga: 7
 - Iker Matias Pejerrey Ruiz: 13
 
+
+
+### 5.2.2 . Sprint 2
+
+Durante el Sprint 2, nos enfocamos en el desarrollo de la primera versión funcional de la aplicación web del proyecto CreatiLink utilizando Angular. Esta versión inicial incluyó las funcionalidades principales, como el registro de usuarios, autenticación y un panel de control básico. Además, la landing page fue mejorada a fondo, con un diseño más atractivo, animaciones interactivas y una experiencia de usuario más fluida y responsiva en todos los dispositivos. También implementamos la funcionalidad de internacionalización (i18n), permitiendo que la aplicación soporte múltiples idiomas. Este sprint fue clave para establecer una base sólida de la app, con un código limpio y preparado para futuras expansiones.
+
+#### 5.2.2.1 Sprint Planning 2.
+
+En este Sprint 2, durante la reunión de planificación, el equipo seleccionará las historias de usuario que se transformarán en resultados concretos. Se definirá la distribución de tareas y asignaremos responsabilidades a cada miembro. El objetivo será crear un plan realista que podamos completar dentro del tiempo establecido. Fomentaremos la colaboración y aseguraremos que todos comprendan los objetivos y prioridades del sprint.
+
+| Sprint #| Sprint 2|
+| -- | -- |
+| **Sprint Planning Background**||
+| **Date**| 10/05/2025|
+| **Time**| 18:00 PM|
+| **Location**| Discord (Reunión virtual)|
+| **Prepared By**|Valentino Sandoval Paiva|
+| **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Alexander Paolo Justo Yauricasa, Anderson Jose Gamarra Vega, Javier Oswaldo Tello Murga |
+| **Sprint Goal & User Stories**||
+| **Sprint 1 Goal**| El objetivo principal de este sprint es avanzar en la creación de la primera versión funcional de la aplicación web, estableciendo las bases de los distintos contextos de la aplicación. Esto incluirá la estructura básica de cada módulo o bounded context, la integración inicial de los componentes de la interfaz, y la mejora significativa de la landing page, garantizando una experiencia de usuario fluida y responsiva. También se implementará la funcionalidad de internacionalización (i18n) para permitir que la aplicación soporte múltiples idiomas. El sprint se considerará completado cuando todas las tareas relacionadas con estos avances estén marcadas como "Terminado". |
+| **Sprint 1 Velocity**| ------ |
+| **Sum of Story Points**|  |
+
+
+
+#### 5.2.2.2 Sprint Backlog 2.
+Para el segundo sprint backlog, recopilamos historias de usuario relacionadas a la aplicación web. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una aplicación web mas concreta y completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
+
+Link Trello: https://trello.com/b/DchlumuQ/asi0730-final-project-2510-g4
+
+| **User Story** | **Work-Item / Task**                                        | **ID**    | **Title**                                                  | **Description**                                                                                                                                           | **Estimation (Hours)** | **Assigned To**             | **Status** |
+| -------------- | ----------------------------------------------------------- | --------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------- | ---------- |
+| **US25**       | **Visualizar mis proyectos en el portfolio**                | **TA001** | Implementación de la sección de lista de proyectos         | Crear la sección en el portfolio para mostrar la lista de proyectos del usuario con sus títulos, imágenes, descripciones y estado (publicado o borrador). | 3 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA002** | Diseño de la interfaz para la visualización de proyectos   | Mejorar el diseño y la disposición de los proyectos en la interfaz para que sea visualmente atractiva y fácil de navegar.                                 | 2 horas                | \[Valentino Sandoval Paiva]     | To-do      |
+|                |                                                             | **TA003** | Integración de la base de datos para cargar proyectos      | Implementar la lógica de backend para cargar los proyectos del usuario desde la base de datos.                                                            | 4 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA004** | Validación de la lista de proyectos                        | Asegurarse de que la lista de proyectos muestre correctamente todos los proyectos almacenados en el sistema y su estado actualizado.                      | 2 horas                | \[Valentino Sandoval Paiva] | To-do      |
+| **US26**       | **Agregar un nuevo proyecto a mi portfolio**                | **TA005** | Implementación del formulario de creación de proyectos     | Crear un formulario de usuario para agregar un nuevo proyecto al portfolio. Incluir campos como título, descripción, imágenes y tecnologías.              | 4 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA006** | Validación del formulario de proyectos                     | Implementar validaciones para los campos requeridos del formulario y mostrar mensajes de error si es necesario.                                           | 2 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA007** | Estilos del formulario de creación                         | Aplicar estilos CSS al formulario para que sea visualmente atractivo y responsivo.                                                                        | 2 horas                | \[Valentino Sandoval Paiva]     | To-do      |
+| **US27**       | **Editar uno de mis proyectos**                             | **TA008** | Implementación de la funcionalidad de edición de proyectos | Crear la funcionalidad que permita a los usuarios editar un proyecto previamente registrado en su portfolio.                                              | 3 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA009** | Diseño de la interfaz de edición                           | Diseñar la interfaz de usuario para editar los proyectos con un formulario similar al de creación.                                                        | 2 horas                | \[Valentino Sandoval Paiva]     | To-do      |
+| **US28**       | **Eliminar un proyecto**                                    | **TA010** | Implementación de eliminación de proyectos                 | Crear la funcionalidad que permita al usuario eliminar un proyecto de su portfolio con confirmación.                                                      | 2 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA011** | Confirmación de eliminación                                | Implementar una ventana de confirmación para la eliminación de proyectos.                                                                                 | 1 hora                 | \[Valentino Sandoval Paiva] | To-do      |
+| **US29**       | **Visualizar los detalles de uno de mis proyectos**         | **TA012** | Implementación de vista detallada de proyectos             | Crear una vista detallada de cada proyecto que muestre información extendida, imágenes y tecnologías utilizadas.                                          | 3 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA013** | Diseño de la vista detallada                               | Aplicar diseño CSS a la vista detallada para que sea clara y fácil de navegar.                                                                            | 2 horas                | \[Valentino Sandoval Paiva]     | To-do      |
+| **US30**       | **Cambiar el estado de un proyecto (publicado o borrador)** | **TA014** | Implementación de cambio de estado de proyecto             | Crear la funcionalidad que permita cambiar el estado de un proyecto entre "Publicado" y "Borrador".                                                       | 3 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA015** | Estilo del botón de cambio de estado                       | Aplicar estilo al botón para cambiar el estado del proyecto y garantizar que se vea adecuado en todas las pantallas.                                      | 1 hora                 | \[Valentino Sandoval Paiva]     | To-do      |
+| **US31**       | **Agregar tecnologías utilizadas en un proyecto**           | **TA016** | Implementación del campo de tecnologías                    | Crear un campo de selección o texto donde el usuario pueda agregar las tecnologías utilizadas en su proyecto.                                             | 2 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA017** | Visualización de tecnologías en la tarjeta del proyecto    | Mostrar las tecnologías como etiquetas en la vista de cada proyecto en el portfolio.                                                                      | 2 horas                | \[Valentino Sandoval Paiva] | To-do      |
+| **US32**       | **Ordenar mis proyectos por fecha o nombre**                | **TA018** | Implementación de filtros para ordenar proyectos           | Crear las opciones de filtrado para ordenar los proyectos por nombre o fecha de creación.                                                                 | 3 horas                | \[Valentino Sandoval Paiva] | To-do      |
+|                |                                                             | **TA019** | Estilos de la barra de filtros                             | Aplicar estilos a la barra de filtros para que sea intuitiva y fácil de usar.                                                                             | 1 hora                 | \[Valentino Sandoval Paiva]     | To-do      |
+
+
+
+#### Aspect Leaders and Collaborators
+
+En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que define quién es el líder y quiénes son los colaboradores para cada aspecto del Sprint. Estos aspectos pueden incluir funcionalidades, bounded contexts, o cualquier otro elemento relevante del alcance del Sprint, con el fin de mejorar la claridad y comunicación dentro del equipo.
+
+| Team Member (Last Name, First Name)           | GitHub Username   | Estructura general de la landing page (C/L) | Diseño UI/UX de la landing page (C/L) | Programación de la landing page (C/L) | Redacción del informe técnico (C/L) | Formato y presentación del informe (C/L) | Organización del contenido del informe (C/L) | Recolección de información (C/L) | Corrección ortográfica y de estilo (C/L) | Implementación de formularios o secciones interactivas (C/L) | Validación final del proyecto (C/L) |
+| -------------------------------------------- | ----------------- | ------------------------------------------ | ----------------------------------- | ----------------------------------- | --------------------------------- | ------------------------------------ | ------------------------------------------ | ---------------------------- | ------------------------------------- | --------------------------------------------------- | -------------------------------- |
+| Valentino Sandoval Paiva                     | SoyValzzz         | C                                          | L                                   | L                                   |                                   | C                                    | L                                          | C                            |                                       |                                                     |                                  |
+| Alexander Paolo Justo Yauricasa              | AlexanderJusto    | L                                          | C                                   | C                                   |                                   | L                                    | C                                          | L                            |                                       |                                                     |                                  |
+| Anderson Jose Gamarra Vega                   | AndersonGamarraJW | L                                          | C                                   | L                                   | C                                 | L                                    | C                                          | L                            |                                       |                                                     |                                  |
+| Javier Oswaldo Tello Murga                   | JavierTello20     | L                                          | L                                   | L                                   | C                                 | C                                    | L                                          |                                  |                                       |                                                     |                                  |
+| Iker Matias Pejerrey Ruiz                    | Iker-sys          | C                                          | L                                   | L                                   | C                                 | L                                    | C                                          | L                            |                                       |                                                     |                                  |
+
+
+#### 5.2.2.3 Development Evidence for Sprint Review.
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Durante este segundo sprint, el equipo trabajó en el desarrollo de los distintos bounded contexts del dominio de CreatiLink, utilizando el framework Angular para estructurar la aplicación. Con el apoyo de los componentes de Angular Material, se implementaron funcionalidades clave que mejoraron la experiencia del usuario. Se enfocaron en crear componentes reutilizables y modulares, asegurando una interfaz moderna y responsiva. Además, se garantizó la integración correcta de cada módulo dentro de la arquitectura general de la plataforma. Este sprint fue fundamental para establecer una base sólida y escalable para el proyecto.
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del segundo sprint, se desplegó la landing page de manera completamente funcional y mejorada, cumpliendo con los user stories definidos para la misma. En cuanto a la web application, se desplegó una primera versión que incluye los bounded contexts principales del proyecto, aunque algunas secciones aún están pendientes de implementación. Estas se completarán en el próximo sprint, continuando con el desarrollo y la integración de las funcionalidades restantes.
+
+LANDING PAGE: https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+![Texto alternativo](assets/tp/lan.jpg)
+
+![Texto alternativo](assets/tp/lan2.jpg)
+
+![Texto alternativo](assets/tp/lan3.jpg)
+
+![Texto alternativo](assets/tp/lan4.jpg)
+
+![Texto alternativo](assets/tp/lan5.jpg)
+
+![Texto alternativo](assets/tp/lan6.jpg)
+
+![Texto alternativo](assets/tp/lan7.jpg)
+
+WEB APPLICATION: 
+
+**PORTFOLIO BOUNDED-CONTEXT**
+
+
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 # Conclusiones
 
 A lo largo del desarrollo de CreatiLink aplicamos los principios de Domain-Driven Design para organizar la plataforma en cinco contextos acotados —Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería— lo que nos permitió modelar cada área de negocio de manera independiente y con un lenguaje común para todo el equipo. Para comunicar esta estructura utilizamos el Modelo C4, desplegando primero un Diagrama de Contexto que sitúa a CreatiLink en relación con sus usuarios (Cliente y Diseñador) y los sistemas externos de pagos, notificaciones y portfolios; luego un Diagrama de Contenedores que muestra la descomposición en Landing Page y SPA en Vue.js, API en ASP .NET Core y base de datos PostgreSQL; y finalmente un Diagrama de Componentes que detalla, dentro del backend, los módulos Controller – Service – Repository de cada contexto.
