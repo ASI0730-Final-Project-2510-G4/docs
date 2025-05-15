@@ -2604,13 +2604,6 @@ En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que 
 
 Durante este segundo sprint, el equipo trabajó en el desarrollo de los distintos bounded contexts del dominio de CreatiLink, utilizando el framework Angular para estructurar la aplicación. Con el apoyo de los componentes de Angular Material, se implementaron funcionalidades clave que mejoraron la experiencia del usuario. Se enfocaron en crear componentes reutilizables y modulares, asegurando una interfaz moderna y responsiva. Además, se garantizó la integración correcta de cada módulo dentro de la arquitectura general de la plataforma. Este sprint fue fundamental para establecer una base sólida y escalable para el proyecto.
 
-
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-
-Para la entrega del segundo sprint, se desplegó la landing page de manera completamente funcional y mejorada, cumpliendo con los user stories definidos para la misma. En cuanto a la web application, se desplegó una primera versión que incluye los bounded contexts principales del proyecto, aunque algunas secciones aún están pendientes de implementación. Estas se completarán en el próximo sprint, continuando con el desarrollo y la integración de las funcionalidades restantes.
-
 LANDING PAGE: https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
 ![Texto alternativo](assets/tp/lan.jpg)
@@ -2627,9 +2620,17 @@ LANDING PAGE: https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
 ![Texto alternativo](assets/tp/lan7.jpg)
 
-WEB APPLICATION: 
+WEB APPLICATION:
 
 **PORTFOLIO BOUNDED-CONTEXT**
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del segundo sprint, se desplegó la landing page de manera completamente funcional y mejorada, cumpliendo con los user stories definidos para la misma. En cuanto a la web application, se desplegó una primera versión que incluye los bounded contexts principales del proyecto, aunque algunas secciones aún están pendientes de implementación. Estas se completarán en el próximo sprint, continuando con el desarrollo y la integración de las funcionalidades restantes.
+
+
 
 
 
