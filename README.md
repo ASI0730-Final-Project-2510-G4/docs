@@ -2529,6 +2529,20 @@ COMMITS:
 - Javier Oswaldo Tello Murga: 7
 - Iker Matias Pejerrey Ruiz: 13
 
+#### 5.2.2.3 Development Evidence for Sprint Review
+
+| Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| FrontEnd | main   | e472eee36a219903762f65693206ed9cfb6bf4c6 | Initial commit                                                              | Created.                                                                                 | 10/05/2025              |
+| FrontEnd | main   | b80f07bff1262ecbc74a47fad85b119b935ee698                                  | Feat: add.vue                                               | Feat: start                                                                            | 10/05/2025              |
+| FrontEnd | main   | 265da30a70634bf1aeb2a7f97a1f5dd5e580d28b                                  | feat: payment                     | feat: payment                                                    | 12/05/2025              |
+| FrontEnd | main   | ccf5c5df3f64a2d03b6f060e8f28f7b7ef942bb7                                  | Feat: Add profile                                                          | Feat: profile nosotros                                                                                       | 12/05/2025              |
+| FrontEnd | main   | ba99e3902bfc87bcc0ee441eaa9f6c009bd4b570                                  | AÑADI MI PARTE                                                              | AÑADI MI PARTE                                                                                           | 13/05/2025              |
+| FrontEnd | main   | ae8233d9de1dde0f1c5e2c838c8773b52ef24587 | feat: DASHBOARD                                                  | Se añade                                                                         | 14/05/2025              |
+| FrontEnd | main   | cf85c413e189448b28adbb101f46de4a04eac2c3 | feat: LOGIN - REGISTER                                                   | ---                                                                         | 14/05/2025              |
+| FrontEnd | main   | e1bbdc4689b877b0ae381891b7ed4d659fe4a22d | feat: portfolio                                | feat: portfolio-page                                                                    | 15/05/2025              |
+| FrontEnde | main   | e62ee46f9aecb6456b563f596be3ccd1cf1c5f2c | feat: Find Designer  | feat: Find Designer | 15/05/2025              |
+
 # Conclusiones
 
 A lo largo del desarrollo de CreatiLink aplicamos los principios de Domain-Driven Design para organizar la plataforma en cinco contextos acotados —Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería— lo que nos permitió modelar cada área de negocio de manera independiente y con un lenguaje común para todo el equipo. Para comunicar esta estructura utilizamos el Modelo C4, desplegando primero un Diagrama de Contexto que sitúa a CreatiLink en relación con sus usuarios (Cliente y Diseñador) y los sistemas externos de pagos, notificaciones y portfolios; luego un Diagrama de Contenedores que muestra la descomposición en Landing Page y SPA en Vue.js, API en ASP .NET Core y base de datos PostgreSQL; y finalmente un Diagrama de Componentes que detalla, dentro del backend, los módulos Controller – Service – Repository de cada contexto.
