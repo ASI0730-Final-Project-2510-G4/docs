@@ -22,22 +22,26 @@
 - Alexander Paolo Justo Yauricasa - u20191c054
 - Anderson Jose Gamarra Vega - u202016154
 - Javier Oswaldo Tello Murga - u202218387
-- Iker Matias Pejerrey Ruiz - u202317713
+
 
 ### Marzo, 2025
 
 ### Url del proyecto:
 
 ## Registro de Versiones del Informe
-
-| Versión | Fecha    | Autor                           | Descripción de la modificación                          |
-| ------- | -------- | ------------------------------- | ------------------------------------------------------- |
-| TB1     | 16/04/25 | Alexander Paolo Justo Yauricasa | Creación del documento en formato Markdown              |
-| TB1     | 20/04/25 | Alexander Paolo Justo Yauricasa | Realización del capítulo I y el capítulo IV             |
-| TB1     | 20/04/25 | Anderson Jose Gamarra Vega      | Realización del capítulo I, capítulo II y capítulo V    |
-| TB1     | 20/04/25 | Javier Oswaldo Tello Murga      | Realización del capítulo II, capítulo III y capítulo IV |
-| TB1     | 20/04/25 | Valentino Sandoval Paiva        | Realización del capítulo I y capítulo II                |
-| TB1     | 20/04/25 | Iker Matias Pejerrey Ruiz       | Realización del capítulo III, capítulo IV y capítulo V  |
+| Versión | Fecha    | Autor                           | Descripción de la modificación                                          |
+| ------- | -------- | ------------------------------- | ----------------------------------------------------------------------- |
+| TB1     | 16/04/25 | Alexander Paolo Justo Yauricasa | Creación del documento en formato Markdown                              |
+| TB1     | 20/04/25 | Alexander Paolo Justo Yauricasa | Realización del capítulo I y el capítulo IV                             |
+| TB1     | 20/04/25 | Anderson Jose Gamarra Vega      | Realización del capítulo I, capítulo II y capítulo V                    |
+| TB1     | 20/04/25 | Javier Oswaldo Tello Murga      | Realización del capítulo II, capítulo III y capítulo IV                 |
+| TB1     | 20/04/25 | Valentino Sandoval Paiva        | Realización del capítulo I y capítulo II                                |
+| TB1     | 20/04/25 | Iker Matias Pejerrey Ruiz       | Realización del capítulo III, capítulo IV y capítulo V                  |
+| TB2     | 13/05/25 | Alexander Paolo Justo Yauricasa | SPRINT 2, definición del Sprint Backlog y actualización del mismo       |
+| TB2     | 13/05/25 | Anderson Jose Gamarra Vega      | Implementación del Payment Bounded Context y Find Designer Bounded Context |
+| TB2     | 13/05/25 | Javier Oswaldo Tello Murga      | Desarrollo de componentes Login y Register, además del Product Backlog  |
+| TB2     | 13/05/25 | Valentino Sandoval Paiva        | Implementación del Profile Bounded Context y Portfolio Bounded Context  |
+| TB2     | 13/05/25 | Iker Matias Pejerrey Ruiz       | Desarrollo del componente visual del Dashboard, ajuste de rutas y navegación |
 
 ## Project Report Collaboration Insights
 
@@ -50,6 +54,9 @@
 | https://github.com/ASI0730-Final-Project-2510-G4/backend | https://github.com/ASI0730-Final-Project-2510-G4/frontend | https://github.com/ASI0730-Final-Project-2510-G4/LandingPage |
 
 **URL LANDING PAGE DESPLEGADA**: https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+
+**URL FRONTEND DESPLEGADO**: https://frontend-nine-ivory-81.vercel.app/
 
 <br>**Vista de commits: Landing page:**
 
@@ -89,6 +96,16 @@ TB1:<br>
 | Alexander Paolo Justo Yauricasa | Startup Profile, Descripción de la Startup, Antecedentes y problemática, Entrevistas, Registro de entrevistas, User Personas, Ubiquitous Language, Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Sprint 1, Sprint Planning 1, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
 |Anderson Jose Gamarra Vega | Segmentos objetivos, registro de entrevistas, as-is scenario mapping, to-be scenario mapping, landing page wireframes, landing page mockups, web application wireframes, web application mockups, web applications wireflow diagrams, web applications user flow diagrams, desarrollo de la landing page. |
 | Javier Oswaldo Tello Murga | Student outcome , conclusiones, Landing Page Wireframe, Landing Page Mock-up, Testing Suite Evidence for Sprint Review, landing page mockups, web application wireframes, web application mockups, wSoftware Deployment Evidence for Sprint Review |
+
+
+TB2:
+| Integrante                    | Tarea Asignada |
+|------------------------------|----------------|
+| **Sandoval Paiva Valentino** | Diseño e implementación del **Profile Bounded Context**, el cual contiene la lógica relacionada al perfil del diseñador, así como sus atributos personales, experiencia y redes sociales. También desarrolló el **Portfolio Bounded Context**, enfocándose en cómo los diseñadores registran sus proyectos gráficos, asociando tecnologías utilizadas como 'Photoshop', 'Tinta japonesa', etc. Se encargó de estructurar el modelo de datos, establecer relaciones entre entidades y validar que la información se muestre correctamente en el frontend. |
+| **Alexander Paolo Justo Yauricasa** | Coordinación del **Sprint 2**, definición del **Sprint Backlog** con tareas específicas por integrante y documentación de los avances del equipo. Estableció los criterios de aceptación de nuevas funcionalidades y organizó la estructura de carpetas para los Bounded Contexts. Participó en la validación de funcionalidades y la revisión cruzada de código para asegurar el cumplimiento de la arquitectura general del sistema. |
+| **Anderson Jose Gamarra Vega** | Implementación del **Payment Bounded Context**, encargado de manejar los métodos de pago asociados a servicios de diseño, simulando procesamiento de transacciones. Además, desarrolló el **Find Designer Bounded Context**, con lógica de búsqueda avanzada de diseñadores por tecnologías, categorías y estilos. Utilizó filtros dinámicos y estructuró endpoints RESTful. Se aseguró de integrar correctamente con los modelos existentes del sistema. |
+| **Javier Oswaldo Tello Murga** | Desarrollo de los componentes funcionales **Login y Register**, creando una interfaz animada de doble panel que permite la transición visual entre ambas secciones. Añadió validación básica de formularios e integró estilos modernos en línea con el diseño del proyecto. También colaboró en la estructuración del **Product Backlog**, detallando tareas técnicas, funcionalidades de usuario y priorización de historias para futuros sprints. |
+
 
 ## Contenido
 
@@ -220,6 +237,18 @@ Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo;
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | <br>**Alexander Paolo Justo Yauricasa**<br> En la fase de Estrategias y tácticas frente a competidores, lideré al equipo para decidir nuestras mejores opciones, además de coordinar la estructura de nuestro Diagrama de clases y Base de Datos.<br> En el desarrollo del componente de Inventory Management, trabajé en colaboración durante las reuniones del equipo para asegurar que su creación fuera correcta.<br> En el Sprint II, promoví un liderazgo compartido para facilitar la toma de decisiones y asegurar que todos los miembros colaboraran en la ejecución.<br> **Anderson Jose Gamarra Vega**<br> Durante la creación de la landing page, trabajé junto con el equipo para coordinar opciones de diseño y contenido, y decidimos cómo estructurar la página. Colaboramos en la creación de los wireframes y mockups, teniendo en cuenta las ideas de todos.<br> Fomenté un ambiente colaborativo donde cada miembro participó activamente en la planificación y ejecución, asegurando que las tareas se distribuyeran de manera justa.<br> **Valentino Sandoval Paiva**<br> Durante la fase de definición de estrategias, trabajé con el equipo utilizando herramientas como Lean UX Assumptions y Empathy Mapping para priorizar nuestras opciones. Apliqué Impact Mapping para alinear las decisiones con los objetivos del proyecto.<br> Fomenté el liderazgo colaborativo en el sprint, organizando tareas y asegurando que todos los miembros tuvieran un papel activo en el progreso.<br> **Javier Oswaldo Tello Murga**<br> Durante la fase de definición de la estructura del proyecto, trabajé en conjunto con el equipo para establecer una visión compartida. Aseguré que la comunicación fuera fluida y que cada miembro estuviera al tanto de las tareas asignadas.<br> Coordiné la integración de los diferentes módulos del proyecto, promoviendo la colaboración entre los miembros del equipo.<br> **Iker Matias Pejerrey Ruiz**<br> Lideré sesiones de lluvia de ideas con el equipo para establecer las prioridades del proyecto. Trabajé en la implementación de nuevas características del backend, colaborando estrechamente con los otros miembros para asegurar su integración efectiva.<br> Durante el desarrollo del sprint, fui responsable de asegurar que todas las tareas se completaran según los tiempos establecidos, apoyando al equipo cuando fue necesario. <br> | Para el presente TB1, cada miembro aportó de manera coordinada, demostrando un trabajo conjunto efectivo y participando activamente en la toma de decisiones.<br> La colaboración entre los miembros fue clave para completar las tareas con éxito y asegurar una distribución equitativa de responsabilidades.<br> En el TP, cada miembro colaboró activamente, demostrando liderazgo compartido y un alto nivel de cooperación.<br> En el TB2, se superaron algunos inconvenientes mediante reuniones continuas, lo que permitió que el equipo trabajara de manera eficiente, optimizando las tareas y mejorando la comunicación.<br> Para el TF, las reuniones de coordinación ayudaron a mejorar la integración entre el frontend y el backend, permitiendo un avance efectivo del proyecto. |
 | **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Alexander Paolo Justo Yauricasa**<br> Durante la realización del diagrama de Base de Datos y el Diagrama de Clases, coordiné el trabajo con el equipo mediante reuniones grupales. Las tareas fueron organizadas eficientemente utilizando Trello.<br> **Anderson Jose Gamarra Vega**<br> Durante la creación de los wireframes y mockups, mantuve un entorno inclusivo con reuniones a través de Google Meet, donde definimos metas claras y asignamos tareas.<br> Durante el sprint, ayudé a coordinar la estructura del repositorio y la asignación de tareas, colaborando en la mejora de secciones del frontend.<br> **Valentino Sandoval Paiva**<br> Durante la fase de planificación, utilicé herramientas de gestión como Trello para asignar tareas y priorizar actividades. Aseguré que todos los miembros participaran activamente y mantuvimos una comunicación constante a través de reuniones periódicas.<br> **Javier Oswaldo Tello Murga**<br> Fomenté la colaboración continua al organizar reuniones de seguimiento del progreso del proyecto. Establecí un sistema de trabajo donde cada miembro tuviera clara su responsabilidad y el flujo de trabajo fuera eficiente.<br> **Iker Matias Pejerrey Ruiz**<br> Durante la planificación del sprint, ayudé al equipo a priorizar las tareas mediante la creación de un cronograma visual. Establecí metas alcanzables para cada miembro, fomentando un ambiente de trabajo colaborativo.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | En el presente TB1, la organización de las tareas y las reuniones grupales contribuyó a un avance eficiente en la planificación.<br> Durante el TP, las sesiones colaborativas permitieron una distribución eficaz de las responsabilidades, asegurando el cumplimiento de los objetivos.<br> En el TB2, la planificación de tareas y la asignación equitativa de responsabilidades mejoraron la ejecución del proyecto, asegurando que cada miembro contribuyera de manera significativa.<br> Para el TF, las reuniones y la coordinación del equipo ayudaron a integrar eficazmente las tareas y lograr un flujo de trabajo óptimo, favoreciendo el éxito del proyecto.                                                                                                                        |
+
+
+
+Sprint 2
+
+Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos
+
+| Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **5.c.1 Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                | <br>**Alexander Paolo Justo Yauricasa**<br> A mí me tocó desarrollar la sección de pagos. Me asigné tareas como el formulario para ingresar los datos del pago, la validación de los datos, la confirmación del pago, y la visualización del historial de pagos del usuario. Implementé la lógica necesaria para que esta parte funcione correctamente e integré las vistas en el frontend. Trabajé de manera autónoma y ordenada, organizando todo en Trello y cumpliendo mis tareas según lo planeado. Considero que tomé el liderazgo de esta parte y cumplí con lo que me correspondía. **Anderson Jose Gamarra Vega**<br> Durante este sprint no pude completar las funcionalidades que me correspondían, que estaban relacionadas con comentarios y calificaciones. Reconozco que no logré avanzar con estas tareas y por eso no hay aporte concreto de mi parte en esta entrega. Estoy comprometido a mejorar mi participación en los siguientes sprints y a ponerme al día con el equipo.<br> **Valentino Sandoval Paiva**<br> Durante la fase de planificación, utilicé herramientas de gestión como Trello para asignar tareas y priorizar actividades. Aseguré que todos los miembros participaran activamente y mantuvimos una comunicación constante a través de reuniones periódicas.<br> **Javier Oswaldo Tello Murga**<br>  Fomenté la colaboración continua al organizar reuniones de seguimiento del progreso del proyecto. Establecí un sistema de trabajo donde cada miembro tuviera clara su responsabilidad y el flujo de trabajo fuera eficiente. <br> | En este Sprint Backlog 2, cada integrante asumió con éxito el liderazgo de una funcionalidad específica, completando todas las tareas asignadas con responsabilidad y puntualidad. Esta distribución clara y equitativa del trabajo permitió que avanzáramos de forma organizada y eficiente, cumpliendo con todos los objetivos planteados. El uso de Trello fue fundamental para mantener la coordinación, el seguimiento y la comunicación constante entre nosotros, lo que nos permitió estar alineados y apoyarnos mutuamente durante el desarrollo del sprint. Gracias a este trabajo en equipo y liderazgo compartido, fortalecimos nuestra capacidad para colaborar de manera autónoma y responsable, asegurando la calidad y entrega oportuna de cada funcionalidad. En resumen, este sprint evidenció un compromiso equitativo y eficiente de todo el equipo, lo cual es clave para el éxito continuo del proyecto. |
+| **5.c.2 Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | <br>**Alexander Paolo Justo Yauricasa**<br> Avancé con todas las tareas relacionadas con la sección de pagos que me asignaron. Me aseguré de establecer metas claras y planificar cada paso para cumplir con los objetivos del sprint. También trabajé en comunicación constante con el equipo para mantener un entorno colaborativo y respetuoso.<br> **Anderson Jose Gamarra Vega**<br> En este sprint avancé con todas las tareas que me fueron asignadas, planificando mis actividades y cumpliendo con los objetivos establecidos. Me enfoqué en aportar al ambiente colaborativo e inclusivo del equipo, trabajando de manera responsable y coordinada con mis compañeros.<br>**Valentino Sandoval Paiva**<br> En este sprint, avancé con todas las tareas que me asignaron para el desarrollo del portafolio de proyectos. Establecí metas claras para cada actividad y planifiqué mi trabajo para cumplir los objetivos a tiempo. Además, mantuve una comunicación constante con el equipo para asegurar un entorno colaborativo e inclusivo.<br> **Javier Oswaldo Tello Murga**<br> Yo avancé con las tareas que me correspondían en la gestión de usuarios, organizando mi tiempo y definiendo metas concretas para cumplir con cada funcionalidad. Participé activamente en la planificación y mantuve la coordinación con mis compañeros para contribuir a un buen ambiente de trabajo colaborativo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | En este Sprint 2, todos avanzamos con las tareas que nos fueron asignadas, cumpliendo con los objetivos planteados. Mantuvimos un ambiente colaborativo e inclusivo, donde cada uno planificó sus actividades y estableció metas claras para lograr los entregables a tiempo. Esto permitió que el equipo trabajara de forma coordinada y eficiente, fortaleciendo nuestro compromiso con el proyecto.                                                                                                                      |
+
 
 # Capítulo I: Introducción
 
@@ -2549,13 +2578,16 @@ En este Sprint 2, durante la reunión de planificación, el equipo seleccionará
 | **Attendees (to planning meeting)** | Valentino Sandoval Paiva, Alexander Paolo Justo Yauricasa, Anderson Jose Gamarra Vega, Javier Oswaldo Tello Murga |
 | **Sprint Goal & User Stories**||
 | **Sprint 1 Goal**| El objetivo principal de este sprint es avanzar en la creación de la primera versión funcional de la aplicación web, estableciendo las bases de los distintos contextos de la aplicación. Esto incluirá la estructura básica de cada módulo o bounded context, la integración inicial de los componentes de la interfaz, y la mejora significativa de la landing page, garantizando una experiencia de usuario fluida y responsiva. También se implementará la funcionalidad de internacionalización (i18n) para permitir que la aplicación soporte múltiples idiomas. El sprint se considerará completado cuando todas las tareas relacionadas con estos avances estén marcadas como "Terminado". |
-| **Sprint 1 Velocity**| ------ |
-| **Sum of Story Points**|  |
+| **Sprint 1 Velocity**| 19 |
+| **Sum of Story Points**| 63 |
 
 
 
 #### 5.2.2.2 Sprint Backlog 2.
+
 Para el segundo sprint backlog, recopilamos historias de usuario relacionadas a la aplicación web. Para organizar y administrar estas historias de usuario, las dividimos en tareas fáciles de realizar y las asignamos a los miembros del equipo de manera efectiva, utilizamos la herramienta Trello. Nos concentramos en completar las historias de usuario durante este sprint, con el objetivo principal de crear una aplicación web mas concreta y completa con un diseño atractivo y fácil de usar. Gracias a Trello, pudimos colaborar efectivamente y seguir el progreso de las tareas, lo que nos permitió abordar y resolver.
+
+![alt text](assets/tp/tre.png)
 
 Link Trello: https://trello.com/b/DchlumuQ/asi0730-final-project-2510-g4
 
@@ -2631,7 +2663,23 @@ En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que 
 
 #### 5.2.2.3 Development Evidence for Sprint Review.
 
+
+| Repository   | Branch | Commit Id                                | Commit Message                                                              | Commit Message Body                                                                                      | Committed on (Date)     |
+| ------------ | ------ | ---------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------- |
+| FrontEnd | main   | e472eee36a219903762f65693206ed9cfb6bf4c6 | Initial commit                                                              | Created.                                                                                 | 10/05/2025              |
+| FrontEnd | main   | b80f07bff1262ecbc74a47fad85b119b935ee698                                  | Feat: add.vue                                               | Feat: start                                                                            | 10/05/2025              |
+| FrontEnd | main   | 265da30a70634bf1aeb2a7f97a1f5dd5e580d28b                                  | feat: payment                     | feat: payment                                                    | 12/05/2025              |
+| FrontEnd | main   | ccf5c5df3f64a2d03b6f060e8f28f7b7ef942bb7                                  | Feat: Add profile                                                          | Feat: profile nosotros                                                                                       | 12/05/2025              |
+| FrontEnd | main   | ba99e3902bfc87bcc0ee441eaa9f6c009bd4b570                                  | AÑADI MI PARTE                                                              | AÑADI MI PARTE                                                                                           | 13/05/2025              |
+| FrontEnd | main   | ae8233d9de1dde0f1c5e2c838c8773b52ef24587 | feat: DASHBOARD                                                  | Se añade                                                                         | 14/05/2025              |
+| FrontEnd | main   | cf85c413e189448b28adbb101f46de4a04eac2c3 | feat: LOGIN - REGISTER                                                   | ---                                                                         | 14/05/2025              |
+| FrontEnd | main   | e1bbdc4689b877b0ae381891b7ed4d659fe4a22d | feat: portfolio                                | feat: portfolio-page                                                                    | 15/05/2025              |
+| FrontEnde | main   | e62ee46f9aecb6456b563f596be3ccd1cf1c5f2c | feat: Find Designer  | feat: Find Designer | 15/05/2025              |
+
+
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review.
+
+Para este sprint no se realizaron pruebas debido a que solo corresponde al desarrollo de la primera version del web application.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
@@ -2655,24 +2703,172 @@ LANDING PAGE: https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
 WEB APPLICATION:
 
-**PORTFOLIO BOUNDED-CONTEXT**
+**LOGIN** 
+
+Permite a los usuarios iniciar sesión en la plataforma usando su correo y contraseña. Incluye validación de campos, acceso directo al registro y un diseño moderno enfocado en la usabilidad.
+
+
+![Texto alternativo](assets/tp/front1.png)
+
+**REGISTER**
+
+Vista para que nuevos usuarios se registren en la plataforma. Solicita nombre completo, correo electrónico y contraseña. Está conectada al sistema de autenticación para crear una cuenta válida en la base de datos.
+
+![Texto alternativo](assets/tp/front2.png)
+
+**DASHBOARD**
+
+Es el panel principal de navegación. Aquí el usuario elige qué desea hacer: buscar diseñadores, ver portafolio, pagos, calificaciones, reseñas o chats. Su diseño intuitivo y visual hace que el flujo de navegación sea claro para cualquier usuario.
+
+![Texto alternativo](assets/tp/front3.png)
+
+**PORTFOLIO AND PROFILE BOUNDED-CONTEXT**
+
+- Profile
+Muestra el perfil completo del diseñador, incluyendo su foto, ubicación, biografía profesional, experiencia, enlaces a redes sociales y botón para seguirlo o enviarle un mensaje. Permite editar el perfil si es el usuario dueño.
+
+
+- Portfolio (del Diseñador)
+Vista donde el diseñador puede subir, visualizar o eliminar proyectos creativos. Cada obra se presenta como tarjeta con imagen destacada, permitiendo mostrar su estilo y experiencia visualmente.
+
+![Texto alternativo](assets/tp/front4.png)
+
+![Texto alternativo](assets/tp/front5.png)
+
+**PAYMENTS**
+
+- Payments - Vista del Diseñador (Pagos Recibidos)
+Vista donde el diseñador ve los pagos que ha recibido por sus servicios. Se muestra el cliente, nombre del proyecto, monto y fecha del pago. Es útil para llevar control de ingresos dentro de la plataforma.
+
+
+- Payments - Vista del Cliente (Recargar Saldo)
+El cliente puede consultar su saldo disponible y recargarlo eligiendo entre métodos de pago como Plin, Yape, efectivo, tarjetas o plataformas digitales. Esta vista permite una experiencia de pago fluida y segura dentro del ecosistema CreatiLink.
+
+![Texto alternativo](assets/tp/front6.png)
+
+![Texto alternativo](assets/tp/front10.png)
+
+**FIND DESIGNER**
+
+- Designer List (Lista de Diseñadores)
+Vista donde el cliente puede buscar diseñadores por categoría: gráfico, moda, industrial, etc. Al seleccionar una categoría, se muestran las tarjetas de diseñadores con nombre, ubicación y especialización. Desde aquí se accede a su perfil o trabajos.
+
+- Project Details & Comments (Vista de Proyecto con Opiniones)
+Una vez seleccionado un diseñador y uno de sus proyectos, se abre una vista detallada del trabajo con comentarios de clientes previos. Es clave para evaluar la calidad del trabajo mediante opiniones reales.
+
+
+![Texto alternativo](assets/tp/front7.png)
+
+![Texto alternativo](assets/tp/front8.png)
+
+![Texto alternativo](assets/tp/front9.png)
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+No se emplearon servicios adicionales, ya que este primer sprint se centró exclusivamente en la implementación de la primera versión del web application.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Para la entrega del segundo sprint, se desplegó la landing page de manera completamente funcional y mejorada, cumpliendo con los user stories definidos para la misma. En cuanto a la web application, se desplegó una primera versión que incluye los bounded contexts principales del proyecto, aunque algunas secciones aún están pendientes de implementación. Estas se completarán en el próximo sprint, continuando con el desarrollo y la integración de las funcionalidades restantes.
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
 
 
+![Ejemplo de Imagen](assets/tp/las.png)
 
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](assets/tp/las2.png)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](assets/tp/las2.png)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+**Frontend**
+
+![Ejemplo de Imagen](assets/tp/las4.png)
+
+![Ejemplo de Imagen](assets/tp/las5.png)
+
+LINK FRONTEND DESPLEGADA: https://frontend-nine-ivory-81.vercel.app/
 
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
+
+
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
+
+- Diseño y Desarrollo:
+  Diseño de la Landing Page: Desarrollo y diseño completo de la landing page, incluyendo la creación de secciones y funcionalidad.
+  Implementación: Realización de las tareas de codificación, pruebas y ajustes necesarios para completar la página.
+- Documentación y Despliegue:
+  Documentación: Creación de documentación relevante para la landing page, incluyendo capturas de pantalla y descripciones.
+  Despliegue: Configuración del entorno de despliegue y transferencia de archivos al servidor.
+
+**URL LANDING PAGE DESPLEGADA**: https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+<br>**Vista de commits: Landing page:**
+
+![alt text](assets/CO4.jpg)
+
+![alt text](assets/CO5.jpg)
+
+COMMITS:
+
+- Valentino Sandoval Paiva: 2
+- Alexander Paolo Justo Yauricasa: 1
+- Anderson Jose Gamarra Vega: 1
+- Javier Oswaldo Tello Murga: 1
+- Iker Matias Pejerrey Ruiz: 2
+
+<br>**Report:**
+
+![alt text](assets/CO.jpg)
+
+![alt text](assets/CO2.jpg)
+
+![alt text](assets/CO3.jpg)
+
+COMMITS:
+
+- Valentino Sandoval Paiva: 8
+- Alexander Paolo Justo Yauricasa: 12
+- Anderson Jose Gamarra Vega: 21
+- Javier Oswaldo Tello Murga: 7
+- Iker Matias Pejerrey Ruiz: 13
+
+
+<br>**FrontEnd:**
+
+![alt text](assets/tp/f1.png)
+
+![alt text](assets/tp/f2.png)
+
+![alt text](assets/tp/f3.png)
+
+COMMITS:
+
+- Valentino Sandoval Paiva: 18
+- Anderson Jose Gamarra Vega: 5
+- Javier Oswaldo Tello Murga: 3
+
+
+
 # Conclusiones
 
 A lo largo del desarrollo de CreatiLink aplicamos los principios de Domain-Driven Design para organizar la plataforma en cinco contextos acotados —Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería— lo que nos permitió modelar cada área de negocio de manera independiente y con un lenguaje común para todo el equipo. Para comunicar esta estructura utilizamos el Modelo C4, desplegando primero un Diagrama de Contexto que sitúa a CreatiLink en relación con sus usuarios (Cliente y Diseñador) y los sistemas externos de pagos, notificaciones y portfolios; luego un Diagrama de Contenedores que muestra la descomposición en Landing Page y SPA en Vue.js, API en ASP .NET Core y base de datos PostgreSQL; y finalmente un Diagrama de Componentes que detalla, dentro del backend, los módulos Controller – Service – Repository de cada contexto.
+TB2:
+El desarrollo de esta aplicación web en Vue.js, enfocada en portafolios para diseñadores, demostró la eficacia del framework para crear interfaces dinámicas, reactivas y centradas en la experiencia de usuario. Gracias a su arquitectura modular, diseño adaptable y optimizaciones la gestión de estado con PrimeVue, se logró una plataforma intuitiva, visualmente atractiva y de alto rendimiento. La integración con APIs  aseguró un flujo seguro y escalable, mientras que el enfoque en usabilidad y estética cumplió con las necesidades de los creativos. Vue.js se confirmó como una herramienta ideal para proyectos que requieren rapidez, modularidad y calidad visual, dejando abierta la posibilidad de incorporar IA o funciones colaborativas en futuras iteraciones.
 
 # Anexos
 
@@ -2680,3 +2876,7 @@ A lo largo del desarrollo de CreatiLink aplicamos los principios de Domain-Drive
 - **Link Landing Page:** https://asi0730-final-project-2510-g4.github.io/LandingPage/
 - **Link Repositorio Docs Github:** https://github.com/ASI0730-Final-Project-2510-G4/docs
 - **Link Organizacion Github:** https://github.com/ASI0730-Final-Project-2510-G4
+
+- **Link del frontend desplegado:** https://frontend-nine-ivory-81.vercel.app/
+
+- **link del video de exposicion:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a962_upc_edu_pe/EZhEozdfmNdMv_G_ppj5jkkBKH0WgLIgQq1PIa-jl72cSw?e=xAAQcb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
