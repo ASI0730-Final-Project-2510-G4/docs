@@ -288,7 +288,7 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 | <p align="center"><img width="780" height="200" src="assets/tb1images/javier-profile.jpg"></p> | Me llamo Javier Oswaldo Tello Murga, tengo 22 años y soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona capaz, con muchas ganas de adquirir conocimientos, sobre todo con los temas que tenga que ver con mi carrera. Tengo conocimiento en wordprees básico, html y css intermedio y C++. |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-- Marce - oooooooo
+- MARCEE - oooooooo
 
 | <p align="center"><img width="780" height="200" src="assets/tb1images/-profile.jpg"></p> | oooooooooooooooooooooooooooo. |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
