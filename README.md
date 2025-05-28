@@ -270,7 +270,7 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 
 - Valentino Sandoval Paiva - U20211A962
 
-| <p align="center"><img src="./assets/tb1images/valentino.2.jpg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 10px;"></p> | Mi nombre es Valentino Sandoval, tengo 22 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 7mo ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
+| <p align="center"><img width="780" height="200" src="./assets/tb1images/valentino.2.jpg"></p> | Mi nombre es Valentino Sandoval, tengo 22 años y soy estudiante de la carrera de Ingeniería de Software, cursando el 7mo ciclo. Siempre he estado interesado en la tecnología, el software y hardware de las computadoras. Además, me gustan mucho los videojuegos, esto me llevo a decidirme a estudiar esta carrera. |
 | --------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - Anderson Gamarra Vega - U202016154
