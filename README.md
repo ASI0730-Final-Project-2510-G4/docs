@@ -2914,9 +2914,11 @@ En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que 
 En este apartado se presenta el Sprint Backlog correspondiente al Sprint 3 del proyecto. Se incluyen detalles clave como el identificador, la historia de usuario, las tareas asociadas, su descripción, la estimación de esfuerzo, los responsables y el estado actual de cada actividad. 
 La siguiente tabla resume el avance logrado durante este sprint, permitiendo visualizar el progreso de cada historia, junto con las evidencias de cumplimiento y anotaciones importantes que surgieron durante su desarrollo.
 
+![ImagenBacklog](assets/TB3/BackLogTrello.png)
+
 Link del trello: 
 
-
+[Acceso al Board Sprint 3 ](https://trello.com/invite/b/6843602bb428f296144a4012/ATTI81bb5803ad95a8d82a85beb8b5a55f6b7F567AC9/sprint-backlog-4)
 
 
 ### 5.2.2.4 Development Evidence for Sprint Review
@@ -2938,13 +2940,13 @@ Se registran las contribuciones enfocadas en la lógica del servidor, incluyendo
 
 En este apartado se muestra una recopilación visual que evidencia el funcionamiento de la aplicación al cierre del Sprint 3. A través de capturas de pantalla y un video demostrativo, se exponen los avances alcanzados y se ilustra cómo las nuevas funcionalidades fueron implementadas y puestas en marcha dentro del producto.
 
-Acontinuación se entrega el enlace a la 
+A continuación se entrega el enlace a la 
 landing page actualizada:
 https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
 Link FrontEnd: https://frontend-web-applications-production.up.railway.app/
 
-**Landin Page**
+**Landing Page**
 
 ![alt text](assets/TB2/l1.png)
 ![alt text](assets/TB2/l2.png)
@@ -2984,7 +2986,7 @@ En este apartado mostraremos el despliegue de la ultima version web application 
 ![alt text](assets/TB2/f10.png)
 ![alt text](assets/TB2/f11.png)
 
-Video About-the-Produc: 
+Video About-the-Product: 
 
 
 
@@ -3051,7 +3053,18 @@ A continuación, se detallan los endpoints disponibles en el controlador de proy
 | Projects | GET       | `/api/v1/projects`                        | Get all projects               | Get all projects                                            | GetAllProjects         |
 
 
+**ContractsController**
 
+A continuación, se detallan los endpoints disponibles en el controlador de contratos, incluyendo sus métodos HTTP, rutas, descripciones y operation IDs.
+
+
+| Tag       | HTTP Verb | Endpoint                                | Summary                        | Description                                                 | OperationId            |
+| --------- | --------- | --------------------------------------- | -------------------------------- | ----------------------------------------------------------- | ---------------------- |
+| Contracts | GET       | `/api/v1/contracts/{contractId}`        | Get contract by id              | Get a contract by the id it has                             | GetContractById        |
+| Contracts | GET       | `/api/v1/contracts/user/{userId}`       | Get contracts by user id         | Get the contracts a user has                                | GetContractsByUserId   |
+| Contracts | POST      | `/api/v1/contracts`                     | Create a new contract            | Create a new contract in the system (User only)             | CreateContract         |
+| Contracts | PUT       | `/api/v1/contracts/{contractId}`        | Update a contract                | Update a contract in the system (User and Profile)          | UpdateContract         |
+| Contracts | DELETE    | `/api/v1/contracts/{contractId}`        | Delete a contract                | Delete a contract in the system (User and Profile)          | DeleteContractById     |
 
 ### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
@@ -3200,6 +3213,7 @@ COMMITS:
 - Valentino Sandoval Paiva: 18
 - Anderson Jose Gamarra Vega: 5
 - Javier Oswaldo Tello Murga: 3
+- Elvia Rodríguez Villa : 7
 
 
 
