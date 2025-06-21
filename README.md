@@ -3017,7 +3017,7 @@ Video About-the-Product:
 
 ### 5.2.3.6 Services Documentation Evidence for Sprint Review
 
-En este sprint se documentaron un total de -- endpoints distribuidos en cinco controladores: ----------. Además se empleó swagger para hacer las pruebas a los endpoints.
+En este sprint se documentaron un total de 21 endpoints distribuidos en cinco controladores: Users, Profile, Projects, Contracts y el de Autentication . Además se empleó swagger para hacer las pruebas a los endpoints.
 
 Adicionalmente, en este Sprint se implementó el IAM (Identity and Access Management), fortaleciendo la seguridad y garantizando un control efectivo de acceso a los recursos documentados, mejorando así la experiencia y confianza de los usuarios en la plataforma, donde se implementaron 2 controladores..
 
