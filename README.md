@@ -291,10 +291,10 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 | <p align="center"><img width="780" height="200" src="assets/tb1images/javier-profile.jpg"></p> | Me llamo Javier Oswaldo Tello Murga, tengo 22 años y soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Soy una persona capaz, con muchas ganas de adquirir conocimientos, sobre todo con los temas que tenga que ver con mi carrera. Tengo conocimiento en wordprees básico, html y css intermedio y C++. |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-- MARCEE - oooooooo
+- Elvia Marcela Rodríguez Villa - U20231C784
 
-| <p align="center"><img width="780" height="200" src="assets/tb1images/-profile.jpg"></p> | oooooooooooooooooooooooooooo. |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p align="center"><img width="780" height="200" src="assets/tb1images/elvia-imagen.jpg"></p> | Soy una estudiante apasionada por la tecnología, los datos y el aprendizaje automático. Actualmente formo parte del área de modelos de riesgo en un banco, donde aplico técnicas de machine learning y análisis de datos para apoyar la toma de decisiones. Tengo experiencia con herramientas y lenguajes como Python, SQL, Spark, AWS, Git, MongoDB, HTML/CSS, JavaScript, C/C++, y Figma. Además, cuento con experiencia previa en docencia de inglés, desarrollo de contenido educativo y procesos de selección. |
+|----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 1.2. Solution Profile
 
