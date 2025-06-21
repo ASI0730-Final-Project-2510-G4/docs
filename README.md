@@ -22,6 +22,7 @@
 - Alexander Paolo Justo Yauricasa - u20191c054
 - Anderson Jose Gamarra Vega - u202016154
 - Javier Oswaldo Tello Murga - u202218387
+- Marce
 
 
 ### Marzo, 2025
@@ -56,7 +57,9 @@
 **URL LANDING PAGE DESPLEGADA**: https://asi0730-final-project-2510-g4.github.io/LandingPage/
 
 
-**URL FRONTEND DESPLEGADO**: https://frontend-nine-ivory-81.vercel.app/
+**URL FRONTEND DESPLEGADO**: https://frontend-web-applications-production.up.railway.app/
+
+**URL FRONTEND DESPLEGADO**: https://creatilink-api-production-4e2f.up.railway.app/swagger/index.html
 
 <br>**Vista de commits: Landing page:**
 
@@ -2861,6 +2864,740 @@ COMMITS:
 - Valentino Sandoval Paiva: 18
 - Anderson Jose Gamarra Vega: 5
 - Javier Oswaldo Tello Murga: 3
+
+
+
+## 5.2.3. Sprint 3
+
+
+Durante el Sprint 3, nuestro enfoque principal fue el desarrollo del BackEnd de CreatiLink, además de mejorar el FrontEnd. Este sprint fue fundamental para implementar las primeras funcionalidades del BackEnd.
+
+### 5.2.3.1 Sprint Planning 3
+
+Para este sprint se trabajó en la primera versión del backend de la aplicación web, además de incorporar nuevas funcionalidades y realizar mejoras enfocadas en optimizar la experiencia del usuario.
+
+Durante la reunión de planificación, el equipo seleccionará las historias de usuario que se convertirán en resultados concretos. Además, se definirá cómo se distribuirán las tareas y quién se encargará de cada una. Nuestro objetivo será construir un plan viable que se pueda completar dentro del tiempo establecido para este sprint. Para ello, fomentaremos la colaboración, asegurándonos de que todos conozcan y comprendan tanto los objetivos como las prioridades del trabajo.
+
+| Sprint #                        | Sprint 3                                                                                                                                       |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       | Sprint 3                                                                                                                                       |
+| Date                            | 10/05/2025                                                                                                                                    |
+| Time                             | 12:00 AM                                                                                                                                       |
+| Location                            | Discord (Reunión virtual)                                                                                                                      |
+| Prepared by                    | Valentino Sandoval Paiva                                                                                                                         |
+| Attendees (to planning meeting) | Valentino Sandoval Paiva           |
+| Sprint n – 3 Review Summary                    | Logramos completar el primer despliegue de la aplicación web. Se implementaron funcionalidades clave, incluyendo  la visualización de datos y la funcionalidad principal de gestión de usuarios. Logramos un avance positivo, destacando la claridad y efectividad en la interfaz de usuario. Los miembros del equipo expresaron satisfacción con las herramientas empleadas.|
+| Sprint n – 3 Retrospective Summary                   | Se notó una mejora en la comunicación y colaboración entre los miembros, lo cual facilitó el avance en las tareas críticas. Sin embargo, se identificaron oportunidades de optimización en algunos flujos de trabajo para reducir tiempos y mejorar la organización en el manejo de tareas.  |
+| Sprint Goal & User Stories       |
+ Sprint 3 Goal                    | Nuestro enfoque es que los usuarios al visitar la nueva versión de la landing page, obtengan información clara y precisa sobre el producto o servicio, comprendan sus beneficios y características, y se sientan motivados a realizar una acción específica, como registrarse, comprar, descargar un recurso o ponerse en contacto con el equipo de ventas. Además, se desarrollará una nueva versión del frontend de la aplicación web y se entregará la primera versión del backend, asegurando una experiencia de usuario fluida y un soporte adecuado para las funcionalidades implementadas. |
+| Sprint 2 Velocity                | El velocity establecido para el Sprint 3 es de --- Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  <br>-US002 (4 puntos), <br>-US011 (5 puntos), <br>-US013 (5 puntos), <br>-US015 (3 puntos), <br>-US016 (3 puntos), <br>-US019 (3 puntos) |
+| Sum of story points             | --- |
+
+
+
+### 5.2.3.2 Aspect Leaders and Collaborators
+
+En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que define quién es el líder y quiénes son los colaboradores para cada aspecto del Sprint. Estos aspectos pueden incluir funcionalidades, bounded contexts, o cualquier otro elemento relevante del alcance del Sprint, con el fin de mejorar la claridad y comunicación dentro del equipo.
+
+| Team Member                     | GitHub Username   | Frontend (L/C) | Backend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+| ------------------------------- | ----------------- | -------------- | ------------- | ------------- | ------------------ | ------------------- | ------------------ |
+| Valentino Sandoval Paiva        | SoyValzzz         | C              | L             | L             | C                  | L                   | C                  |
+| Alexander Paolo Justo Yauricasa | AlexanderJusto    | L              | C             | C             | L                  | C                   | L                  |
+| Anderson Jose Gamarra Vega      | AndersonGamarraJW | L              | C             | L             | C                  | L                   | C                  |
+| Javier Oswaldo Tello Murga      | JavierTello20     | L              | L             | L             | C                  | C                   | L                  |
+| Elvia Marcela Rodriguez Villa       | ElviaRV          | L              | C             | C             | C                  | L                   | C                  |
+
+
+
+### 5.2.3.3 Sprint Backlog 3
+
+En este apartado se presenta el Sprint Backlog correspondiente al Sprint 3 del proyecto. Se incluyen detalles clave como el identificador, la historia de usuario, las tareas asociadas, su descripción, la estimación de esfuerzo, los responsables y el estado actual de cada actividad. 
+La siguiente tabla resume el avance logrado durante este sprint, permitiendo visualizar el progreso de cada historia, junto con las evidencias de cumplimiento y anotaciones importantes que surgieron durante su desarrollo.
+
+Link del trello: 
+
+
+
+
+### 5.2.2.4 Development Evidence for Sprint Review
+
+En esta sección se documentan los commits efectuados en los repositorios de frontend, backend y landing page durante el Sprint 3.
+
+Landing Page:
+Se detallan los cambios relacionados con la página de presentación del proyecto, abarcando tanto el diseño como su estructura y contenido informativo.
+
+Frontend:
+Se incluye el historial de cambios aplicados a la interfaz de usuario de la aplicación. Los commits reflejan avances en el diseño visual, la organización de componentes y mejoras en la interacción con el usuario.
+
+Backend:
+Se registran las contribuciones enfocadas en la lógica del servidor, incluyendo la implementación de funcionalidades, conexión con bases de datos y ajustes en la arquitectura interna.
+
+
+
+### 5.2.3.5 Execution Evidence for Sprint Review
+
+En este apartado se muestra una recopilación visual que evidencia el funcionamiento de la aplicación al cierre del Sprint 3. A través de capturas de pantalla y un video demostrativo, se exponen los avances alcanzados y se ilustra cómo las nuevas funcionalidades fueron implementadas y puestas en marcha dentro del producto.
+
+Acontinuación se entrega el enlace a la 
+landing page actualizada:
+https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+Link FrontEnd: https://frontend-web-applications-production.up.railway.app/
+
+**Landin Page**
+
+![alt text](assets/TB2/l1.png)
+![alt text](assets/TB2/l2.png)
+![alt text](assets/TB2/l3.png)
+![alt text](assets/TB2/l4.png)
+![alt text](assets/TB2/l5.png)
+![alt text](assets/TB2/l6.png)
+![alt text](assets/TB2/l7.png)
+
+**FrontEnd**
+En este apartado mostraremos el despliegue de la ultima version web application de CreatiLink
+
+- LOGIN
+
+![alt text](assets/TB2/f1.png)
+
+- REGISTER
+
+![alt text](assets/TB2/f2.png)
+
+- Home
+
+![alt text](assets/TB2/f3.png)
+![alt text](assets/TB2/f4.png)
+
+- PROFILE
+
+![alt text](assets/TB2/f5.png)
+![alt text](assets/TB2/f6.png)
+
+- PORTFOLIO
+
+![alt text](assets/TB2/f7.png)
+![alt text](assets/TB2/f8.png)
+![alt text](assets/TB2/f12.png)
+![alt text](assets/TB2/f9.png)
+![alt text](assets/TB2/f10.png)
+![alt text](assets/TB2/f11.png)
+
+Video About-the-Produc: 
+
+
+
+### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+En este sprint se documentaron un total de -- endpoints distribuidos en cinco controladores: ----------. Además se empleó swagger para hacer las pruebas a los endpoints.
+
+Adicionalmente, en este Sprint se implementó el IAM (Identity and Access Management), fortaleciendo la seguridad y garantizando un control efectivo de acceso a los recursos documentados, mejorando así la experiencia y confianza de los usuarios en la plataforma, donde se implementaron 2 controladores..
+
+Link al repositorio de backend:
+
+**AuthenticationController**
+
+El AuthenticationController proporciona los endpoints necesarios para la autenticación de usuarios en la plataforma. Permite a los usuarios registrarse (sign-up) y acceder (sign-in) a la aplicación.
+
+SIGN-IN
+
+Authentication Controller con funcionalidad de Sign-In se utiliza para manejar el inicio de sesión de los usuarios en una aplicación. Este controlador recibe las credenciales proporcionadas por el usuario (como correo electrónico y contraseña), las valida, y si son correctas, genera y devuelve un token de autenticación
+
+SIGN-UP
+
+Authentication Controller con funcionalidad de Sign-Up maneja el registro de nuevos usuarios en la aplicación. Este controlador recibe los datos proporcionados por el usuario (como nombre, correo electrónico, contraseña, etc.), valida la información y crea un nuevo registro de usuario en la base de datos.
+Resumen de los endpoints disponibles para la autenticación de usuarios.
+
+| Tag            | HTTP Verb | Endpoint                         | Summary | Description             | OperationId |
+| -------------- | --------- | -------------------------------- | ------- | ----------------------- | ----------- |
+| Authentication | POST      | `/api/v1/authentication/sign-in` | Sign in | Sign in to the platform | SignIn      |
+| Authentication | POST      | `/api/v1/authentication/sign-up` | Sign up | Sign up to the platform | SignUp      |
+
+**UsersController**
+
+Listado de endpoints disponibles para la gestión y consulta de usuarios.
+
+| Tag   | HTTP Verb | Endpoint             | Summary        | Description    | OperationId |
+| ----- | --------- | -------------------- | -------------- | -------------- | ----------- |
+| Users | GET       | `/api/v1/users/{id}` | Get user by id | Get user by id | GetUserById |
+| Users | GET       | `/api/v1/users`      | Get all users  | Get all users  | GetAllUsers |
+
+**ProfilesController**
+
+A continuación, se muestra la documentación de los servicios disponibles en el controlador de perfiles de usuario.
+
+| Tag      | HTTP Verb | Endpoint                       | Summary                    | Description                                                  | OperationId          |
+| -------- | --------- | ------------------------------ | -------------------------- | ------------------------------------------------------------ | -------------------- |
+| Profiles | GET       | `/api/v1/profiles/{profileId}` | Get profile by id          | Retrieves a user profile by its unique identifier            | GetProfileById       |
+| Profiles | GET       | `/api/v1/profiles/search`      | Search profiles by name    | Returns a list of profiles whose names match the given query | SearchProfilesByName |
+| Profiles | GET       | `/api/v1/profiles/by-user`     | Get profile by user id     | Retrieves a profile associated with a specific user ID       | —                    |
+| Profiles | GET       | `/api/v1/profiles`             | Get all profiles           | Retrieves all registered profiles                            | GetAllProfiles       |
+| Profiles | POST      | `/api/v1/profiles`             | Create a new profile       | Registers a new profile in the system                        | CreateProfile        |
+| Profiles | PUT       | `/api/v1/profiles/{profileId}` | Update an existing profile | Updates profile information by its ID                        | UpdateProfile        |
+
+
+**ProjectsController**
+
+A continuación, se detallan los endpoints disponibles en el controlador de proyectos, incluyendo sus métodos HTTP, rutas, descripciones y operation IDs.
+
+| Tag      | HTTP Verb | Endpoint                                  | Summary                        | Description                                                 | OperationId            |
+| -------- | --------- | ----------------------------------------- | ------------------------------ | ----------------------------------------------------------- | ---------------------- |
+| Projects | GET       | `/api/v1/projects/{projectId}`            | Get project by id              | Get project by id                                           | GetProjectById         |
+| Projects | GET       | `/api/v1/projects/by-profile/{profileId}` | Get all projects by profile id | Gets all the projects associated with a specific profile id | GetProjectsByProfileId |
+| Projects | POST      | `/api/v1/projects`                        | Create a new project           | Create a new project                                        | CreateProject          |
+| Projects | PUT       | `/api/v1/projects/{projectId}`            | Update an existing project     | Update an existing project                                  | UpdateProject          |
+| Projects | DELETE    | `/api/v1/projects/{projectId}`            | Delete a project               | Delete a project                                            | DeleteProject          |
+| Projects | GET       | `/api/v1/projects`                        | Get all projects               | Get all projects                                            | GetAllProjects         |
+
+
+
+
+### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso. 
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+Además, actualmente el frontend, el backend y la base de datos ya están desplegados y correctamente conectados entre sí, lo que permite una comunicación fluida entre todos los componentes del sistema.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+
+![Ejemplo de Imagen](assets/tp/las.png)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](assets/tp/las2.png)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](assets/tp/las2.png)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+**FrontEnd**
+
+Creación del Proyecto en Railway
+Se ingresó a https://railway.app y se creó un nuevo proyecto seleccionando la opción "Deploy from GitHub Repo".
+
+![Ejemplo de Imagen](assets/TB2/r1.png)
+
+Configuración del Deploy
+
+- Se conectó la cuenta de GitHub con Railway.
+
+- Se seleccionó el repositorio correspondiente al frontend.
+
+- Railway detectó automáticamente el tipo de proyecto (por ejemplo, Vite, React, etc.).
+
+- Se configuraron los comandos de build y start si era necesario:
+
+  - build: por ejemplo, npm run build
+
+  - start: por ejemplo, npm run preview o serve dist
+
+![Ejemplo de Imagen](assets/TB2/r2.png)
+
+Deploy Automático
+
+Una vez completada la configuración, Railway comenzó el proceso de build y despliegue automáticamente.
+
+![Ejemplo de Imagen](assets/TB2/r3.png)
+
+Acceso al Sitio
+
+Railway generó un dominio público para acceder al frontend desplegado. 
+
+LINK FRONTEND DESPLEGADO: https://frontend-web-applications-production.up.railway.app/login
+
+**BackEnd**
+
+1. Nuevo Proyecto en Railway
+
+- Desde la plataforma Railway se seleccionó "New Project" → "Deploy from GitHub Repo".
+
+- Se escogió el repositorio del backend.
+
+![Ejemplo de Imagen](assets/TB2/r1.png)
+
+2. Despliegue de la Base de Datos
+- Desde el mismo proyecto en Railway:
+
+- Se selecciona la opción "Add Plugin".
+
+- Se escoge el tipo de base de datos necesario (por ejemplo, PostgreSQL, MySQL, MongoDB, etc.).
+
+Railway despliega automáticamente la base de datos y genera las variables de entorno necesarias (como DATABASE_URL).
+
+![Ejemplo de Imagen](assets/TB2/r4.png)
+
+3. Configuración de Variables de Entorno (Environment Variables)
+- En el apartado “Variables”, se añadieron las claves necesarias para el funcionamiento del backend (por ejemplo, claves de base de datos, APIs, JWT secrets, etc.).
+
+![Ejemplo de Imagen](assets/TB2/r5.png)
+
+4. Comandos de Build y Start
+
+Railway detectó automáticamente si se necesitaba compilar el proyecto y cómo levantarlo. En caso contrario, se especificaron los comandos manualmente
+
+![Ejemplo de Imagen](assets/TB2/r6.png)
+
+Despliegue Automático y URL Pública
+Railway construyó el backend y lo puso en línea, entregando una URL pública.
+
+LINK BACKEND DESPLEGADO: https://creatilink-api-production-4e2f.up.railway.app/swagger/index.html
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
+
+<br>**Vista de commits: Landing page:**
+
+![alt text](assets/CO4.jpg)
+
+![alt text](assets/CO5.jpg)
+
+COMMITS:
+
+- Valentino Sandoval Paiva: 2
+- Alexander Paolo Justo Yauricasa: 1
+- Anderson Jose Gamarra Vega: 1
+- Javier Oswaldo Tello Murga: 1
+- Iker Matias Pejerrey Ruiz: 2
+
+
+<br>**FrontEnd:**
+
+![alt text](assets/tp/f1.png)
+
+![alt text](assets/tp/f2.png)
+
+![alt text](assets/tp/f3.png)
+
+COMMITS:
+
+- Valentino Sandoval Paiva: 18
+- Anderson Jose Gamarra Vega: 5
+- Javier Oswaldo Tello Murga: 3
+
+
+<br>**BackEnd:**
+
+![alt text](assets/tp/f1.png)
+
+![alt text](assets/tp/f2.png)
+
+![alt text](assets/tp/f3.png)
+
+COMMITS:
+
+- Valentino Sandoval Paiva: 18
+- Anderson Jose Gamarra Vega: 5
+- Javier Oswaldo Tello Murga: 3
+
+
+
+
+
+### 5.3 Validation Interviews
+
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
+
+### 5.3.1. Diseño de Entrevistas.
+
+Objetivo de la Entrevista
+Validar la usabilidad, claridad y efectividad de la landing page y de la aplicación web para cada uno de los segmentos de usuarios, asegurando que los flujos de usuario (user flows) sean intuitivos, accesibles y generen una experiencia satisfactoria para ambos grupos: diseñadores independientes y clientes en búsqueda de servicios de diseño.
+
+***Elementos de Validación***
+
+**Landing Page**
+
+- Los usuarios interactuarán con la landing page para evaluar:
+
+- Claridad del mensaje principal y de los valores diferenciadores.
+
+- Eficacia de las llamadas a la acción (CTA), como “Únete como diseñador” o “Encuentra un diseñador”.
+
+- Facilidad de navegación.
+
+- Atractivo visual y coherencia gráfica con la identidad del servicio.
+
+**Aplicación Web**
+
+- Se guiará a los usuarios a través de los principales flujos definidos por su perfil:
+
+***User Flows a Validar***
+
+**Para el Segmento Diseñador Independiente**
+
+Registro y Configuración de Perfil
+- Facilidad para crear una cuenta, editar su perfil y definir sus especialidades o estilos.
+
+Gestión de Portafolio
+- Usabilidad del formulario para agregar, editar o eliminar proyectos; claridad para incluir descripciones, imágenes y tecnologías.
+
+Interacción con Clientes
+- Acceso y uso del sistema de mensajería para responder consultas, ver notificaciones y organizar conversaciones.
+
+Visualización y Gestión de Comentarios/Calificaciones
+- Cómo ve y responde feedback sobre sus proyectos, incluyendo edición o eliminación de comentarios.
+
+**Para el Segmento Cliente (Usuarios que buscan servicios de diseño)**
+
+Exploración de Portafolios
+- Facilidad para buscar, filtrar y acceder a proyectos o perfiles de diseñadores según necesidades específicas.
+
+Interacción con Diseñadores
+- Facilidad para enviar mensajes, iniciar una conversación y recibir notificaciones de respuesta.
+
+Calificación y Comentarios
+- laridad del sistema para dejar calificaciones o comentarios sobre proyectos o servicios recibidos.
+
+Proceso de Pago y Confirmación
+- Facilidad para ingresar datos de pago, confirmación de transacción y acceso al historial de pagos.
+
+***Formato de Registro de la Entrevista***
+
+Datos del Entrevistado:
+Nombre y apellidos:
+
+Edad:
+
+Distrito de residencia:
+
+Dispositivo utilizado: (smartphone, tablet, laptop)
+
+Segmento al que pertenece: (Diseñador / Cliente)
+
+**Preguntas para Diseñadores Independientes
+(Segmento 1)**
+
+***Registro, Login y Perfil***
+- ¿El proceso de registro y configuración de tu perfil te resultó claro y accesible?
+
+- ¿Qué tan fácil fue personalizar tu perfil para reflejar tu estilo profesional?
+
+- ¿Hubo algún paso durante el registro o edición del perfil que te generó confusión o frustración?
+
+- ¿Fue clara la forma en que se muestran tus proyectos y servicios en tu perfil público?
+
+- ¿Qué desafíos enfrentaste al actualizar tu información profesional o servicios ofrecidos?
+
+***Gestión del Portafolio***
+
+- ¿Qué tan sencillo te pareció agregar un nuevo proyecto a tu portafolio?
+
+- Describe el proceso para crear un nuevo proyecto. ¿Fue claro desde el principio?
+
+- ¿Qué tan intuitivo fue definir detalles del proyecto (título, descripción, tecnologías, imágenes)?
+
+- ¿Sentiste que los campos del formulario cubren lo necesario para mostrar bien tu trabajo?
+
+- ¿Te resultó útil la opción de marcar proyectos como "borrador" o "publicado"? ¿Cambiarías algo?
+
+- ¿La posibilidad de listar tecnologías o herramientas usadas en cada proyecto te ayudó a destacar tus habilidades?
+
+- ¿Qué tan fácil fue actualizar o modificar proyectos ya publicados?
+
+***Comentarios y Calificaciones***
+- ¿Cómo percibes la funcionalidad para recibir comentarios y calificaciones sobre tus proyectos? ¿Te ayuda a mejorar tu imagen profesional?
+
+- ¿Qué tan cómodo te resultó gestionar los comentarios (editar, eliminar, responder)?
+
+***Comunicación con Clientes***
+- ¿Te parece útil la bandeja de mensajes integrada para comunicarte con potenciales clientes?
+
+- ¿Notaste las notificaciones de nuevos mensajes de forma clara y a tiempo?
+
+- ¿En qué medida el sistema te permite gestionar eficientemente tus mensajes e interacciones con clientes?
+
+- ¿Qué obstáculos encontraste al comunicarte o coordinar detalles con tus clientes desde la plataforma?
+
+***Comparación con Otras Plataformas***
+¿Qué aspectos de esta plataforma valoras más en comparación con otras que usas (como Instagram, Behance, Fiverr, etc.)?
+
+**Preguntas para Clientes en Búsqueda de Servicios de Diseño
+(Segmento 2)**
+
+***Exploración de Portafolios y Perfiles***
+
+- ¿Fue fácil encontrar lo que buscabas en los portafolios de los diseñadores?
+
+- ¿Cómo describirías la información presentada sobre los proyectos o perfiles?
+
+- ¿En algún momento te sentiste perdido al explorar diseñadores o sus trabajos?
+
+- ¿Pudiste comparar fácilmente diferentes estilos o propuestas de diseñadores? ¿Qué mejorarías en este proceso?
+
+- ¿Qué te motivaría a contactar a un diseñador desde esta plataforma en lugar de hacerlo por redes sociales?
+
+***Comunicación, Contacto y Seguimiento***
+
+- ¿Qué tan sencillo fue iniciar contacto con un diseñador para solicitar un servicio?
+
+- Describe el flujo de comunicación (enviar mensajes, recibir respuesta, solicitar propuestas). ¿Hubo algo que te generó dudas?
+
+- ¿Te sentiste informado o acompañado durante el proceso de conversación con el diseñador?
+
+- ¿Qué tan efectiva fue la mensajería para comunicar tus necesidades?
+
+- ¿Tuviste dificultades para coordinar detalles como tiempos, precios o entregables?
+
+***Historial de Proyectos y Gestión de Pedidos***
+
+- ¿Pudiste encontrar fácilmente la información sobre tus pedidos anteriores, interacciones o pagos?
+
+- ¿Fue clara y útil la visualización del historial de tus proyectos?
+
+- ¿Qué mejorarías para gestionar mejor tus servicios previos o seguimiento de entregas?
+
+***Opiniones, Calificaciones y Confianza***
+
+- ¿Cómo fue tu experiencia al dejar una reseña o calificación de un diseñador?
+
+- ¿Recibiste suficiente guía o estructura para escribir tu comentario?
+
+- ¿Te resultó útil poder calificar tanto el trabajo como la comunicación?
+
+- ¿Qué tan útiles fueron las opiniones de otros usuarios al tomar tu decisión?
+
+***Gestión de Pagos***
+- ¿Qué tan seguro te pareció el proceso de pago dentro de la plataforma?
+
+- ¿Recibiste confirmación clara al completar una transacción?
+
+- ¿Te gustaría tener más opciones de pago o control sobre tus métodos guardados?
+
+- En caso de errores o fallos en el pago, ¿la plataforma te ofreció suficientes indicaciones o soluciones?
+
+
+
+
+### 5.3.2. Registro de Entrevistas.
+
+**Segmento 1:** Personas Naturales
+
+  
+| | | 
+|---|---|
+| ENTREVISTA 1 |
+| **Nombre entrevistado** | **----------** |
+| Edad |-- |
+| Profesión |---  |
+| Departamento | --- |
+| Inicio del video | 00:00 |
+| Fin del video |----  |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen]( ) | ----------- |
+| ENTREVISTA 2 |
+| **Nombre entrevistado** | **---------** |
+| Edad | ------- |
+| Profesión | ------ |
+| Departamento | ------- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen](---- ) | ------- |
+| ENTREVISTA 3 |
+| **Nombre entrevistado** | **------** |
+| Edad | ---- |
+| Profesión | ----- |
+| Departamento | ---- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+|  | ------ |
+| Duración de todas las entrevistas: ---- | URL: [------] |
+
+**Segmento 2:** Empresas (PyMEs, Grandes empresas, ONGs)
+  
+  | | | 
+|---|---|
+| ENTREVISTA 1 |
+| **Nombre entrevistado** | **----------** |
+| Edad |-- |
+| Profesión |---  |
+| Departamento | --- |
+| Inicio del video | 00:00 |
+| Fin del video |----  |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen]( ) | ----------- |
+| ENTREVISTA 2 |
+| **Nombre entrevistado** | **---------** |
+| Edad | ------- |
+| Profesión | ------ |
+| Departamento | ------- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+| ![Ejemplo de Imagen](---- ) | ------- |
+| ENTREVISTA 3 |
+| **Nombre entrevistado** | **------** |
+| Edad | ---- |
+| Profesión | ----- |
+| Departamento | ---- |
+| Inicio del video | ---- |
+| Fin del video | ---- |
+|Link del video: | URL: [------] |
+|  | ------ |
+| Duración de todas las entrevistas: ---- | URL: [------] |
+
+## 5.3.3. Evaluaciones según heurísticas
+
+En esta sección se presentan las evaluaciones de usabilidad de la landing page y la aplicación web para conexión entre diseñadores independientes y clientes.
+
+**UX Heuristics & Principles Evaluation**  
+*Usability – Inclusive Design – Information Architecture*
+
+---
+
+### Información del Proyecto
+
+- **Carrera:** Ingeniería de Software  
+- **Curso:** Aplicaciones Web  
+- **Sección:**  
+- **Profesores:** Todos  
+- **Auditor:** CreatiLink  
+- **Cliente(s):** CreatiLink  
+- **Sitio o App a Evaluar:** CreatiLink  
+
+---
+
+### TAREAS A EVALUAR
+
+#### Para el Segmento Cliente (usuarios que buscan servicios de diseño)
+
+1. **Exploración de Diseñadores y Portafolios**  
+   - Evaluar la facilidad para buscar, explorar y comparar diseñadores y sus proyectos.
+
+2. **Proceso de Contacto**  
+   - Evaluar qué tan simple e intuitivo es iniciar una conversación con un diseñador.
+
+3. **Gestión de Calificaciones y Comentarios**  
+   - Evaluar la experiencia al dejar feedback y leer opiniones de otros usuarios.
+
+4. **Gestión de Pagos y Confirmaciones**  
+   - Evaluar la claridad del proceso de pago, la confirmación de transacción y las alertas por errores.
+
+#### Para el Segmento Diseñador Independiente (usuarios que ofrecen servicios)
+
+1. **Registro y Configuración de Perfil Profesional**  
+   - Evaluar la facilidad para registrarse, configurar su perfil y definir su especialidad.
+
+2. **Creación y Gestión del Portafolio**  
+   - Evaluar qué tan accesible es subir nuevos proyectos, editarlos y organizarlos por estado (publicado/borrador).
+
+3. **Interacción con Clientes**  
+   - Evaluar cómo se recibe y responde mensajes, y si las notificaciones funcionan oportunamente.
+
+4. **Recepción y Gestión de Comentarios/Calificaciones**  
+   - Evaluar cómo se visualizan las reseñas, y qué tan fácil es responderlas o moderarlas.
+
+---
+
+## Escala de Severidad de Problemas
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | **Problema superficial:** puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | **Problema menor:** puede ocurrir con más frecuencia o es más difícil de superar para el usuario. Debería tener una prioridad baja para resolverse en la próxima versión. |
+| 3     | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlo. Debería tener alta prioridad para corregirse. |
+| 4     | **Problema muy grave:** error que impide al usuario continuar utilizando la herramienta. Debe corregirse antes del lanzamiento. |
+
+---
+
+##  Tabla Resumen de Problemas Identificados
+
+| #  | Problema                                                                 | Escala de Severidad | Heurística/Principio Violado                     | Tarea Evaluada                               |
+|----|--------------------------------------------------------------------------|----------------------|--------------------------------------------------|----------------------------------------------|
+| 1  | El botón de contacto no es visible en algunos portafolios               | 3                    | Visibilidad del estado del sistema               | Exploración de Diseñadores y Portafolios     |
+| 2  | Los mensajes no tienen confirmación visual de envío                     | 2                    | Feedback y comunicación clara                    | Proceso de Contacto                          |
+| 3  | Las calificaciones no se actualizan inmediatamente                      | 2                    | Feedback inmediato y prevención de errores       | Gestión de Calificaciones y Comentarios      |
+| 4  | No se puede editar una reseña después de enviada                        | 2                    | Flexibilidad y eficiencia en el uso              | Gestión de Calificaciones y Comentarios      |
+| 5  | El formulario de pago no muestra claramente los errores de tarjeta      | 3                    | Prevención de errores y ayuda al usuario         | Gestión de Pagos y Confirmaciones            |
+| 6  | El proceso de subida de proyectos carece de mensajes de éxito           | 2                    | Visibilidad del estado del sistema               | Creación y Gestión del Portafolio            |
+| 7  | Las notificaciones de nuevos mensajes a veces no se muestran a tiempo   | 2                    | Feedback del sistema y diseño centrado en tiempo | Interacción con Clientes                     |
+| 8  | En el registro, no hay validación clara para campos obligatorios        | 3                    | Prevención de errores                            | Registro y Configuración de Perfil Profesional|
+
+---
+
+##  Descripción de Problemas
+
+### Problema #1:  
+- **Tarea Evaluada:** Exploración de Diseñadores y Portafolios  
+- **Recomendación:** Asegurar que el botón de contacto esté visible y accesible en todos los portafolios, sin importar el dispositivo o resolución.
+
+---
+
+### Problema #2:  
+- **Tarea Evaluada:** Proceso de Contacto  
+- **Recomendación:** Incluir mensajes visuales (toast o modales) que confirmen que el mensaje fue enviado correctamente.
+
+---
+
+### Problema #3:  
+- **Tarea Evaluada:** Gestión de Calificaciones y Comentarios  
+- **Recomendación:** Implementar actualización en tiempo real (o refresco automático) después de enviar una calificación.
+
+---
+
+### Problema #4:  
+- **Tarea Evaluada:** Gestión de Calificaciones y Comentarios  
+- **Recomendación:** Permitir la edición de reseñas durante un tiempo determinado después de su envío.
+
+---
+
+### Problema #5:  
+- **Tarea Evaluada:** Gestión de Pagos y Confirmaciones  
+- **Recomendación:** Agregar mensajes de error claros y específicos cuando una tarjeta es rechazada, y guiar al usuario para solucionarlo.
+
+---
+
+### Problema #6:  
+- **Tarea Evaluada:** Creación y Gestión del Portafolio  
+- **Recomendación:** Incluir una confirmación clara (visual o sonora) después de guardar o publicar un proyecto.
+
+---
+
+### Problema #7:  
+- **Tarea Evaluada:** Interacción con Clientes  
+- **Recomendación:** Optimizar el sistema de notificaciones para que se muestren en tiempo real o al menos con menos latencia.
+
+---
+
+### Problema #8:  
+- **Tarea Evaluada:** Registro y Configuración de Perfil Profesional  
+- **Recomendación:** Implementar validación en los campos del formulario (nombre, especialidad, correo, etc.) con mensajes contextuales.
+
+---
+
+##  User Flows a Validar
+
+### Para el Segmento Cliente
+
+- **Exploración de Diseñadores y Portafolios:** Evaluar la facilidad para buscar, explorar y comparar diseñadores y sus proyectos.
+- **Proceso de Contacto:** Evaluar qué tan simple e intuitivo es iniciar una conversación con un diseñador.
+- **Gestión de Calificaciones y Comentarios:** Evaluar la experiencia al dejar feedback y leer opiniones de otros usuarios.
+- **Gestión de Pagos y Confirmaciones:** Evaluar la claridad del proceso de pago, la confirmación de transacción y las alertas por errores.
+
+---
+
+### Para el Segmento Diseñador
+
+- **Registro y Configuración de Perfil Profesional:** Evaluar la facilidad para registrarse, configurar su perfil y definir su especialidad.
+- **Creación y Gestión del Portafolio:** Evaluar qué tan accesible es subir nuevos proyectos, editarlos y organizarlos por estado (publicado/borrador).
+- **Interacción con Clientes:** Evaluar cómo se recibe y responde mensajes, y si las notificaciones funcionan oportunamente.
+- **Recepción y Gestión de Comentarios/Calificaciones:** Evaluar cómo se visualizan las reseñas, y qué tan fácil es responderlas o moderarlas.
+
+---
+
+##  5.4. Video About-the-Product
 
 
 
