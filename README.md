@@ -2908,13 +2908,14 @@ En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que 
 | Elvia Marcela Rodriguez Villa       | ElviaRV          | L              | C             | C             | C                  | L                   | C                  |
 
 
-
 ### 5.2.3.3 Sprint Backlog 3
 
 En este apartado se presenta el Sprint Backlog correspondiente al Sprint 3 del proyecto. Se incluyen detalles clave como el identificador, la historia de usuario, las tareas asociadas, su descripción, la estimación de esfuerzo, los responsables y el estado actual de cada actividad. 
 La siguiente tabla resume el avance logrado durante este sprint, permitiendo visualizar el progreso de cada historia, junto con las evidencias de cumplimiento y anotaciones importantes que surgieron durante su desarrollo.
 
-![ImagenBacklog](assets/TB3/BackLogTrello.png)
+![backlog.png](assets%2FTB3%2Fbacklog.png)
+
+![BackLogTrello.png](assets%2FTB3%2FBackLogTrello.png)
 
 Link del trello: 
 
@@ -2985,6 +2986,30 @@ En este apartado mostraremos el despliegue de la ultima version web application 
 ![alt text](assets/TB2/f9.png)
 ![alt text](assets/TB2/f10.png)
 ![alt text](assets/TB2/f11.png)
+
+**BackEnd**
+
+![](assets/TB3/back1.png)
+![](assets/TB3/back2.png)
+
+- PROJECT
+
+![getProjects.png](assets%2FTB3%2FgetProjects.png)
+![postProject.png](assets%2FTB3%2FpostProject.png)
+
+- CONTRACT
+
+![getContracts.png](assets%2FTB3%2FgetContracts.png)
+![postContract.png](assets%2FTB3%2FpostContract.png)
+
+- PROFILE
+
+![getProfile.png](assets%2FTB3%2FgetProfile.png)
+![postProfile.png](assets%2FTB3%2FpostProfile.png)
+
+- USER
+
+![postUser.png](assets%2FTB3%2FpostUser.png)
 
 Video About-the-Product: 
 
