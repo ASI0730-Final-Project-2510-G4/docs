@@ -3479,7 +3479,7 @@ Segmento al que pertenece: (Diseñador / Cliente)
 | Inicio del video | 00:00 |
 | Fin del video |----  |
 |Link del video: | URL: [------] |
-| ![Ejemplo de Imagen](assets/Renzo.png) | ----------- |
+| ![Ejemplo de Imagen](assets/TB3/Renzo.png) | ----------- |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **---------** |
 | Edad | ------- |
@@ -3505,14 +3505,14 @@ Segmento al que pertenece: (Diseñador / Cliente)
   | | | 
 |---|---|
 | ENTREVISTA 1 |
-| **Nombre entrevistado** | **----------** |
-| Edad |-- |
-| Profesión |---  |
-| Departamento | --- |
+| **Nombre entrevistado** | **Areli flores** |
+| Edad | 26 |
+| Profesión | Medico general  |
+| Departamento | Lima |
 | Inicio del video | 00:00 |
 | Fin del video |----  |
 |Link del video: | URL: [------] |
-| ![Ejemplo de Imagen]( ) | ----------- |
+| ![Ejemplo de Imagen](assets/TB3/Areli.png) | ----------- |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **---------** |
 | Edad | ------- |
