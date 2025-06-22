@@ -3426,14 +3426,14 @@ Segmento al que pertenece: (Diseñador / Cliente)
 | | | 
 |---|---|
 | ENTREVISTA 1 |
-| **Nombre entrevistado** | **----------** |
-| Edad |-- |
-| Profesión |---  |
-| Departamento | --- |
+| **Nombre entrevistado** | Renzo Bladeon |
+| Edad |24 |
+| Profesión | Arquitecto  |
+| Departamento | Callao |
 | Inicio del video | 00:00 |
 | Fin del video |----  |
 |Link del video: | URL: [------] |
-| ![Ejemplo de Imagen]( ) | ----------- |
+| ![Ejemplo de Imagen](assets/Renzo.png) | ----------- |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **---------** |
 | Edad | ------- |
