@@ -3479,7 +3479,7 @@ Segmento al que pertenece: (Diseñador / Cliente)
 | Inicio del video | 00:00 |
 | Fin del video |----  |
 |Link del video: | URL: [------] |
-| ![Ejemplo de Imagen](assets/Renzo.png) | ----------- |
+| ![Ejemplo de Imagen](assets/TB3/Renzo.png) | ----------- |
 | ENTREVISTA 2 |
 | Nombre entrevistado | Clarissa Murga |
 | Edad | 25 |
@@ -3504,15 +3504,15 @@ Segmento al que pertenece: (Diseñador / Cliente)
 | Fin del video | 03:38  |
 |Link del video: | URL: [https://drive.google.com/file/d/1QpzV8i5Uqk5EszxoRRVrnqrUdL3MoK7q/view?usp=sharing ] |
 | ![Ejemplo de Imagen](assets/joaquin.jpg) | ----------- |
-| ENTREVISTA 2 |
-| **Nombre entrevistado** | **---------** |
-| Edad | ------- |
-| Profesión | ------ |
-| Departamento | ------- |
-| Inicio del video | ---- |
-| Fin del video | ---- |
+=======
+| **Nombre entrevistado** | **Areli flores** |
+| Edad | 26 |
+| Profesión | Medico general  |
+| Departamento | Lima |
+| Inicio del video | 00:00 |
+| Fin del video |----  |
 |Link del video: | URL: [------] |
-| ![Ejemplo de Imagen](---- ) | ------- |
+| ![Ejemplo de Imagen](assets/TB3/Areli.png) | ----------- |
 
 
 ## 5.3.3. Evaluaciones según heurísticas
