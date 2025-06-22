@@ -22,7 +22,7 @@
 - Alexander Paolo Justo Yauricasa - u20191c054
 - Anderson Jose Gamarra Vega - u202016154
 - Javier Oswaldo Tello Murga - u202218387
-- Marce
+- Elvia Marcela Rodriguez Villa - 
 
 
 ### Marzo, 2025
@@ -3481,38 +3481,29 @@ Segmento al que pertenece: (Diseñador / Cliente)
 |Link del video: | URL: [------] |
 | ![Ejemplo de Imagen](assets/Renzo.png) | ----------- |
 | ENTREVISTA 2 |
-| **Nombre entrevistado** | **---------** |
-| Edad | ------- |
-| Profesión | ------ |
-| Departamento | ------- |
-| Inicio del video | ---- |
-| Fin del video | ---- |
-|Link del video: | URL: [------] |
-| ![Ejemplo de Imagen](---- ) | ------- |
-| ENTREVISTA 3 |
-| **Nombre entrevistado** | **------** |
-| Edad | ---- |
-| Profesión | ----- |
-| Departamento | ---- |
-| Inicio del video | ---- |
-| Fin del video | ---- |
-|Link del video: | URL: [------] |
-|  | ------ |
-| Duración de todas las entrevistas: ---- | URL: [------] |
+| Nombre entrevistado | Clarissa Murga |
+| Edad | 25 |
+| Profesión | Arquitectura |
+| Departamento | Lima |
+| Inicio del video | 00:00 |
+| Fin del video | 05:50 |
+|Link del video: | URL: [https://drive.google.com/file/d/134Gy_nINrEFj0pqrF7S3TZ8un5deCdyH/view?usp=sharing ] |
+| ![Ejemplo de Imagen](assets/clarissa.png ) | ------- |
+
 
 **Segmento 2:** Empresas (PyMEs, Grandes empresas, ONGs)
   
   | | | 
 |---|---|
 | ENTREVISTA 1 |
-| **Nombre entrevistado** | **----------** |
-| Edad |-- |
-| Profesión |---  |
-| Departamento | --- |
+| Nombre entrevistado | Joaquin Pedraza |
+| Edad |20 |
+| Profesión | Ingeniería de software  |
+| Departamento | San Miguel |
 | Inicio del video | 00:00 |
-| Fin del video |----  |
-|Link del video: | URL: [------] |
-| ![Ejemplo de Imagen]( ) | ----------- |
+| Fin del video | 03:38  |
+|Link del video: | URL: [https://drive.google.com/file/d/1QpzV8i5Uqk5EszxoRRVrnqrUdL3MoK7q/view?usp=sharing ] |
+| ![Ejemplo de Imagen](assets/joaquin.jpg) | ----------- |
 | ENTREVISTA 2 |
 | **Nombre entrevistado** | **---------** |
 | Edad | ------- |
@@ -3522,16 +3513,7 @@ Segmento al que pertenece: (Diseñador / Cliente)
 | Fin del video | ---- |
 |Link del video: | URL: [------] |
 | ![Ejemplo de Imagen](---- ) | ------- |
-| ENTREVISTA 3 |
-| **Nombre entrevistado** | **------** |
-| Edad | ---- |
-| Profesión | ----- |
-| Departamento | ---- |
-| Inicio del video | ---- |
-| Fin del video | ---- |
-|Link del video: | URL: [------] |
-|  | ------ |
-| Duración de todas las entrevistas: ---- | URL: [------] |
+
 
 ## 5.3.3. Evaluaciones según heurísticas
 
