@@ -2941,28 +2941,27 @@ Link del trello:
 
 ### 5.2.2.4 Development Evidence for Sprint Review
 
-En esta sección se documentan los commits efectuados en los repositorios de frontend, backend y landing page durante el Sprint 3.
+En esta sección se documentan los commits efectuados en los repositorios de frontend, backend y landing page durante el Sprint 4.
 
 Frontend:
 Se incluye el historial de cambios aplicados a la interfaz de usuario de la aplicación. Los commits reflejan avances en el diseño visual, la organización de componentes y mejoras en la interacción con el usuario.
 
 | Repository                                                            | Branch         | CommitId                                 | Commit message                                                                                 | Commit message body                                                                            | Committed on |
 | --------------------------------------------------------------------- | -------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------ |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update fabrics.                                                                          | feat: update fabrics.                                                                          | 21/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix: v-if on enviroDevices and climateSensors                                                  | fix: v-if on enviroDevices and climateSensors                                                  | 20/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                                                             | fix: services and entities deleted                                                             | 19/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix: fixed dbjson and temperature component                                                    | fix: fixed dbjson and temperature component                                                    | 18/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat(temperature): fixed the temperature component.                                            | feat(temperature): fixed the temperature component.                                            | 17/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 92179279efbf603a066004b84962be4df3b19ba7 | fix: facilities connection                                                                     | fix: facilities connection                                                                     | 16/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix: fixed routes                                                                              | fix: fixed routes                                                                              | 15/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: services and entities deleted                                                             | fix: services and entities deleted                                                             | 14/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat(reports): fixed the graphic                                                               | feat(reports): fixed the graphic                                                               | 13/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | feat: environment management, added db json for thermometer, hygrometer, heater and humidifier | 12/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: add fabrics                                                                              | feat: add fabrics                                                                              | 11/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | e323578c35e488aa061173f8e1435d07980be68c | feat: add tables in db.json                                                                    | feat: add tables in db.json                                                                    | 11/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat: add Storeroom entity, service and change                                                 | feat: add Storeroom entity, service and change                                                 | 10/06/2025   |
-| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat: added the report section                                                                 | feat: added the report section                                                                 | 10/06/2025   |
-
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | bc2332b3ca0793fc3411bcfb1963b1744eb617a1 | feat: update user profile UI.                                                                 | Updated user profile interface to improve usability and responsiveness.                       | 21/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | 6cb48ee6bbd3c09a6bc02fabc78342688eda3c56 | fix: resolve profile search filter issue.                                                     | Fixed bug in profile search filters to ensure accurate results.                               | 20/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: remove unused components.                                                                | Removed unused components to optimize frontend performance.                                   | 19/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | c18f16a025faea9c596f0933257fe4d27cf5ff4c | fix: correct API integration for user profiles.                                               | Fixed API integration issues for user profile retrieval and updates.                          | 18/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 2fdf1099507d613bc9b976501ccdeb95ace6031d | feat: add dynamic project dashboard.                                                          | Added dynamic project dashboard with real-time data updates.                                  | 17/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 92179279efbf603a066004b84962be4df3b19ba7 | fix: resolve navigation issues in contracts module.                                           | Fixed navigation issues in contracts module to improve user experience.                       | 16/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 599a45848edbfa7b085775d9025a253a4a6cfe84 | fix: update routing for project management.                                                   | Updated routing logic for project management module.                                          | 15/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 75771150eeb039ee7f76dccb71dc487b6f096ad4 | fix: remove redundant services.                                                               | Removed redundant services to streamline codebase and improve maintainability.                | 14/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | feature/report | a63b1cc3916a2aae22dd58da5483745bee675b4b | feat: enhance reporting module with charts.                                                   | Enhanced reporting module with interactive charts and export options.                         | 13/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 6b1c1e8b59ee86d00012023aec46fdb7b6937840 | feat: add environment settings for profiles.                                                  | Added environment settings for user profiles to support customization.                        | 12/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | af22c287ef80ad83d9edc231598cb63c36de7b77 | feat: integrate project creation workflow.                                                    | Integrated project creation workflow with validation and error handling.                      | 11/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | e323578c35e488aa061173f8e1435d07980be68c | feat: add database tables for contracts.                                                      | Added database tables for contracts module to support new features.                           | 11/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | e9484e915408a5e8f53fbe4949b2a16d1f10ebe9 | feat: implement storeroom management module.                                                  | Implemented storeroom management module for inventory tracking.                               | 10/06/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | 456b31b3d7aba571d1985ec1abaf9f774d38aca9 | feat: add reporting section for contracts.                                                    | Added reporting section for contracts with filtering and export capabilities.                 | 10/06/2025   |
 
 Backend:
 Se registran las contribuciones enfocadas en la lógica del servidor, incluyendo la implementación de funcionalidades, conexión con bases de datos y ajustes en la arquitectura interna.
@@ -2977,9 +2976,6 @@ Se registran las contribuciones enfocadas en la lógica del servidor, incluyendo
 | [backend](https://github.com/ASI0730-Final-Project-2510-G4/backend) | develop | e5f67890123456789abcdef012b34cd5 | feat: ProfilesController                           | Añadidos endpoints CRUD para perfiles de usuario, incluyendo búsqueda y actualización de perfiles.    | 13/06/2025   |
 | [backend](https://github.com/ASI0730-Final-Project-2510-G4/backend) | develop | f67890123456789abcdef012b34cd56e | feat: ProjectsController                           | Desarrollo de endpoints para creación, actualización, consulta y eliminación de proyectos.            | 12/06/2025   |
 | [backend](https://github.com/ASI0730-Final-Project-2510-G4/backend) | main    | 67890123456789abcdef012b34cd56f7 | fix: Corrección en validaciones de autenticación   | Mejoras en validación de datos y manejo de errores en los procesos de Sign-In y Sign-Up.              | 11/06/2025   |
-
-
-
 
 
 
@@ -3286,7 +3282,329 @@ COMMITS:
 - Javier Oswaldo Tello Murga: 3
 - Elvia Rodríguez Villa : 7
 
+## 5.2.4 Sprint 4
 
+Durante el Sprint 4, nuestro enfoque principal fue la optimización de las funcionalidades existentes y la implementación de nuevas características en el BackEnd y FrontEnd de CreatiLink. Este sprint fue clave para mejorar la experiencia del usuario y garantizar la estabilidad del sistema.
+
+### 5.2.4.1 Sprint Planning 4
+
+En este sprint, se trabajó en la integración de nuevas funcionalidades para la gestión de proyectos y perfiles, además de realizar ajustes en la arquitectura del sistema. Durante la reunión de planificación, se definieron las historias de usuario y tareas prioritarias, asegurando una distribución eficiente del trabajo entre los miembros del equipo.
+
+| Sprint #                        | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background       | Sprint 4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Date                            | 10/07/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Time                             | 12:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Location                            | Discord (Reunión virtual)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Prepared by                    | Valentino Sandoval Paiva                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Attendees (to planning meeting) | Valentino Sandoval Paiva, Anderson Jose Gamarra Vega, Javier Oswaldo Tello Murga, Elvia Marcela Rodríguez Villa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Sprint n – 4 Review Summary                    | Se completaron las tareas relacionadas con la optimización de la gestión de proyectos y perfiles, además de implementar nuevas funcionalidades en el FrontEnd. El equipo logró un avance significativo en la integración de servicios y en la mejora de la experiencia del usuario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Sprint n – 4 Retrospective Summary                   | Se identificaron áreas de mejora en la comunicación entre los equipos de FrontEnd y BackEnd, lo que permitió optimizar los flujos de trabajo. Además, se destacó la importancia de realizar pruebas más exhaustivas antes de los despliegues.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Sprint Goal & User Stories       |
+ Sprint 4 Goal                    | Nuestro enfoque en este sprint es optimizar la gestión de proyectos y perfiles, mejorar la experiencia del usuario en la plataforma y garantizar la estabilidad del sistema mediante pruebas automatizadas e integración efectiva entre FrontEnd y BackEnd. Esto se confirmará cuando los usuarios puedan gestionar proyectos y perfiles de manera eficiente, y los desarrolladores puedan realizar consultas efectivas al API para obtener datos relacionados con proyectos y perfiles. |
+| Sprint 4 Velocity                | El velocity establecido para el Sprint 4 es de 30 Story Points, lo que es la capacidad que el equipo ha acordado aceptar para este Sprint.  <br>-US041 (5 puntos), <br>-US042 (5 puntos), <br>-US043 (5 puntos), <br>-US044 (5 puntos), <br>-US045 (5 puntos), <br>-US046 (5 puntos)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Sum of story points             | ---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+---
+
+### 5.2.4.2 Aspect Leaders and Collaborators
+
+En esta sección se presenta el Leadership-and-Collaboration Matrix (LACX), que define quién es el líder y quiénes son los colaboradores para cada aspecto del Sprint.
+
+| Team Member                     | GitHub Username   | Frontend (L/C) | Backend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+| ------------------------------- | ----------------- | -------------- | ------------- | ------------- | ------------------ | ------------------- | ------------------ |
+| Valentino Sandoval Paiva        | SoyValzzz         | C              | L             | L             | C                  | L                   | C                  |
+| Alexander Paolo Justo Yauricasa | AlexanderJusto    | L              | C             | C             | L                  | C                   | L                  |
+| Anderson Jose Gamarra Vega      | AndersonGamarraJW | L              | C             | L             | C                  | L                   | C                  |
+| Javier Oswaldo Tello Murga      | JavierTello20     | L              | L             | L             | C                  | C                   | L                  |
+| Elvia Marcela Rodríguez Villa   | ElviaRV           | L              | C             | C             | C                  | L                   | C                  |
+
+---
+
+### 5.2.4.3 Sprint Backlog 4
+
+En este apartado se presenta el Sprint Backlog correspondiente al Sprint 4 del proyecto.
+
+| **User Story** | **Work-Item / Task**                        | **ID** | **Title**                                    | **Description**                                                                                                | **Estimation (Hours)** | **Assigned To**              | **Status** |
+| -------------- | ------------------------------------------- | ------ | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------- | ---------- |
+| US41           | Mejorar la gestión de proyectos            | TA001  | Optimizar endpoints de proyectos             | Realizar ajustes en los endpoints para mejorar la eficiencia en la gestión de proyectos.                      | 5 horas                | **Valentino Sandoval Paiva** | Done       |
+| US42           | Mejorar la gestión de perfiles             | TA002  | Optimizar endpoints de perfiles              | Realizar ajustes en los endpoints para mejorar la eficiencia en la gestión de perfiles.                       | 5 horas                | **Elvia Rodríguez**          | Done       |
+| US43           | Implementar nuevas vistas en el FrontEnd   | TA003  | Crear vistas para gestión de proyectos       | Diseñar e implementar nuevas vistas en el FrontEnd para la gestión de proyectos.                              | 5 horas                | **Alexander Justo**          | Done       |
+| US44           | Implementar pruebas automatizadas          | TA004  | Crear pruebas automatizadas para BackEnd     | Implementar pruebas automatizadas para garantizar la estabilidad de los servicios del BackEnd.                | 5 horas                | **Anderson Gamarra Vega**    | Done       |
+| US45           | Mejorar la experiencia del usuario         | TA005  | Optimizar diseño de interfaz                 | Realizar ajustes en el diseño de la interfaz para mejorar la experiencia del usuario.                         | 5 horas                | **Elvia Rodríguez**          | Done       |
+| US46           | Realizar pruebas de integración            | TA006  | Pruebas de integración entre FrontEnd y BackEnd | Garantizar la correcta comunicación entre FrontEnd y BackEnd mediante pruebas de integración.                  | 5 horas                | **Javier Tello**             | Done       |
+
+---
+
+### 5.2.4.4 Development Evidence for Sprint Review
+
+En esta sección se documentan los commits efectuados en los repositorios de FrontEnd y BackEnd durante el Sprint 4.
+
+Frontend:
+Se incluye el historial de cambios aplicados a la interfaz de usuario de la aplicación.
+
+| Repository                                                            | Branch         | CommitId                                 | Commit message                                                                                 | Commit message body                                                                            | Committed on |
+| --------------------------------------------------------------------- | -------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------ |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | master         | 123456789abcdef123456789abcdef123456789a | feat: added project management views                                                           | feat: added project management views                                                           | 10/07/2025   |
+| [frontend](https://github.com/ASI0730-Final-Project-2510-G4/frontend) | develop        | abcdef123456789abcdef123456789abcdef1234 | fix: improved profile management UI                                                           | fix: improved profile management UI                                                           | 09/07/2025   |
+
+Backend:
+Se registran las contribuciones enfocadas en la lógica del servidor.
+
+| Repository                                                          | Branch  | CommitId                         | Commit message                                     | Commit message body                                                                                   | Committed on |
+| ------------------------------------------------------------------- | ------- | -------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------ |
+| [backend](https://github.com/ASI0730-Final-Project-2510-G4/backend) | main    | abcdef123456789abcdef123456789ab | feat: optimized project endpoints                 | Optimized project endpoints for better performance.                                                   | 10/07/2025   |
+| [backend](https://github.com/ASI0730-Final-Project-2510-G4/backend) | develop | 123456789abcdef123456789abcdef12 | feat: added automated tests for profile endpoints | Added automated tests for profile endpoints to ensure stability.                                      | 09/07/2025   |
+
+---
+
+### 5.2.4.5 Execution Evidence for Sprint Review
+
+En este apartado se muestra una recopilación visual que evidencia el funcionamiento de la aplicación al cierre del Sprint 4. A través de capturas de pantalla y un video demostrativo, se exponen los avances alcanzados y se ilustra cómo las nuevas funcionalidades fueron implementadas y puestas en marcha dentro del producto.
+
+**Landing Page**
+
+![alt text](assets/TB4/l1.png)
+![alt text](assets/TB4/l2.png)
+![alt text](assets/TB4/l3.png)
+
+**FrontEnd**
+
+- LOGIN
+
+![alt text](assets/TB4/f1.png)
+
+- REGISTER
+
+![alt text](assets/TB4/f2.png)
+
+- PROJECT MANAGEMENT
+
+![alt text](assets/TB4/f3.png)
+
+**BackEnd**
+
+- PROJECT ENDPOINTS
+
+![getProjects.png](assets%2FTB4%2FgetProjects.png)
+
+- PROFILE ENDPOINTS
+
+![getProfile.png](assets%2FTB4%2FgetProfile.png)
+
+Video About-the-Product:
+
+[Enlace al video About The Product](https://youtu.be/5thbEURDW2Q)
+
+---
+
+### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+En este sprint se documentaron un total de 21 endpoints distribuidos en cinco controladores: Users, Profile, Projects, Contracts y el de Autentication . Además se empleó swagger para hacer las pruebas a los endpoints.
+
+Adicionalmente, en este Sprint se implementó el IAM (Identity and Access Management), fortaleciendo la seguridad y garantizando un control efectivo de acceso a los recursos documentados, mejorando así la experiencia y confianza de los usuarios en la plataforma, donde se implementaron 2 controladores..
+
+Link al repositorio de backend:
+
+**AuthenticationController**
+
+El AuthenticationController proporciona los endpoints necesarios para la autenticación de usuarios en la plataforma. Permite a los usuarios registrarse (sign-up) y acceder (sign-in) a la aplicación.
+
+SIGN-IN
+
+Authentication Controller con funcionalidad de Sign-In se utiliza para manejar el inicio de sesión de los usuarios en una aplicación. Este controlador recibe las credenciales proporcionadas por el usuario (como correo electrónico y contraseña), las valida, y si son correctas, genera y devuelve un token de autenticación
+
+SIGN-UP
+
+Authentication Controller con funcionalidad de Sign-Up maneja el registro de nuevos usuarios en la aplicación. Este controlador recibe los datos proporcionados por el usuario (como nombre, correo electrónico, contraseña, etc.), valida la información y crea un nuevo registro de usuario en la base de datos.
+Resumen de los endpoints disponibles para la autenticación de usuarios.
+
+| Tag            | HTTP Verb | Endpoint                         | Summary | Description             | OperationId |
+| -------------- | --------- | -------------------------------- | ------- | ----------------------- | ----------- |
+| Authentication | POST      | `/api/v1/authentication/sign-in` | Sign in | Sign in to the platform | SignIn      |
+| Authentication | POST      | `/api/v1/authentication/sign-up` | Sign up | Sign up to the platform | SignUp      |
+
+**UsersController**
+
+Listado de endpoints disponibles para la gestión y consulta de usuarios.
+
+| Tag   | HTTP Verb | Endpoint             | Summary        | Description    | OperationId |
+| ----- | --------- | -------------------- | -------------- | -------------- | ----------- |
+| Users | GET       | `/api/v1/users/{id}` | Get user by id | Get user by id | GetUserById |
+| Users | GET       | `/api/v1/users`      | Get all users  | Get all users  | GetAllUsers |
+
+**ProfilesController**
+
+A continuación, se muestra la documentación de los servicios disponibles en el controlador de perfiles de usuario.
+
+| Tag      | HTTP Verb | Endpoint                       | Summary                    | Description                                                  | OperationId          |
+| -------- | --------- | ------------------------------ | -------------------------- | ------------------------------------------------------------ | -------------------- |
+| Profiles | GET       | `/api/v1/profiles/{profileId}` | Get profile by id          | Retrieves a user profile by its unique identifier            | GetProfileById       |
+| Profiles | GET       | `/api/v1/profiles/search`      | Search profiles by name    | Returns a list of profiles whose names match the given query | SearchProfilesByName |
+| Profiles | GET       | `/api/v1/profiles/by-user`     | Get profile by user id     | Retrieves a profile associated with a specific user ID       | —                    |
+| Profiles | GET       | `/api/v1/profiles`             | Get all profiles           | Retrieves all registered profiles                            | GetAllProfiles       |
+| Profiles | POST      | `/api/v1/profiles`             | Create a new profile       | Registers a new profile in the system                        | CreateProfile        |
+| Profiles | PUT       | `/api/v1/profiles/{profileId}` | Update an existing profile | Updates profile information by its ID                        | UpdateProfile        |
+
+
+**ProjectsController**
+
+A continuación, se detallan los endpoints disponibles en el controlador de proyectos, incluyendo sus métodos HTTP, rutas, descripciones y operation IDs.
+
+| Tag      | HTTP Verb | Endpoint                                  | Summary                        | Description                                                 | OperationId            |
+| -------- | --------- | ----------------------------------------- | ------------------------------ | ----------------------------------------------------------- | ---------------------- |
+| Projects | GET       | `/api/v1/projects/{projectId}`            | Get project by id              | Get project by id                                           | GetProjectById         |
+| Projects | GET       | `/api/v1/projects/by-profile/{profileId}` | Get all projects by profile id | Gets all the projects associated with a specific profile id | GetProjectsByProfileId |
+| Projects | POST      | `/api/v1/projects`                        | Create a new project           | Create a new project                                        | CreateProject          |
+| Projects | PUT       | `/api/v1/projects/{projectId}`            | Update an existing project     | Update an existing project                                  | UpdateProject          |
+| Projects | DELETE    | `/api/v1/projects/{projectId}`            | Delete a project               | Delete a project                                            | DeleteProject          |
+| Projects | GET       | `/api/v1/projects`                        | Get all projects               | Get all projects                                            | GetAllProjects         |
+
+
+**ContractsController**
+
+A continuación, se detallan los endpoints disponibles en el controlador de contratos, incluyendo sus métodos HTTP, rutas, descripciones y operation IDs.
+
+
+| Tag       | HTTP Verb | Endpoint                                | Summary                        | Description                                                 | OperationId            |
+| --------- | --------- | --------------------------------------- | -------------------------------- | ----------------------------------------------------------- | ---------------------- |
+| Contracts | GET       | `/api/v1/contracts/{contractId}`        | Get contract by id              | Get a contract by the id it has                             | GetContractById        |
+| Contracts | GET       | `/api/v1/contracts/user/{userId}`       | Get contracts by user id         | Get the contracts a user has                                | GetContractsByUserId   |
+| Contracts | POST      | `/api/v1/contracts`                     | Create a new contract            | Create a new contract in the system (User only)             | CreateContract         |
+| Contracts | PUT       | `/api/v1/contracts/{contractId}`        | Update a contract                | Update a contract in the system (User and Profile)          | UpdateContract         |
+| Contracts | DELETE    | `/api/v1/contracts/{contractId}`        | Delete a contract                | Delete a contract in the system (User and Profile)          | DeleteContractById     |
+| Contracts | GET       | `/api/v1/contracts`                     | Get all contracts               | Retrieve all contracts in the system                        | GetAllContracts        |
+
+### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+
+En este Sprint, hemos llevado a cabo diversas actividades relacionadas con el despliegue (Deployment) de nuestra plataforma, asegurando que todos los componentes estén correctamente configurados y listos para su uso.
+
+Las actividades de despliegue abarcan múltiples productos, incluyendo la Landing Page, aplicaciones web y servicios web. A continuación, se detallan los pasos realizados, junto con capturas de pantalla que ilustran el proceso y brindan una visión clara de cada etapa.
+Además, actualmente el frontend, el backend y la base de datos ya están desplegados y correctamente conectados entre sí, lo que permite una comunicación fluida entre todos los componentes del sistema.
+
+**Landing Page**
+Para la Landing Page se ha implementado utilizando GitHub Pages, lo que facilita su acceso y gestión.
+
+
+![Ejemplo de Imagen](assets/tp/las.png)
+
+En la seccion pages, dentro de la configuracion del repositorio, escoger la rama deseada y seleccionar save para hacer el deploy de esta.
+
+![Ejemplo de Imagen](assets/tp/las2.png)
+
+Pasados unos minutos se generará el link para acceder a la landing page.
+
+![Ejemplo de Imagen](assets/tp/las2.png)
+
+Adicionalmente Podemos seleccionar use your GitHub pages website en las opciones de about del repositorio, para poder acceder de una manera mas rapida al link.
+
+Finalmente nos dará un link directo a la Landing page desplegada: https://asi0730-final-project-2510-g4.github.io/LandingPage/
+
+**FrontEnd**
+
+Creación del Proyecto en Railway
+Se ingresó a https://railway.app y se creó un nuevo proyecto seleccionando la opción "Deploy from GitHub Repo".
+
+![Ejemplo de Imagen](assets/TB2/r1.png)
+
+Configuración del Deploy
+
+- Se conectó la cuenta de GitHub con Railway.
+
+- Se seleccionó el repositorio correspondiente al frontend.
+
+- Railway detectó automáticamente el tipo de proyecto (por ejemplo, Vite, React, etc.).
+
+- Se configuraron los comandos de build y start si era necesario:
+
+  - build: por ejemplo, npm run build
+
+  - start: por ejemplo, npm run preview o serve dist
+
+![Ejemplo de Imagen](assets/TB2/r2.png)
+
+Deploy Automático
+
+Una vez completada la configuración, Railway comenzó el proceso de build y despliegue automáticamente.
+
+![Ejemplo de Imagen](assets/TB2/r3.png)
+
+Acceso al Sitio
+
+Railway generó un dominio público para acceder al frontend desplegado.
+
+LINK FRONTEND DESPLEGADO: https://frontend-web-applications-production.up.railway.app/login
+
+**BackEnd**
+
+1. Nuevo Proyecto en Railway
+
+- Desde la plataforma Railway se seleccionó "New Project" → "Deploy from GitHub Repo".
+
+- Se escogió el repositorio del backend.
+
+![Ejemplo de Imagen](assets/TB2/r1.png)
+
+2. Despliegue de la Base de Datos
+- Desde el mismo proyecto en Railway:
+
+- Se selecciona la opción "Add Plugin".
+
+- Se escoge el tipo de base de datos necesario (por ejemplo, PostgreSQL, MySQL, MongoDB, etc.).
+
+Railway despliega automáticamente la base de datos y genera las variables de entorno necesarias (como DATABASE_URL).
+
+![Ejemplo de Imagen](assets/TB2/r4.png)
+
+3. Configuración de Variables de Entorno (Environment Variables)
+- En el apartado “Variables”, se añadieron las claves necesarias para el funcionamiento del backend (por ejemplo, claves de base de datos, APIs, JWT secrets, etc.).
+
+![Ejemplo de Imagen](assets/TB2/r5.png)
+
+4. Comandos de Build y Start
+
+Railway detectó automáticamente si se necesitaba compilar el proyecto y cómo levantarlo. En caso contrario, se especificaron los comandos manualmente
+
+![Ejemplo de Imagen](assets/TB2/r6.png)
+
+Despliegue Automático y URL Pública
+Railway construyó el backend y lo puso en línea, entregando una URL pública.
+
+LINK BACKEND DESPLEGADO: https://creatilink-api-production-4e2f.up.railway.app/swagger/index.html
+
+
+### 5.2.4.8 Team Collaboration Insights during Sprint
+
+Durante este sprint, se destacó la colaboración entre los equipos de FrontEnd y BackEnd, lo que permitió resolver problemas de integración de manera eficiente. Además, se realizaron reuniones diarias para garantizar el cumplimiento de los objetivos establecidos.
+
+
+En esta sección, se presenta un análisis detallado de la colaboración del equipo durante el Sprint. Durante este sprint, las actividades de implementación se organizaron siguiendo una metodología ágil, garantizando una colaboración fluida entre los miembros del equipo. Se exponen capturas de los analíticos de colaboración y de los commits realizados en GitHub, lo que permite visualizar la contribución individual de cada miembro del equipo.
+
+<br>**Vista de commits: Landing page:**
+
+![alt text](assets/CO4.jpg)
+
+![alt text](assets/CO5.jpg)
+
+
+<br>**FrontEnd:**
+
+![alt text](assets/tp/f1.png)
+
+![alt text](assets/tp/f2.png)
+
+![alt text](assets/tp/f3.png)
+
+
+
+<br>**BackEnd:**
+
+![alt text](assets/tp/f1.png)
+
+![alt text](assets/tp/f2.png)
+
+![alt text](assets/tp/f3.png)
 
 
 
@@ -3666,6 +3984,7 @@ En esta sección se presentan las evaluaciones de usabilidad de la landing page 
 
 ##  5.4. Video About-the-Product
 
+[Link de acceso](https://youtu.be/5thbEURDW2Q?si=TnEK9HHJ9x8oGjQZ)
 
 
 # Conclusiones
