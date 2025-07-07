@@ -3363,34 +3363,63 @@ Se registran las contribuciones enfocadas en la lógica del servidor.
 En este apartado se muestra una recopilación visual que evidencia el funcionamiento de la aplicación al cierre del Sprint 4. A través de capturas de pantalla y un video demostrativo, se exponen los avances alcanzados y se ilustra cómo las nuevas funcionalidades fueron implementadas y puestas en marcha dentro del producto.
 
 **Landing Page**
-
-![alt text](assets/TB4/l1.png)
-![alt text](assets/TB4/l2.png)
-![alt text](assets/TB4/l3.png)
-
+![ld1.png](assets%2Ftf%2Fld1.png)
+![ld2.png](assets%2Ftf%2Fld2.png)
+![ld3.png](assets%2Ftf%2Fld3.png)
 **FrontEnd**
+En este apartado mostraremos el despliegue de la ultima version web application de CreatiLink
 
 - LOGIN
 
-![alt text](assets/TB4/f1.png)
+![alt text](assets/TB2/f1.png)
 
 - REGISTER
 
-![alt text](assets/TB4/f2.png)
+![alt text](assets/TB2/f2.png)
 
-- PROJECT MANAGEMENT
+- Home
 
-![alt text](assets/TB4/f3.png)
+![alt text](assets/TB2/f3.png)
+![alt text](assets/TB2/f4.png)
+
+- PROFILE
+
+![alt text](assets/TB2/f5.png)
+![alt text](assets/TB2/f6.png)
+
+- PORTFOLIO
+
+![alt text](assets/TB2/f7.png)
+![alt text](assets/TB2/f8.png)
+![alt text](assets/TB2/f12.png)
+![alt text](assets/TB2/f9.png)
+![alt text](assets/TB2/f10.png)
+![alt text](assets/TB2/f11.png)
 
 **BackEnd**
 
-- PROJECT ENDPOINTS
+![](assets/TB3/back1.png)
+![](assets/TB3/back2.png)
 
-![getProjects.png](assets%2FTB4%2FgetProjects.png)
+- PROJECT
 
-- PROFILE ENDPOINTS
+![getProjects.png](assets%2FTB3%2FgetProjects.png)
+![postProject.png](assets%2FTB3%2FpostProject.png)
 
-![getProfile.png](assets%2FTB4%2FgetProfile.png)
+- CONTRACT
+
+![getContracts.png](assets%2FTB3%2FgetContracts.png)
+![postContract.png](assets%2FTB3%2FpostContract.png)
+![contractendpoint.png](assets%2Ftf%2Fcontractendpoint.png)
+
+- PROFILE
+
+![getProfile.png](assets%2FTB3%2FgetProfile.png)
+![postProfile.png](assets%2FTB3%2FpostProfile.png)
+
+- USER
+
+![postUser.png](assets%2FTB3%2FpostUser.png)
 
 Video About-the-Product:
 
@@ -3606,7 +3635,7 @@ En esta sección, se presenta un análisis detallado de la colaboración del equ
 
 ![alt text](assets/tp/f3.png)
 
-
+![otherRep.png](assets%2Ftf%2FotherRep.png)
 
 ### 5.3 Validation Interviews
 
@@ -3989,10 +4018,7 @@ En esta sección se presentan las evaluaciones de usabilidad de la landing page 
 
 # Conclusiones
 
-A lo largo del desarrollo de CreatiLink aplicamos los principios de Domain-Driven Design para organizar la plataforma en cinco contextos acotados —Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería— lo que nos permitió modelar cada área de negocio de manera independiente y con un lenguaje común para todo el equipo. Para comunicar esta estructura utilizamos el Modelo C4, desplegando primero un Diagrama de Contexto que sitúa a CreatiLink en relación con sus usuarios (Cliente y Diseñador) y los sistemas externos de pagos, notificaciones y portfolios; luego un Diagrama de Contenedores que muestra la descomposición en Landing Page y SPA en Vue.js, API en ASP .NET Core y base de datos PostgreSQL; y finalmente un Diagrama de Componentes que detalla, dentro del backend, los módulos Controller – Service – Repository de cada contexto.
-TB2:
-El desarrollo de esta aplicación web en Vue.js, enfocada en portafolios para diseñadores, demostró la eficacia del framework para crear interfaces dinámicas, reactivas y centradas en la experiencia de usuario. Gracias a su arquitectura modular, diseño adaptable y optimizaciones la gestión de estado con PrimeVue, se logró una plataforma intuitiva, visualmente atractiva y de alto rendimiento. La integración con APIs  aseguró un flujo seguro y escalable, mientras que el enfoque en usabilidad y estética cumplió con las necesidades de los creativos. Vue.js se confirmó como una herramienta ideal para proyectos que requieren rapidez, modularidad y calidad visual, dejando abierta la posibilidad de incorporar IA o funciones colaborativas en futuras iteraciones.
-
+A lo largo del desarrollo de CreatiLink, se implementaron los principios de Domain-Driven Design para estructurar la plataforma en cinco contextos acotados: Gestión de Usuarios, Pagos, Calificaciones, Portfolios y Mensajería. Esta metodología permitió modelar cada área de negocio de manera independiente, manteniendo un lenguaje común que facilitó la colaboración entre los miembros del equipo. Para representar esta arquitectura, se utilizó el Modelo C4, comenzando con un Diagrama de Contexto que posiciona a CreatiLink en relación con sus usuarios (Clientes y Diseñadores) y los sistemas externos de pagos, notificaciones y portfolios. Posteriormente, se desarrolló un Diagrama de Contenedores que detalla la descomposición en una Landing Page, una SPA en Vue.js, una API en ASP.NET Core y una base de datos PostgreSQL. Finalmente, se elaboró un Diagrama de Componentes que describe los módulos Controller, Service y Repository dentro del backend.  El desarrollo de la aplicación web en Vue.js, orientada a portafolios para diseñadores, destacó por la capacidad del framework para crear interfaces dinámicas, reactivas y centradas en la experiencia del usuario. Su arquitectura modular, diseño adaptable y la gestión de estado optimizada con PrimeVue permitieron construir una plataforma intuitiva, visualmente atractiva y de alto rendimiento. La integración con APIs garantizó un flujo seguro y escalable, mientras que el enfoque en usabilidad y estética cumplió con las expectativas de los usuarios creativos. Vue.js demostró ser una herramienta ideal para proyectos que requieren rapidez, modularidad y calidad visual, dejando abierta la posibilidad de incorporar inteligencia artificial o funcionalidades colaborativas en futuras iteraciones.
 # Anexos
 
 - **Link Figma:** https://www.figma.com/design/GFWpz5Az7LqwCFOvAw8PQY/Untitled?node-id=1-963&t=A6Pvz688DuxJAsL7-1
