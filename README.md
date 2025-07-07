@@ -59,7 +59,7 @@
 
 **URL FRONTEND DESPLEGADO**: https://frontend-web-applications-production.up.railway.app/
 
-**URL FRONTEND DESPLEGADO**: https://creatilink-api-production-4e2f.up.railway.app/swagger/index.html
+**URL BACKEND DESPLEGADO**: https://creatilink-api-production-d54e.up.railway.app/swagger/index.html
 
 <br>**Vista de commits: Landing page:**
 
