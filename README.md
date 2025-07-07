@@ -300,7 +300,7 @@ Del lado de negocio, este proyecto es autosustentable, ya que está diseñado pa
 
 - Elvia Marcela Rodríguez Villa - U20231C784
 
-| <p align="center"><img width="780" height="200" src="assets/tb1images/elvia-imagen.jpg"></p> | Soy una estudiante apasionada por la tecnología, los datos y el aprendizaje automático. Actualmente formo parte del área de modelos de riesgo en un banco, donde aplico técnicas de machine learning y análisis de datos para apoyar la toma de decisiones. Tengo experiencia con herramientas y lenguajes como Python, SQL, Spark, AWS, Git, MongoDB, HTML/CSS, JavaScript, C/C++, y Figma. Además, cuento con experiencia previa en docencia de inglés, desarrollo de contenido educativo y procesos de selección. |
+| <p align="center"><img width="980" height="200" src="assets/tb1images/elvia-profile.jpg"></p> | Soy una estudiante apasionada por la tecnología, los datos y el aprendizaje automático. Actualmente formo parte del área de modelos de riesgo en un banco, donde aplico técnicas de machine learning y análisis de datos para apoyar la toma de decisiones. Tengo experiencia con herramientas y lenguajes como Python, SQL, Spark, AWS, Git, MongoDB, HTML/CSS, JavaScript, C/C++, y Figma. Además, cuento con experiencia previa en docencia de inglés, desarrollo de contenido educativo y procesos de selección. |
 |----------------------------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 1.2. Solution Profile
@@ -4029,3 +4029,6 @@ A lo largo del desarrollo de CreatiLink, se implementaron los principios de Doma
 - **Link del frontend desplegado:** https://frontend-nine-ivory-81.vercel.app/
 
 - **link del video de exposicion:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a962_upc_edu_pe/EZhEozdfmNdMv_G_ppj5jkkBKH0WgLIgQq1PIa-jl72cSw?e=xAAQcb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+- **link del video About The Team:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202016154_upc_edu_pe/EbkYaoEu9flLhWc2ZygmjnABEropsRIDLCnEGgihTSsgeA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8J0D5b
+
